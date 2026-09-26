@@ -1,6 +1,34 @@
 {
-  "catalogVersion": 9,
+  "catalogVersion": 10,
   "patches": [
+    {
+      "id": "once-human",
+      "gameName": "Once Human",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Once Human oyununun tüm metinleri son güncellemesi de dahil Türkçe çevrilmiştir. NOT! Yamayı kurduktan sonra bu Memofast.exe kapatmayın yoksa yama çalışmaz.",
+      "updatedAt": "2026-09-27",
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2139460
+      },
+      "package": {
+        "url": null,
+        "size": 13738185,
+        "sha256": "8036ce98f5312a8bef34789b15d75a848373d68c7cdba6123f657bde90d297bb"
+      },
+      "installer": null
+    },
     {
       "id": "nte-neverness-to-everness",
       "gameName": "NTE: Neverness to Everness",
