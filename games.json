@@ -1,12 +1,12 @@
 {
-  "catalogVersion": 7,
+  "catalogVersion": 8,
   "patches": [
     {
       "id": "wuthering-waves",
       "gameName": "Wuthering Waves",
       "title": "Türkçe Yama",
-      "version": "1.0",
-      "tier": "free",
+      "version": "1.2",
+      "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -23,7 +23,7 @@
         "steamAppId": 3513350
       },
       "package": {
-        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/wuthering-waves-v1.0/wuthering-waves-1.0.zip",
+        "url": null,
         "size": 13523723,
         "sha256": "30ad5da64260176c03bc3c94442e39731a22985c4e21dbecdcd9875bc2313c57"
       },
