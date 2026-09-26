@@ -1,6 +1,34 @@
 {
-  "catalogVersion": 8,
+  "catalogVersion": 9,
   "patches": [
+    {
+      "id": "nte-neverness-to-everness",
+      "gameName": "NTE: Neverness to Everness",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "NTE: Neverness to Everness oyunu için son güncellemede dahil tamamı Türkçeye çevrilmiştir.",
+      "updatedAt": "2026-09-27",
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4508340
+      },
+      "package": {
+        "url": null,
+        "size": 10885435,
+        "sha256": "a0769f9a49462cfa700eb55c14fe0a9af58c64f3faa39c4407426f9c11765a52"
+      },
+      "installer": null
+    },
     {
       "id": "wuthering-waves",
       "gameName": "Wuthering Waves",
