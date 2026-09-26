@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 6,
+  "catalogVersion": 7,
   "patches": [
     {
       "id": "wuthering-waves",
@@ -68,8 +68,8 @@
       "id": "where-winds-meet",
       "gameName": "Where Winds Meet",
       "title": "Türkçe Yama",
-      "version": "1.0",
-      "tier": "free",
+      "version": "1.2",
+      "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -78,14 +78,15 @@
       "changelog": [],
       "info": {
         "Kapsam": "ana menü, görevler",
-        "Çeviren": "MemoFast ekibi"
+        "Çeviren": "MemoFast ekibi",
+        "Kurulum": "Dosya ekleme / değiştirme"
       },
       "detect": {
         "mustExist": [],
         "steamAppId": 3564740
       },
       "package": {
-        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/where-winds-meet-v1.0/where-winds-meet-1.0.zip",
+        "url": null,
         "size": 376537874,
         "sha256": "ec6c37612a224d9958bf1cd934bd55586e483ff8fe9c1e11bf3c7ad2d3e1f463"
       },
