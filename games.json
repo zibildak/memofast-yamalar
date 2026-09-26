@@ -1,11 +1,11 @@
 {
-  "catalogVersion": 3,
+  "catalogVersion": 4,
   "patches": [
     {
       "id": "aniimo",
       "gameName": "Aniimo",
       "title": "Türkçe Yama",
-      "version": "1.0",
+      "version": "1.2",
       "tier": "free",
       "cover": null,
       "hero": null,
@@ -15,16 +15,25 @@
       "changelog": [],
       "info": {
         "Kapsam": "tümü",
-        "Çeviren": "MemoFast ekibi"
+        "Çeviren": "MemoFast ekibi",
+        "Kurulum": "Oyun dosyasına işlenir"
       },
       "detect": {
         "mustExist": [],
         "steamAppId": 4126040
       },
       "package": {
-        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-v1.0/aniimo-1.0.zip",
-        "size": 3020236,
-        "sha256": "b45f82ae1f4bf326a1d28da3b0c13e702b817c6b8c61f5e94df6bff846deddc5"
+        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-v1.2/aniimo-1.2.zip",
+        "size": 3005108,
+        "sha256": "ae10c67ce22d81f69ea991dc68012940fb641e519f71c89d02a2657f14c71e70"
+      },
+      "installer": {
+        "script": "kur.ps1",
+        "installArgs": "-Mode kur -Oyun \"{oyun}\"",
+        "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
+        "env": {
+          "ANIIMO_SESSIZ": "1"
+        }
       }
     },
     {
@@ -51,7 +60,8 @@
         "url": "https://github.com/zibildak/memofast-yamalar/releases/download/where-winds-meet-v1.0/where-winds-meet-1.0.zip",
         "size": 376537874,
         "sha256": "ec6c37612a224d9958bf1cd934bd55586e483ff8fe9c1e11bf3c7ad2d3e1f463"
-      }
+      },
+      "installer": null
     },
     {
       "id": "demo-oyun",
@@ -88,7 +98,8 @@
         "url": "https://github.com/zibildak/memofast-yamalar/releases/download/demo-oyun-v1.0/demo-oyun-1.0.zip",
         "size": 475,
         "sha256": "b9589155b5f180bf84c3df6e8864fb4049d5c5c3c4ed02dadd338bc4aebcd86c"
-      }
+      },
+      "installer": null
     }
   ]
 }
