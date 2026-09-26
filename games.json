@@ -1,6 +1,32 @@
 {
-  "catalogVersion": 1,
+  "catalogVersion": 2,
   "patches": [
+    {
+      "id": "where-winds-meet",
+      "gameName": "Where Winds Meet",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Where Winds Meet son gelen güncelleme dahil tüm oyun metni türkçeye çevrildi",
+      "updatedAt": "2026-09-26",
+      "changelog": [],
+      "info": {
+        "Kapsam": "ana menü, görevler",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3564740
+      },
+      "package": {
+        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/where-winds-meet-v1.0/where-winds-meet-1.0.zip",
+        "size": 376537874,
+        "sha256": "ec6c37612a224d9958bf1cd934bd55586e483ff8fe9c1e11bf3c7ad2d3e1f463"
+      }
+    },
     {
       "id": "demo-oyun",
       "gameName": "Demo Oyun",
