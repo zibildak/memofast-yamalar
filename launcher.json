@@ -1,0 +1,12 @@
+{
+  "version": "1.0.1",
+  "notes": [
+    "Launcher artık kendini otomatik güncelliyor",
+    "Açılışta roketli bağlanma ekranı"
+  ],
+  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFastLauncher-1.0.1.exe",
+  "sha256": "6b51dbf53ccada921833eb6026bc8718549ba7787e5674276f5b040b8d020637",
+  "size": 65509346,
+  "mandatory": false,
+  "publishedAt": "2026-09-26"
+}
