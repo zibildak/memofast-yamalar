@@ -1,6 +1,32 @@
 {
-  "catalogVersion": 2,
+  "catalogVersion": 3,
   "patches": [
+    {
+      "id": "aniimo",
+      "gameName": "Aniimo",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Aniimo oyununa ait tüm metinler Türkçe olarak çevrildi, makina çevirisine ait hatalar el ile düzeltildi, Türkçe karakter sorunu giderildi, oyuna güncelleme gelirse yama bozulur tekrar kurarak Türkçe oynayabilirsiniz, büyük güncellemelerde yamanın çıkmasını bekleyin.",
+      "updatedAt": "2026-09-26",
+      "changelog": [],
+      "info": {
+        "Kapsam": "tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4126040
+      },
+      "package": {
+        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-v1.0/aniimo-1.0.zip",
+        "size": 3020236,
+        "sha256": "b45f82ae1f4bf326a1d28da3b0c13e702b817c6b8c61f5e94df6bff846deddc5"
+      }
+    },
     {
       "id": "where-winds-meet",
       "gameName": "Where Winds Meet",
