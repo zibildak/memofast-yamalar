@@ -1,0 +1,42 @@
+{
+  "catalogVersion": 1,
+  "patches": [
+    {
+      "id": "demo-oyun",
+      "gameName": "Demo Oyun",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": "patches/demo-oyun/cover-d7a92ceb99.jpg",
+      "hero": "patches/demo-oyun/hero-8d85bdf214.jpg",
+      "color": "#26352C",
+      "description": "Launcher'ı denemek için örnek yama. Masaüstünde 'DemoOyun' adlı bir klasör açıp içine boş bir 'DemoOyun.exe' dosyası koy, sonra bu yamayı o klasöre kur.",
+      "updatedAt": "2026-09-26",
+      "changelog": [
+        {
+          "version": "1.0",
+          "date": "2026-09-26",
+          "notes": [
+            "İlk sürüm",
+            "Menü metinleri çevrildi"
+          ]
+        }
+      ],
+      "info": {
+        "Kapsam": "Menü, diyalog",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [
+          "DemoOyun.exe"
+        ],
+        "steamAppId": null
+      },
+      "package": {
+        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/demo-oyun-v1.0/demo-oyun-1.0.zip",
+        "size": 475,
+        "sha256": "b9589155b5f180bf84c3df6e8864fb4049d5c5c3c4ed02dadd338bc4aebcd86c"
+      }
+    }
+  ]
+}
