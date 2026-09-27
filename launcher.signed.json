@@ -1,0 +1,4 @@
+{
+  "data": "{\r\n  \"version\": \"1.0.2\",\r\n  \"notes\": [\r\n    \"Pro yamalar: üye koduyla açılır\",\r\n    \"Yama istekleri: istediğin oyunu Steam'den seç, oy ver\",\r\n    \"Sistem tepsisi ve yeni yama bildirimleri\",\r\n    \"Aniimo gibi oyun dosyasına işlenen yamalar desteklendi\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.2.exe\",\r\n  \"sha256\": \"30ce47f4355e560a4fcc600e8466cc83dedc86ba466e7ad49becaf913d6baea9\",\r\n  \"size\": 76019790,\r\n  \"mandatory\": false,\r\n  \"publishedAt\": \"2026-09-27\"\r\n}",
+  "sig": "6ZlTbnEsJdHUN3pmIO56Vi0R+xc3vXUSj2zMcI0BlvJEUJhi8v+WeNcvxJ4AN0mAunDCXHEb99CL7HSiT8hfwA=="
+}
