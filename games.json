@@ -117,7 +117,8 @@
         "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
         "env": {
           "ANIIMO_SESSIZ": "1"
-        }
+        },
+        "watchFiles": []
       }
     },
     {
