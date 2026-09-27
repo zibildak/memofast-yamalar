@@ -1,6 +1,42 @@
 {
-  "catalogVersion": 10,
+  "catalogVersion": 11,
   "patches": [
+    {
+      "id": "throne-and-liberty",
+      "gameName": "Throne and Liberty",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Throne and Liberty oyunu son güncellemede dahil tüm çevirisi sizlerle. Keyifli oyunlar dilerim\r\nMemofast ekibi",
+      "warning": "",
+      "updatedAt": "2026-09-28",
+      "changelog": [
+        {
+          "version": "1.0",
+          "date": "2026-09-28",
+          "notes": [
+            "Tümü"
+          ]
+        }
+      ],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2429640
+      },
+      "package": {
+        "url": null,
+        "size": 28247184,
+        "sha256": "b910e1c06406aae2e3e546e8e9191ba76951610b9bb99813b126b4093428e7ac"
+      },
+      "installer": null
+    },
     {
       "id": "once-human",
       "gameName": "Once Human",
@@ -11,6 +47,7 @@
       "hero": null,
       "color": "#26352C",
       "description": "Once Human oyununun tüm metinleri son güncellemesi de dahil Türkçe çevrilmiştir. NOT! Yamayı kurduktan sonra bu Memofast.exe kapatmayın yoksa yama çalışmaz.",
+      "warning": "",
       "updatedAt": "2026-09-27",
       "changelog": [],
       "info": {
@@ -39,6 +76,7 @@
       "hero": null,
       "color": "#26352C",
       "description": "NTE: Neverness to Everness oyunu için son güncellemede dahil tamamı Türkçeye çevrilmiştir.",
+      "warning": "",
       "updatedAt": "2026-09-27",
       "changelog": [],
       "info": {
@@ -67,6 +105,7 @@
       "hero": null,
       "color": "#26352C",
       "description": "Wuthering Waves oyunu için son sürüm türkçe yama",
+      "warning": "",
       "updatedAt": "2026-09-26",
       "changelog": [],
       "info": {
@@ -95,6 +134,7 @@
       "hero": null,
       "color": "#26352C",
       "description": "Aniimo oyununa ait tüm metinler Türkçe olarak çevrildi, makina çevirisine ait hatalar el ile düzeltildi, Türkçe karakter sorunu giderildi, oyuna güncelleme gelirse yama bozulur tekrar kurarak Türkçe oynayabilirsiniz, büyük güncellemelerde yamanın çıkmasını bekleyin.",
+      "warning": "",
       "updatedAt": "2026-09-26",
       "changelog": [],
       "info": {
@@ -131,6 +171,7 @@
       "hero": null,
       "color": "#26352C",
       "description": "Where Winds Meet son gelen güncelleme dahil tüm oyun metni türkçeye çevrildi",
+      "warning": "",
       "updatedAt": "2026-09-26",
       "changelog": [],
       "info": {
