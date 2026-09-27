@@ -1,12 +1,14 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "notes": [
-    "Launcher artık kendini otomatik güncelliyor",
-    "Açılışta roketli bağlanma ekranı"
+    "Pro yamalar: üye koduyla açılır",
+    "Yama istekleri: istediğin oyunu Steam'den seç, oy ver",
+    "Sistem tepsisi ve yeni yama bildirimleri",
+    "Aniimo gibi oyun dosyasına işlenen yamalar desteklendi"
   ],
-  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFastLauncher-1.0.1.exe",
-  "sha256": "6b51dbf53ccada921833eb6026bc8718549ba7787e5674276f5b040b8d020637",
-  "size": 65509346,
+  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.2.exe",
+  "sha256": "30ce47f4355e560a4fcc600e8466cc83dedc86ba466e7ad49becaf913d6baea9",
+  "size": 76019790,
   "mandatory": false,
-  "publishedAt": "2026-09-26"
+  "publishedAt": "2026-09-27"
 }
