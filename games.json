@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 11,
+  "catalogVersion": 12,
   "patches": [
     {
       "id": "throne-and-liberty",
@@ -165,17 +165,25 @@
       "id": "where-winds-meet",
       "gameName": "Where Winds Meet",
       "title": "Türkçe Yama",
-      "version": "1.2",
+      "version": "1.3",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
       "description": "Where Winds Meet son gelen güncelleme dahil tüm oyun metni türkçeye çevrildi",
       "warning": "",
-      "updatedAt": "2026-09-26",
-      "changelog": [],
+      "updatedAt": "2026-09-28",
+      "changelog": [
+        {
+          "version": "1.3",
+          "date": "2026-09-28",
+          "notes": [
+            "Oyunun belirli yerlerinde yer alan yyyy yazım ve çeviri hataları düzeltildi"
+          ]
+        }
+      ],
       "info": {
-        "Kapsam": "ana menü, görevler",
+        "Kapsam": "ana menü, görevler, yyyy hatası",
         "Çeviren": "MemoFast ekibi",
         "Kurulum": "Dosya ekleme / değiştirme"
       },
@@ -185,8 +193,8 @@
       },
       "package": {
         "url": null,
-        "size": 376537874,
-        "sha256": "ec6c37612a224d9958bf1cd934bd55586e483ff8fe9c1e11bf3c7ad2d3e1f463"
+        "size": 331735268,
+        "sha256": "6355bd313f3639ab22595a001acb0c2aee2b6c12694ad1d0258822129bdd887b"
       },
       "installer": null
     }
