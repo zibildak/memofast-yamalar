@@ -1,6 +1,35 @@
 {
-  "catalogVersion": 18,
+  "catalogVersion": 19,
   "patches": [
+    {
+      "id": "aion-2",
+      "gameName": "Aion 2",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "5 Eki 2026 de çıkacak olan Aion 2 Oyunu için Türkçe çeviri oyun çıkar çıkmaz sizlerle",
+      "warning": "",
+      "updatedAt": "2026-09-28",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3393110
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": ""
+      },
+      "installer": null
+    },
     {
       "id": "elden-ring-nightreign",
       "gameName": "ELDEN RING NIGHTREIGN",
@@ -13,6 +42,7 @@
       "description": "ELDEN RING NIGHTREIGN tamamı Türkçe olarak eklendi keyifli oyunlar dilerim.",
       "warning": "Yüzde 5 ihtimal olsa da, Yama sonrası olası bir banlanma sorumluluğu kullanıcının kendisine aittir.",
       "updatedAt": "2026-09-28",
+      "comingSoon": false,
       "changelog": [
         {
           "version": "1.0",
@@ -49,6 +79,7 @@
       "description": "Throne and Liberty oyunu son güncellemede dahil tüm çevirisi sizlerle. Keyifli oyunlar dilerim\r\nMemofast ekibi",
       "warning": "",
       "updatedAt": "2026-09-28",
+      "comingSoon": false,
       "changelog": [
         {
           "version": "1.0",
@@ -85,6 +116,7 @@
       "description": "Once Human oyununun tüm metinleri son güncellemesi de dahil Türkçe çevrilmiştir. NOT! Yamayı kurduktan sonra bu Memofast.exe kapatmayın yoksa yama çalışmaz.",
       "warning": "",
       "updatedAt": "2026-09-27",
+      "comingSoon": false,
       "changelog": [],
       "info": {
         "Kurulum": "Dosya ekleme / değiştirme",
@@ -114,6 +146,7 @@
       "description": "NTE: Neverness to Everness oyunu için son güncellemede dahil tamamı Türkçeye çevrilmiştir.",
       "warning": "",
       "updatedAt": "2026-09-27",
+      "comingSoon": false,
       "changelog": [],
       "info": {
         "Kurulum": "Dosya ekleme / değiştirme",
@@ -143,6 +176,7 @@
       "description": "Wuthering Waves oyunu için son sürüm türkçe yama",
       "warning": "",
       "updatedAt": "2026-09-26",
+      "comingSoon": false,
       "changelog": [],
       "info": {
         "Kurulum": "Dosya ekleme / değiştirme",
@@ -172,6 +206,7 @@
       "description": "Aniimo oyununa ait tüm metinler Türkçe olarak çevrildi, makina çevirisine ait hatalar el ile düzeltildi, Türkçe karakter sorunu giderildi, oyuna güncelleme gelirse yama bozulur tekrar kurarak Türkçe oynayabilirsiniz, büyük güncellemelerde yamanın çıkmasını bekleyin.",
       "warning": "",
       "updatedAt": "2026-09-28",
+      "comingSoon": false,
       "changelog": [
         {
           "version": "1.4",
@@ -229,6 +264,7 @@
       "description": "Where Winds Meet son gelen güncelleme dahil tüm oyun metni türkçeye çevrildi",
       "warning": "",
       "updatedAt": "2026-09-28",
+      "comingSoon": false,
       "changelog": [
         {
           "version": "1.3",
