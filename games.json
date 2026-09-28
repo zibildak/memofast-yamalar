@@ -1,6 +1,35 @@
 {
-  "catalogVersion": 19,
+  "catalogVersion": 20,
   "patches": [
+    {
+      "id": "ananta",
+      "gameName": "Ananta",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Şehir temalı, açık dünya bir RYO olan ANANTA'ya hoş geldiniz. Farklı karakterleri canlandırın; hareketli iş bölgeleri ve gizli ara sokaklardan, sakin çay kasabaları ve cıvıl cıvıl eski sokaklara kadar her yeri keşfedin. Kendi ekibinizi kurarken, birbirinden ilginç karakterlerle yollarınızın kesişmesine tanık olun.",
+      "warning": "",
+      "updatedAt": "2026-09-29",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4814120
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": ""
+      },
+      "installer": null
+    },
     {
       "id": "aion-2",
       "gameName": "Aion 2",
