@@ -1,11 +1,11 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "notes": [
-    "Güncelleme alan oyunların Memofast da görünmeme sorunu düzeltildi"
+    "Küçük düzeltmeler"
   ],
-  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.4.exe",
-  "sha256": "8d07adb36c071aa0534aac767d7605cc9571dad486a23709fe9a00c27e7fb119",
-  "size": 76026416,
+  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.5.exe",
+  "sha256": "0e93de3958ca57ce8ad0b1018482011111bfae163418e2041bf5740fbcd5ad89",
+  "size": 76027033,
   "mandatory": true,
   "publishedAt": "2026-09-28"
 }
