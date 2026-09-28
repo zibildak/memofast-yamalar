@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 17,
+  "catalogVersion": 18,
   "patches": [
     {
       "id": "elden-ring-nightreign",
@@ -164,7 +164,7 @@
       "id": "aniimo",
       "gameName": "Aniimo",
       "title": "Türkçe Yama",
-      "version": "1.3",
+      "version": "1.4",
       "tier": "free",
       "cover": null,
       "hero": null,
@@ -173,6 +173,15 @@
       "warning": "",
       "updatedAt": "2026-09-28",
       "changelog": [
+        {
+          "version": "1.4",
+          "date": "2026-09-28",
+          "notes": [
+            "28,09,2026 güncelleme sonrası eklendi",
+            "yeni satırlar çevrildi",
+            "küçük düzeltmeler yapıldı"
+          ]
+        },
         {
           "version": "1.3",
           "date": "2026-09-28",
@@ -191,9 +200,9 @@
         "steamAppId": 4126040
       },
       "package": {
-        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-v1.3/aniimo-1.3.zip",
-        "size": 3008156,
-        "sha256": "7948d1cec04b21d33972b912f85aa7e3370ba901f013e8ce71d8ecd5b8fc3209"
+        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-v1.4/aniimo-1.4.zip",
+        "size": 3017963,
+        "sha256": "a46cb5488f9a406dc3f1f27a832ca14a88fcdb91384b845294bf34d019cf48a3"
       },
       "installer": {
         "script": "kur.ps1",
