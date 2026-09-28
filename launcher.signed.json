@@ -1,4 +1,4 @@
 {
-  "data": "{\r\n  \"version\": \"1.0.4\",\r\n  \"notes\": [\r\n    \"Güncelleme alan oyunların Memofast da görünmeme sorunu düzeltildi\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.4.exe\",\r\n  \"sha256\": \"8d07adb36c071aa0534aac767d7605cc9571dad486a23709fe9a00c27e7fb119\",\r\n  \"size\": 76026416,\r\n  \"mandatory\": true,\r\n  \"publishedAt\": \"2026-09-28\"\r\n}",
-  "sig": "KgNuRVyCs49lma/8MhEQkQilbsP4cEm+sGurlX6v8uYI8JGU7ZJNDyPRpvQjQ5hmgFe/BMkv/JhU8fcSJNgMsQ=="
+  "data": "{\r\n  \"version\": \"1.0.5\",\r\n  \"notes\": [\r\n    \"Küçük düzeltmeler\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.5.exe\",\r\n  \"sha256\": \"0e93de3958ca57ce8ad0b1018482011111bfae163418e2041bf5740fbcd5ad89\",\r\n  \"size\": 76027033,\r\n  \"mandatory\": true,\r\n  \"publishedAt\": \"2026-09-28\"\r\n}",
+  "sig": "y47Sj+zsn5CV+m6c2dbQzzCX6H3NGfvgmxAYz4W2lVn2xgxmiT4L/WKi9h1A5IRCtlmkxzaRgx7bwHoCZ1v5Xw=="
 }
