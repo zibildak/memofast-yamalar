@@ -1,4 +1,4 @@
 {
-  "data": "{\r\n  \"version\": \"1.0.3\",\r\n  \"notes\": [\r\n    \"Güvenlik: yama listesi ve güncellemeler artık imzalı\",\r\n    \"Online oyun yamalarında kurulumdan önce uyarı\",\r\n    \"Steam aramasında bulunamayan oyunlar düzeltildi\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.3.exe\",\r\n  \"sha256\": \"d274c59aa30161675f574bc0aea4a4f7949bc6393a0ee9647e0e50a81ffb0505\",\r\n  \"size\": 76022869,\r\n  \"mandatory\": false,\r\n  \"publishedAt\": \"2026-09-28\"\r\n}",
-  "sig": "t4rC6MuZX1ZujcHbAIpk/my/RSKufzwoX24LKFmy8qtDlFcJOd6LRaD7icA3q+WzvY/NU2vzF0EXhDzrbG5dtw=="
+  "data": "{\r\n  \"version\": \"1.0.4\",\r\n  \"notes\": [\r\n    \"Güncelleme alan oyunların Memofast da görünmeme sorunu düzeltildi\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.4.exe\",\r\n  \"sha256\": \"8d07adb36c071aa0534aac767d7605cc9571dad486a23709fe9a00c27e7fb119\",\r\n  \"size\": 76026416,\r\n  \"mandatory\": true,\r\n  \"publishedAt\": \"2026-09-28\"\r\n}",
+  "sig": "KgNuRVyCs49lma/8MhEQkQilbsP4cEm+sGurlX6v8uYI8JGU7ZJNDyPRpvQjQ5hmgFe/BMkv/JhU8fcSJNgMsQ=="
 }
