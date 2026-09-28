@@ -1,11 +1,11 @@
 {
-  "catalogVersion": 14,
+  "catalogVersion": 15,
   "patches": [
     {
       "id": "elden-ring-nightreign",
       "gameName": "ELDEN RING NIGHTREIGN",
       "title": "Türkçe Yama",
-      "version": "1.1",
+      "version": "1.2",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -32,8 +32,8 @@
       },
       "package": {
         "url": null,
-        "size": 72335894,
-        "sha256": "e9dd72db82f8f4a85981b1097ca504fd48485212c594d53f95ad8f3c891c855e"
+        "size": 73189629,
+        "sha256": "063d2ed0f155516d65f408e601a1f1c14145e723549df116a1caaed0c12d377b"
       },
       "installer": null
     },
