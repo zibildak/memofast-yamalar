@@ -1,13 +1,11 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "notes": [
-    "Güvenlik: yama listesi ve güncellemeler artık imzalı",
-    "Online oyun yamalarında kurulumdan önce uyarı",
-    "Steam aramasında bulunamayan oyunlar düzeltildi"
+    "Güncelleme alan oyunların Memofast da görünmeme sorunu düzeltildi"
   ],
-  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.3.exe",
-  "sha256": "d274c59aa30161675f574bc0aea4a4f7949bc6393a0ee9647e0e50a81ffb0505",
-  "size": 76022869,
-  "mandatory": false,
+  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.4.exe",
+  "sha256": "8d07adb36c071aa0534aac767d7605cc9571dad486a23709fe9a00c27e7fb119",
+  "size": 76026416,
+  "mandatory": true,
   "publishedAt": "2026-09-28"
 }
