@@ -1,6 +1,42 @@
 {
-  "catalogVersion": 12,
+  "catalogVersion": 13,
   "patches": [
+    {
+      "id": "elden-ring-nightreign",
+      "gameName": "ELDEN RING NIGHTREIGN",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "ELDEN RING NIGHTREIGN tamamı Türkçe olarak eklendi keyifli oyunlar dilerim.",
+      "warning": "Yüzde 5 ihtimal olsa da, Yama sonrası olası bir banlanma sorumluluğu kullanıcının kendisine aittir.",
+      "updatedAt": "2026-09-28",
+      "changelog": [
+        {
+          "version": "1.0",
+          "date": "2026-09-28",
+          "notes": [
+            "Tümü"
+          ]
+        }
+      ],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2622380
+      },
+      "package": {
+        "url": null,
+        "size": 72335602,
+        "sha256": "414098e7dc6fc5bdb791a5cc93f677b0726bc7aef5ab089b3124c493b7b328a2"
+      },
+      "installer": null
+    },
     {
       "id": "throne-and-liberty",
       "gameName": "Throne and Liberty",
