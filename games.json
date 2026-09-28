@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 16,
+  "catalogVersion": 17,
   "patches": [
     {
       "id": "elden-ring-nightreign",
@@ -164,15 +164,23 @@
       "id": "aniimo",
       "gameName": "Aniimo",
       "title": "Türkçe Yama",
-      "version": "1.2",
+      "version": "1.3",
       "tier": "free",
       "cover": null,
       "hero": null,
       "color": "#26352C",
       "description": "Aniimo oyununa ait tüm metinler Türkçe olarak çevrildi, makina çevirisine ait hatalar el ile düzeltildi, Türkçe karakter sorunu giderildi, oyuna güncelleme gelirse yama bozulur tekrar kurarak Türkçe oynayabilirsiniz, büyük güncellemelerde yamanın çıkmasını bekleyin.",
       "warning": "",
-      "updatedAt": "2026-09-26",
-      "changelog": [],
+      "updatedAt": "2026-09-28",
+      "changelog": [
+        {
+          "version": "1.3",
+          "date": "2026-09-28",
+          "notes": [
+            "28,09,2026 tarihli güncelleme çevirisi"
+          ]
+        }
+      ],
       "info": {
         "Kapsam": "tümü",
         "Çeviren": "MemoFast ekibi",
@@ -183,9 +191,9 @@
         "steamAppId": 4126040
       },
       "package": {
-        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-v1.2/aniimo-1.2.zip",
-        "size": 3005108,
-        "sha256": "ae10c67ce22d81f69ea991dc68012940fb641e519f71c89d02a2657f14c71e70"
+        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-v1.3/aniimo-1.3.zip",
+        "size": 3008156,
+        "sha256": "7948d1cec04b21d33972b912f85aa7e3370ba901f013e8ce71d8ecd5b8fc3209"
       },
       "installer": {
         "script": "kur.ps1",
@@ -194,7 +202,10 @@
         "env": {
           "ANIIMO_SESSIZ": "1"
         },
-        "watchFiles": []
+        "watchFiles": [
+          "Aniimo_Data/cvs/res/lua/LuaScripts.xdt",
+          "Aniimo_Data/StreamingAssets/cvs/res/lua/LuaScripts.xdt"
+        ]
       }
     },
     {
