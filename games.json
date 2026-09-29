@@ -1,6 +1,36 @@
 {
-  "catalogVersion": 22,
+  "catalogVersion": 23,
   "patches": [
+    {
+      "id": "z-a-t-o-i-love-the-world-and-everything-in-i",
+      "gameName": "Z.A.T.O. I Love the World and Everything In I",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Z.A.T.O. I Love the World and Everything In Ioyunun tüm metinleri menü de dahil çevrildi",
+      "warning": "",
+      "updatedAt": "2026-09-30",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4122860
+      },
+      "package": {
+        "url": null,
+        "size": 2536474,
+        "sha256": "1f4bad4e0cfdc57537a74c610f416e73195f45f539bb55b7ce0b1883c2ae595f"
+      },
+      "installer": null
+    },
     {
       "id": "runescape-dragonwilds",
       "gameName": "RuneScape Dragonwilds",
