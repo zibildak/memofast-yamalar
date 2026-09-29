@@ -1,6 +1,36 @@
 {
-  "catalogVersion": 21,
+  "catalogVersion": 22,
   "patches": [
+    {
+      "id": "runescape-dragonwilds",
+      "gameName": "RuneScape Dragonwilds",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "RuneScape Dragonwilds oyunu komple çecrildi ve hazır keyifli oyunlar dilerim. Memofast ekibi",
+      "warning": "",
+      "updatedAt": "2026-09-29",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 1374490
+      },
+      "package": {
+        "url": null,
+        "size": 13953288,
+        "sha256": "5e30e15fe8fd71e03f0e05898190064b28afe863b598603838d57716f4408b39"
+      },
+      "installer": null
+    },
     {
       "id": "zenless-zone-zero",
       "gameName": "Zenless Zone Zero",
