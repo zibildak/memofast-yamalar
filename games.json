@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 24,
+  "catalogVersion": 25,
   "patches": [
     {
       "id": "path-of-exile-2",
@@ -316,16 +316,24 @@
       "id": "wuthering-waves",
       "gameName": "Wuthering Waves",
       "title": "Türkçe Yama",
-      "version": "1.2",
+      "version": "1.3",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
       "description": "Wuthering Waves oyunu için son sürüm türkçe yama",
       "warning": "",
-      "updatedAt": "2026-09-26",
+      "updatedAt": "2026-10-01",
       "comingSoon": false,
-      "changelog": [],
+      "changelog": [
+        {
+          "version": "1.3",
+          "date": "2026-10-01",
+          "notes": [
+            "Güncelleme sonrası tüm yeni metinler çevrildi"
+          ]
+        }
+      ],
       "info": {
         "Kurulum": "Dosya ekleme / değiştirme",
         "Kapsam": "Tümü",
@@ -337,8 +345,8 @@
       },
       "package": {
         "url": null,
-        "size": 13523723,
-        "sha256": "30ad5da64260176c03bc3c94442e39731a22985c4e21dbecdcd9875bc2313c57"
+        "size": 15204741,
+        "sha256": "335cb4d1b08208933fae690c19e4b0173ab896714bfde99b4ad48dadb435fed0"
       },
       "installer": null
     },
