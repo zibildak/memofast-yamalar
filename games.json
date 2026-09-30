@@ -1,6 +1,36 @@
 {
-  "catalogVersion": 23,
+  "catalogVersion": 24,
   "patches": [
+    {
+      "id": "path-of-exile-2",
+      "gameName": "Path of Exile 2",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Path of Exile 2 Tüm metinleri çevrildi ve hazır",
+      "warning": "",
+      "updatedAt": "2026-09-30",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kapsam": "TÜMÜ",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2694490
+      },
+      "package": {
+        "url": null,
+        "size": 123049903,
+        "sha256": "fa7ea19c155c8b9663b0bce20e15179ab3040542e75db49414ebaf853d4104f4"
+      },
+      "installer": null
+    },
     {
       "id": "z-a-t-o-i-love-the-world-and-everything-in-i",
       "gameName": "Z.A.T.O. I Love the World and Everything In I",
