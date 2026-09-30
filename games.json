@@ -1,6 +1,36 @@
 {
-  "catalogVersion": 26,
+  "catalogVersion": 27,
   "patches": [
+    {
+      "id": "lords-of-the-fallen",
+      "gameName": "Lords of the Fallen",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Lords of the Fallen oyunu tüm metinler Türkçeye çevrildi",
+      "warning": "Oyunda hile koruması vardır %5 ihtimalle ban olabilir sorumluluk kullanıcıya aittir.",
+      "updatedAt": "2026-10-01",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 1501750
+      },
+      "package": {
+        "url": null,
+        "size": 97637508,
+        "sha256": "c174349440dde0f0f923318350ed0297f85e833d72aaf40c3aacd9cd61febecd"
+      },
+      "installer": null
+    },
     {
       "id": "yu-gi-oh-duel-links",
       "gameName": "Yu-Gi-Oh! Duel Links",
