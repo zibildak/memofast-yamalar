@@ -1,6 +1,41 @@
 {
-  "catalogVersion": 25,
+  "catalogVersion": 26,
   "patches": [
+    {
+      "id": "yu-gi-oh-duel-links",
+      "gameName": "Yu-Gi-Oh! Duel Links",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Yu-Gi-Oh! Duel Links oyunu tam çeviri yapıldı",
+      "warning": "",
+      "updatedAt": "2026-10-01",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Oyun dosyasına işlenir",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 601510
+      },
+      "package": {
+        "url": null,
+        "size": 33412136,
+        "sha256": "b09e60e763afe7204c971d0e9ba65d57036cf7973322843c1f6d4b0c51281eb4"
+      },
+      "installer": {
+        "script": "kur.ps1",
+        "installArgs": "-Mode kur -Oyun \"{oyun}\"",
+        "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
+        "env": {},
+        "watchFiles": []
+      }
+    },
     {
       "id": "path-of-exile-2",
       "gameName": "Path of Exile 2",
