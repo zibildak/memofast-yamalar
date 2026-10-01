@@ -1,11 +1,11 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "notes": [
-    "Küçük düzeltmeler"
+    "Yamaların görünmeme sorunu düzeltildi. Aynı hatayı alırsanız veya yamalar ile alakalı hata alırsanız lütfen ekran görüntüsü ile discord sunucumuzda bildirin"
   ],
-  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.5.exe",
-  "sha256": "0e93de3958ca57ce8ad0b1018482011111bfae163418e2041bf5740fbcd5ad89",
-  "size": 76027033,
+  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.6.exe",
+  "sha256": "a9493fad1cf253c3468e688c24aff3979d4d9c26693cf86cf66e86c9ca9f4186",
+  "size": 76042611,
   "mandatory": true,
-  "publishedAt": "2026-09-28"
+  "publishedAt": "2026-10-01"
 }
