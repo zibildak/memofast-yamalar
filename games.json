@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 27,
+  "catalogVersion": 28,
   "patches": [
     {
       "id": "lords-of-the-fallen",
@@ -153,35 +153,6 @@
         "url": null,
         "size": 13953288,
         "sha256": "5e30e15fe8fd71e03f0e05898190064b28afe863b598603838d57716f4408b39"
-      },
-      "installer": null
-    },
-    {
-      "id": "zenless-zone-zero",
-      "gameName": "Zenless Zone Zero",
-      "title": "Türkçe Yama",
-      "version": "1.0",
-      "tier": "free",
-      "cover": null,
-      "hero": null,
-      "color": "#26352C",
-      "description": "Zenless Zone Zero, HoYoverse’ün yepyeni kentsel fantezi ARPG oyunudur. Oyuncular, “Proxies” rolünü üstlenerek çok çeşitli benzersiz Ajanlarla birlikte Hollows’u keşfeder, düşmanlarla savaşır ve New Eridu’nun ardındaki gizemleri ortaya çıkarmak için çıktıkları yolculukta görevleri tamamlar.",
-      "warning": "",
-      "updatedAt": "2026-09-29",
-      "comingSoon": true,
-      "changelog": [],
-      "info": {
-        "Kurulum": "Dosya ekleme / değiştirme",
-        "Çeviren": "MemoFast ekibi"
-      },
-      "detect": {
-        "mustExist": [],
-        "steamAppId": 4162040
-      },
-      "package": {
-        "url": null,
-        "size": 0,
-        "sha256": ""
       },
       "installer": null
     },
