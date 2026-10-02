@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 28,
+  "catalogVersion": 29,
   "patches": [
     {
       "id": "lords-of-the-fallen",
@@ -190,18 +190,19 @@
       "gameName": "Aion 2",
       "title": "Türkçe Yama",
       "version": "1.0",
-      "tier": "free",
+      "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
       "description": "5 Eki 2026 de çıkacak olan Aion 2 Oyunu için Türkçe çeviri oyun çıkar çıkmaz sizlerle",
       "warning": "",
-      "updatedAt": "2026-09-28",
-      "comingSoon": true,
+      "updatedAt": "2026-10-02",
+      "comingSoon": false,
       "changelog": [],
       "info": {
         "Kurulum": "Dosya ekleme / değiştirme",
-        "Çeviren": "MemoFast ekibi"
+        "Çeviren": "MemoFast ekibi",
+        "Kapsam": "Tümü"
       },
       "detect": {
         "mustExist": [],
@@ -209,8 +210,8 @@
       },
       "package": {
         "url": null,
-        "size": 0,
-        "sha256": ""
+        "size": 59943722,
+        "sha256": "5a163625cb1a2c225ea244540af2067c061ad5849d478c147854deac8859200d"
       },
       "installer": null
     },
