@@ -706,6 +706,10 @@ def main() -> None:
     (out / "static").mkdir(parents=True)
     for f in (HERE / "static").iterdir():
         shutil.copy2(f, out / "static" / f.name)
+    # site/root içindekiler (ör. Google doğrulama dosyası) sitenin köküne olduğu gibi kopyalanır.
+    if (HERE / "root").is_dir():
+        for f in (HERE / "root").iterdir():
+            shutil.copy2(f, out / f.name)
 
     def write(rel: str, text: str) -> None:
         dest = out / rel
