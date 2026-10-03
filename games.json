@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 32,
+  "catalogVersion": 33,
   "patches": [
     {
       "id": "elden-ring",
@@ -220,7 +220,7 @@
       "id": "aion-2",
       "gameName": "Aion 2",
       "title": "Türkçe Yama",
-      "version": "1.1",
+      "version": "1.2",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -241,8 +241,8 @@
       },
       "package": {
         "url": null,
-        "size": 111980675,
-        "sha256": "a3c3b384ac3bcc7c7e2c1240d6d9d7ff0dc8b0e9903ffae723f81bf438dc76b7"
+        "size": 59943918,
+        "sha256": "36a348da454b67421669f94947487e9b08d802fdd539a282334b9c059c9e89fe"
       },
       "installer": null
     },
