@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 29,
+  "catalogVersion": 30,
   "patches": [
     {
       "id": "lords-of-the-fallen",
@@ -293,14 +293,14 @@
       "id": "once-human",
       "gameName": "Once Human",
       "title": "Türkçe Yama",
-      "version": "1.0",
+      "version": "1.1",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
       "description": "Once Human oyununun tüm metinleri son güncellemesi de dahil Türkçe çevrilmiştir. NOT! Yamayı kurduktan sonra bu Memofast.exe kapatmayın yoksa yama çalışmaz.",
       "warning": "",
-      "updatedAt": "2026-09-27",
+      "updatedAt": "2026-10-03",
       "comingSoon": false,
       "changelog": [],
       "info": {
@@ -314,8 +314,8 @@
       },
       "package": {
         "url": null,
-        "size": 13738185,
-        "sha256": "8036ce98f5312a8bef34789b15d75a848373d68c7cdba6123f657bde90d297bb"
+        "size": 24396250,
+        "sha256": "3c10b2137c34baf373fcc2df85f7636f0689e26f2d4227ebb7c00e86c75e0f60"
       },
       "installer": null
     },
