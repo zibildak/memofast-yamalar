@@ -1,0 +1,47 @@
+# memofast-yamalar deposunda .github/workflows/site.yml olarak durur.
+# games.json her değiştiğinde (yükleyiciden yama yayınlanınca) siteyi yeniden üretip GitHub Pages'e koyar.
+name: Site
+
+on:
+  push:
+    branches: [main]
+    paths: ["games.json", "site/**", ".github/workflows/site.yml"]
+  schedule:
+    - cron: "17 3 * * *" # her gün: "Yeni" etiketleri ve Steam resimleri tazelensin
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Siteyi üret
+        run: python site/build.py --games games.json --out _site
+        env:
+          SITE_URL: https://zibildak.github.io/memofast-yamalar/
+          GOOGLE_VERIFY: ${{ vars.GOOGLE_VERIFY }}
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
