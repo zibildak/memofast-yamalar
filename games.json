@@ -1,6 +1,37 @@
 {
-  "catalogVersion": 30,
+  "catalogVersion": 31,
   "patches": [
+    {
+      "id": "elden-ring",
+      "gameName": "ELDEN RING",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Tüm metinler gemini ile çevrildi yani bağlamlar terimler oyunun karakterine uygun çevrildi.",
+      "warning": "Oyun dili English olmalı; yama EAC'yi kapatır, sadece çevrimdışı oynanır. Çevrim içinde Türkçe yapmak mümkün lakin EAC anında ban atar",
+      "updatedAt": "2026-10-03",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [
+          "eldenring.exe"
+        ],
+        "steamAppId": 1245620
+      },
+      "package": {
+        "url": null,
+        "size": 93346852,
+        "sha256": "3835ee9c01903f5c43998d8b3bc9d2907323a1b77d04c44e60864d10b553e9d0"
+      },
+      "installer": null
+    },
     {
       "id": "lords-of-the-fallen",
       "gameName": "Lords of the Fallen",
