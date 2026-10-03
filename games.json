@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 31,
+  "catalogVersion": 32,
   "patches": [
     {
       "id": "elden-ring",
@@ -220,14 +220,14 @@
       "id": "aion-2",
       "gameName": "Aion 2",
       "title": "Türkçe Yama",
-      "version": "1.0",
+      "version": "1.1",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
       "description": "5 Eki 2026 de çıkacak olan Aion 2 Oyunu için Türkçe çeviri oyun çıkar çıkmaz sizlerle",
       "warning": "",
-      "updatedAt": "2026-10-02",
+      "updatedAt": "2026-10-03",
       "comingSoon": false,
       "changelog": [],
       "info": {
@@ -241,8 +241,8 @@
       },
       "package": {
         "url": null,
-        "size": 59943722,
-        "sha256": "5a163625cb1a2c225ea244540af2067c061ad5849d478c147854deac8859200d"
+        "size": 111980675,
+        "sha256": "a3c3b384ac3bcc7c7e2c1240d6d9d7ff0dc8b0e9903ffae723f81bf438dc76b7"
       },
       "installer": null
     },
