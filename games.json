@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 34,
+  "catalogVersion": 35,
   "patches": [
     {
       "id": "elden-ring",
@@ -423,7 +423,7 @@
       "gameName": "Aniimo",
       "title": "Türkçe Yama",
       "version": "1.4",
-      "tier": "free",
+      "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -432,15 +432,6 @@
       "updatedAt": "2026-09-28",
       "comingSoon": false,
       "changelog": [
-        {
-          "version": "1.4",
-          "date": "2026-09-28",
-          "notes": [
-            "28,09,2026 güncelleme sonrası eklendi",
-            "yeni satırlar çevrildi",
-            "küçük düzeltmeler yapıldı"
-          ]
-        },
         {
           "version": "1.3",
           "date": "2026-09-28",
@@ -459,7 +450,7 @@
         "steamAppId": 4126040
       },
       "package": {
-        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-v1.4/aniimo-1.4.zip",
+        "url": null,
         "size": 3017963,
         "sha256": "a46cb5488f9a406dc3f1f27a832ca14a88fcdb91384b845294bf34d019cf48a3"
       },
