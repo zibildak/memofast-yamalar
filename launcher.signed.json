@@ -1,4 +1,4 @@
 {
-  "data": "{\r\n  \"version\": \"1.0.6\",\r\n  \"notes\": [\r\n    \"Yamaların görünmeme sorunu düzeltildi. Aynı hatayı alırsanız veya yamalar ile alakalı hata alırsanız lütfen ekran görüntüsü ile discord sunucumuzda bildirin\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.6.exe\",\r\n  \"sha256\": \"a9493fad1cf253c3468e688c24aff3979d4d9c26693cf86cf66e86c9ca9f4186\",\r\n  \"size\": 76042611,\r\n  \"mandatory\": true,\r\n  \"publishedAt\": \"2026-10-01\"\r\n}",
-  "sig": "rfFNnZ5ut7kk6c4/axagD02qKFDLSctGFYwCgvZLAXthx/ZbPFdVKJ4cHoMPTAbVwc89J6PzwE+BxwNOhiaFfg=="
+  "data": "{\r\n  \"version\": \"1.0.7\",\r\n  \"notes\": [\r\n    \"Ana sayfaya kurulu olan yamanızı dondurma açma butonu eklendı boylece yamayı kaldırmadan tek tıkla dondurup açbilirsiniz.\",\r\n    \"Sıralama kısmına iyileştirme yapıldı\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.7.exe\",\r\n  \"sha256\": \"fcbbf9f4c60065a827e0e517526ae50b1454962cefe8102790c5d3a47826b5fb\",\r\n  \"size\": 76058798,\r\n  \"mandatory\": true,\r\n  \"publishedAt\": \"2026-10-04\"\r\n}",
+  "sig": "lD8UOEIhaOUts79+Nwm3jL0NBIv6EhjgIGCHu3WvIpA2SLWc1FjMe+RxK7KGsmamUiM+zjt/c8uO7CoK5Qdpqg=="
 }
