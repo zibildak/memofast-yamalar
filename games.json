@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 35,
+  "catalogVersion": 36,
   "patches": [
     {
       "id": "elden-ring",
@@ -20,9 +20,7 @@
         "Çeviren": "MemoFast ekibi"
       },
       "detect": {
-        "mustExist": [
-          "eldenring.exe"
-        ],
+        "mustExist": [],
         "steamAppId": 1245620
       },
       "package": {
