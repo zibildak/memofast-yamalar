@@ -1,6 +1,36 @@
 {
-  "catalogVersion": 36,
+  "catalogVersion": 37,
   "patches": [
+    {
+      "id": "dragon-shelter",
+      "gameName": "Dragon Shelter",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Dragon Shelter oyunu tamamen yapay zeka ile çevrildi oyuna uygun terimler birebir çevrildi makina çevirinin o ruhsuz dilinden arındırıldı.",
+      "warning": "3 gün ücretsiz kullanılabilir",
+      "updatedAt": "2026-10-05",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2712590
+      },
+      "package": {
+        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/dragon-shelter-v1.0/dragon-shelter-1.0.zip",
+        "size": 160714,
+        "sha256": "30ca9320546ae7dd69b8e8f6381b04523df39538dd6502933c3571719e13c99a"
+      },
+      "installer": null
+    },
     {
       "id": "elden-ring",
       "gameName": "ELDEN RING",
