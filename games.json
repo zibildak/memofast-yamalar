@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 38,
+  "catalogVersion": 39,
   "patches": [
     {
       "id": "dragon-shelter",
@@ -248,20 +248,20 @@
       "id": "aion-2",
       "gameName": "Aion 2",
       "title": "Türkçe Yama",
-      "version": "1.3",
+      "version": "1.4",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
-      "description": "5 Eki 2026 de çıkacak olan Aion 2 Oyunu için Türkçe çeviri oyun çıkar çıkmaz sizlerle",
-      "warning": "",
-      "updatedAt": "2026-10-03",
+      "description": "Yama yaparken çalışmama veya Windows defenderin yamayı engelleme sorunu düzeltildi",
+      "warning": "Yamayı yapma süreci oyunda doğru yapılmışmı tüm süreci lütfen Discort sohbet veya Youtube videosu altına belirtin çalıştı veya şu hatayı aldım diye.",
+      "updatedAt": "2026-10-05",
       "comingSoon": false,
       "changelog": [],
       "info": {
         "Kurulum": "Dosya ekleme / değiştirme",
         "Çeviren": "MemoFast ekibi",
-        "Kapsam": "Tümü"
+        "Kapsam": "Daha güvenli hale getirildi"
       },
       "detect": {
         "mustExist": [],
@@ -269,8 +269,8 @@
       },
       "package": {
         "url": null,
-        "size": 64514684,
-        "sha256": "6541553e31b58480e0c778a5e11296718c109ea56b963fd1441752adc2d98d21"
+        "size": 59290808,
+        "sha256": "dbe97f27cd5d2f93f239aee3ed455e23ef97c9817d2bf0979aaa0f4a4d728807"
       },
       "installer": null
     },
