@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 37,
+  "catalogVersion": 38,
   "patches": [
     {
       "id": "dragon-shelter",
@@ -412,14 +412,14 @@
       "id": "wuthering-waves",
       "gameName": "Wuthering Waves",
       "title": "Türkçe Yama",
-      "version": "1.3",
+      "version": "1.4",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
       "description": "Wuthering Waves oyunu için son sürüm türkçe yama",
       "warning": "",
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-05",
       "comingSoon": false,
       "changelog": [
         {
@@ -441,8 +441,8 @@
       },
       "package": {
         "url": null,
-        "size": 15204741,
-        "sha256": "335cb4d1b08208933fae690c19e4b0173ab896714bfde99b4ad48dadb435fed0"
+        "size": 14419229,
+        "sha256": "aec6e3bd2502e74f9e52834f94623c733ca3a85dfba7ddc0adda9e3247d1815e"
       },
       "installer": null
     },
