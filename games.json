@@ -1,6 +1,42 @@
 {
-  "catalogVersion": 39,
+  "catalogVersion": 40,
   "patches": [
+    {
+      "id": "path-of-exile",
+      "gameName": "Path of Exile",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Path of Exile oyunu için tam Türkçr çrviri yapıldı, karakter adları, özel terimler değiştirilmedi keyifli oyunlar",
+      "warning": "",
+      "updatedAt": "2026-10-06",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Oyun dosyasına işlenir",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 238960
+      },
+      "package": {
+        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/path-of-exile-v1.0/path-of-exile-1.0.zip",
+        "size": 25672412,
+        "sha256": "d94e6cb6beaedf46c538c4f5a41cc8049129f197f06e148472b8c2f77538d218"
+      },
+      "installer": {
+        "script": "kur.ps1",
+        "installArgs": "-Mode kur -Oyun \"{oyun}\"",
+        "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
+        "env": {},
+        "watchFiles": []
+      }
+    },
     {
       "id": "dragon-shelter",
       "gameName": "Dragon Shelter",
