@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 40,
+  "catalogVersion": 41,
   "patches": [
     {
       "id": "path-of-exile",
@@ -284,20 +284,20 @@
       "id": "aion-2",
       "gameName": "Aion 2",
       "title": "Türkçe Yama",
-      "version": "1.4",
+      "version": "1.5",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
-      "description": "Yama yaparken çalışmama veya Windows defenderin yamayı engelleme sorunu düzeltildi",
+      "description": "Yama içinde türkçe karakter sorunları font bazında incelendi ve düzeltildi lütfen inceleyip geridönüş yapınız",
       "warning": "Yamayı yapma süreci oyunda doğru yapılmışmı tüm süreci lütfen Discort sohbet veya Youtube videosu altına belirtin çalıştı veya şu hatayı aldım diye.",
-      "updatedAt": "2026-10-05",
+      "updatedAt": "2026-10-08",
       "comingSoon": false,
       "changelog": [],
       "info": {
         "Kurulum": "Dosya ekleme / değiştirme",
         "Çeviren": "MemoFast ekibi",
-        "Kapsam": "Daha güvenli hale getirildi"
+        "Kapsam": "Türkçe karakter sorunu"
       },
       "detect": {
         "mustExist": [],
@@ -305,8 +305,8 @@
       },
       "package": {
         "url": null,
-        "size": 59290808,
-        "sha256": "dbe97f27cd5d2f93f239aee3ed455e23ef97c9817d2bf0979aaa0f4a4d728807"
+        "size": 4713531,
+        "sha256": "a6c4e085a65a3e86db5a981d697474b7156d684271f578848b49316ee458ca1f"
       },
       "installer": null
     },
