@@ -1,6 +1,42 @@
 {
-  "catalogVersion": 43,
+  "catalogVersion": 44,
   "patches": [
+    {
+      "id": "guild-wars-2",
+      "gameName": "Guild Wars 2",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Guild Wars 2® Türkçe çevirisi , 500bin satır çevrildi kalanlar siz oynarken çevrilecek",
+      "warning": "",
+      "updatedAt": "2026-10-08",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Oyun dosyasına işlenir",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 1284210
+      },
+      "package": {
+        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/guild-wars-2-v1.0/guild-wars-2-1.0.zip",
+        "size": 20208511,
+        "sha256": "7bac78450179d5bf5e48c8839a3160d85235ede9992ec072620257fe5add15ff"
+      },
+      "installer": {
+        "script": "kur.ps1",
+        "installArgs": "-Mode kur -Oyun \"{oyun}\"",
+        "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
+        "env": {},
+        "watchFiles": []
+      }
+    },
     {
       "id": "path-of-exile",
       "gameName": "Path of Exile",
