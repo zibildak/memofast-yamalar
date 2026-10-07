@@ -1,4 +1,4 @@
 {
-  "data": "{\r\n  \"version\": \"1.0.7\",\r\n  \"notes\": [\r\n    \"Ana sayfaya kurulu olan yamanızı dondurma açma butonu eklendı boylece yamayı kaldırmadan tek tıkla dondurup açbilirsiniz.\",\r\n    \"Sıralama kısmına iyileştirme yapıldı\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.7.exe\",\r\n  \"sha256\": \"fcbbf9f4c60065a827e0e517526ae50b1454962cefe8102790c5d3a47826b5fb\",\r\n  \"size\": 76058798,\r\n  \"mandatory\": true,\r\n  \"publishedAt\": \"2026-10-04\"\r\n}",
-  "sig": "lD8UOEIhaOUts79+Nwm3jL0NBIv6EhjgIGCHu3WvIpA2SLWc1FjMe+RxK7KGsmamUiM+zjt/c8uO7CoK5Qdpqg=="
+  "data": "{\r\n  \"version\": \"1.0.8\",\r\n  \"notes\": [\r\n    \"Kod girerken sunucuya bağlanamıyor hatası giderildi yine aynı hatayı alırsanız lütfen bildirin.\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.8.exe\",\r\n  \"sha256\": \"222e673fde1b1d061e57f9fd1651412160cb5c9f3e1d13b3d08aa859c3322c30\",\r\n  \"size\": 76064069,\r\n  \"mandatory\": true,\r\n  \"publishedAt\": \"2026-10-07\"\r\n}",
+  "sig": "TT+hYMm/pyBqyTod7ULDhJfxq1HwJKpR6r+AlPKP35Ly6aWnMxXcV/T2eab5qSHGAkmKSbvHWRmYDZShelCypw=="
 }
