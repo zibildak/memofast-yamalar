@@ -1,12 +1,11 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "notes": [
-    "Ana sayfaya kurulu olan yamanızı dondurma açma butonu eklendı boylece yamayı kaldırmadan tek tıkla dondurup açbilirsiniz.",
-    "Sıralama kısmına iyileştirme yapıldı"
+    "Kod girerken sunucuya bağlanamıyor hatası giderildi yine aynı hatayı alırsanız lütfen bildirin."
   ],
-  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.7.exe",
-  "sha256": "fcbbf9f4c60065a827e0e517526ae50b1454962cefe8102790c5d3a47826b5fb",
-  "size": 76058798,
+  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.8.exe",
+  "sha256": "222e673fde1b1d061e57f9fd1651412160cb5c9f3e1d13b3d08aa859c3322c30",
+  "size": 76064069,
   "mandatory": true,
-  "publishedAt": "2026-10-04"
+  "publishedAt": "2026-10-07"
 }
