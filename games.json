@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 41,
+  "catalogVersion": 42,
   "patches": [
     {
       "id": "path-of-exile",
@@ -284,7 +284,7 @@
       "id": "aion-2",
       "gameName": "Aion 2",
       "title": "Türkçe Yama",
-      "version": "1.5",
+      "version": "1.6",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -305,8 +305,8 @@
       },
       "package": {
         "url": null,
-        "size": 4713531,
-        "sha256": "a6c4e085a65a3e86db5a981d697474b7156d684271f578848b49316ee458ca1f"
+        "size": 4713750,
+        "sha256": "7ec04c3285ea86491bedf7d22007b61f39878e9f8e19fca9626c006dc73b0655"
       },
       "installer": null
     },
