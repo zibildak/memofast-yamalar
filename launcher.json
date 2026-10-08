@@ -1,11 +1,11 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "notes": [
-    "Kod girerken sunucuya bağlanamıyor hatası giderildi yine aynı hatayı alırsanız lütfen bildirin."
+    "Kod girerken sunucu hatası alanlar için yeni bir sunucuya ve sisteme geçildi şuan sorunsuz çalışması gerekiyor, lütfen güncelleyip deneyiniz"
   ],
-  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.8.exe",
-  "sha256": "222e673fde1b1d061e57f9fd1651412160cb5c9f3e1d13b3d08aa859c3322c30",
-  "size": 76064069,
+  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.9.exe",
+  "sha256": "d9860957a9249a579a9a3262795b36fb24ca285a1e3eb3db6f4712f4b0445f56",
+  "size": 76077307,
   "mandatory": true,
-  "publishedAt": "2026-10-07"
+  "publishedAt": "2026-10-08"
 }
