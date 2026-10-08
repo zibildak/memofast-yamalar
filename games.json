@@ -1,6 +1,36 @@
 {
-  "catalogVersion": 45,
+  "catalogVersion": 46,
   "patches": [
+    {
+      "id": "chrono-odyssey",
+      "gameName": "Chrono Odyssey",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Chrono Odyssey çıkar çıkmaz Türkçe yama eklenecek",
+      "warning": "",
+      "updatedAt": "2026-10-08",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2873440
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null
+    },
     {
       "id": "guild-wars-2",
       "gameName": "Guild Wars 2",
