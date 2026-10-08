@@ -1,6 +1,36 @@
 {
-  "catalogVersion": 47,
+  "catalogVersion": 48,
   "patches": [
+    {
+      "id": "archeage-chronicles",
+      "gameName": "ArcheAge Chronicles",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "ArcheAge Chronicles oyun çıkar çıkmaz türkçe olacak",
+      "warning": "",
+      "updatedAt": "2026-10-08",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3218230
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null
+    },
     {
       "id": "guild-wars-3",
       "gameName": "Guild Wars 3",
