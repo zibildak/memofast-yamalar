@@ -1,6 +1,36 @@
 {
-  "catalogVersion": 46,
+  "catalogVersion": 47,
   "patches": [
+    {
+      "id": "guild-wars-3",
+      "gameName": "Guild Wars 3",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Guild Wars 3 oyun çıkar çıkmaz Türkçe yama eklenecek",
+      "warning": "",
+      "updatedAt": "2026-10-08",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4743930
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null
+    },
     {
       "id": "chrono-odyssey",
       "gameName": "Chrono Odyssey",
