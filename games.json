@@ -1,11 +1,11 @@
 {
-  "catalogVersion": 50,
+  "catalogVersion": 51,
   "patches": [
     {
       "id": "yu-gi-oh-master-duel",
       "gameName": "Yu-Gi-Oh!  Master Duel",
       "title": "Türkçe Yama",
-      "version": "1.0",
+      "version": "1.1",
       "tier": "free",
       "cover": null,
       "hero": null,
@@ -16,7 +16,7 @@
       "comingSoon": false,
       "changelog": [],
       "info": {
-        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kurulum": "Oyun dosyasına işlenir",
         "Kapsam": "Tümü",
         "Çeviren": "MemoFast ekibi"
       },
@@ -25,12 +25,18 @@
         "steamAppId": 1449850
       },
       "package": {
-        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/yu-gi-oh-master-duel-v1.0/yu-gi-oh-master-duel-1.0.zip",
-        "size": 121107589,
-        "sha256": "817e627b0116dbd6946498806e7ecfc15a263a90bfba1738cb7f34e624816c76",
+        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/yu-gi-oh-master-duel-v1.1/yu-gi-oh-master-duel-1.1.zip",
+        "size": 121105883,
+        "sha256": "a64fd946a2ae626f4e9cc8f37147345aeb78619856498b8ac946d7eb3b2fee75",
         "sealed": null
       },
-      "installer": null
+      "installer": {
+        "script": "kur.ps1",
+        "installArgs": "-Mode kur -Oyun \"{oyun}\"",
+        "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
+        "env": {},
+        "watchFiles": []
+      }
     },
     {
       "id": "dirt-rally-2-0",
