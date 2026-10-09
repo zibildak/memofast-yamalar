@@ -1,6 +1,47 @@
 {
-  "catalogVersion": 48,
+  "catalogVersion": 49,
   "patches": [
+    {
+      "id": "dirt-rally-2-0",
+      "gameName": "DiRT Rally 2.0",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "DiRT Rally 2.0 oyunu için Türkçe yama eklendi keyifli oyunlar",
+      "warning": "",
+      "updatedAt": "2026-10-09",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Oyun dosyasına işlenir",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 690790
+      },
+      "package": {
+        "url": null,
+        "size": 1539262,
+        "sha256": "7a5df6906d80fd6d096e40574a31050614a41d4ef4956e58b11415b7f943c3b0",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/dirt-rally-2-0-v1.0/dirt-rally-2-0-1.0.mfp",
+          "size": 1539310,
+          "sha256": "aba5634178550257175adf345c0010be67c31bf84095a420704d540d3e8d71d1"
+        }
+      },
+      "installer": {
+        "script": "kur.ps1",
+        "installArgs": "-Mode kur -Oyun \"{oyun}\"",
+        "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
+        "env": {},
+        "watchFiles": []
+      }
+    },
     {
       "id": "archeage-chronicles",
       "gameName": "ArcheAge Chronicles",
