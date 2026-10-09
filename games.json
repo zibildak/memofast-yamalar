@@ -1,11 +1,11 @@
 {
-  "catalogVersion": 51,
+  "catalogVersion": 52,
   "patches": [
     {
       "id": "yu-gi-oh-master-duel",
       "gameName": "Yu-Gi-Oh!  Master Duel",
       "title": "Türkçe Yama",
-      "version": "1.1",
+      "version": "1.2",
       "tier": "free",
       "cover": null,
       "hero": null,
@@ -25,9 +25,9 @@
         "steamAppId": 1449850
       },
       "package": {
-        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/yu-gi-oh-master-duel-v1.1/yu-gi-oh-master-duel-1.1.zip",
-        "size": 121105883,
-        "sha256": "a64fd946a2ae626f4e9cc8f37147345aeb78619856498b8ac946d7eb3b2fee75",
+        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/yu-gi-oh-master-duel-v1.2/yu-gi-oh-master-duel-1.2.zip",
+        "size": 63774914,
+        "sha256": "dcd8adecc2dd9b8577fe97abf505c5f398393f8eb88e55bcedc4dd333553b01b",
         "sealed": null
       },
       "installer": {
