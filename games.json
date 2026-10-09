@@ -1,6 +1,37 @@
 {
-  "catalogVersion": 49,
+  "catalogVersion": 50,
   "patches": [
+    {
+      "id": "yu-gi-oh-master-duel",
+      "gameName": "Yu-Gi-Oh!  Master Duel",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Yu-Gi-Oh!  Master Duel oyunu için Türkçe yama eklendi keyifli oyunlar dilerim",
+      "warning": "",
+      "updatedAt": "2026-10-09",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 1449850
+      },
+      "package": {
+        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/yu-gi-oh-master-duel-v1.0/yu-gi-oh-master-duel-1.0.zip",
+        "size": 121107589,
+        "sha256": "817e627b0116dbd6946498806e7ecfc15a263a90bfba1738cb7f34e624816c76",
+        "sealed": null
+      },
+      "installer": null
+    },
     {
       "id": "dirt-rally-2-0",
       "gameName": "DiRT Rally 2.0",
