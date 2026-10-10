@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 52,
+  "catalogVersion": 53,
   "patches": [
     {
       "id": "yu-gi-oh-master-duel",
@@ -676,14 +676,14 @@
       "id": "nte-neverness-to-everness",
       "gameName": "NTE: Neverness to Everness",
       "title": "Türkçe Yama",
-      "version": "1.0",
+      "version": "1.1",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
       "description": "NTE: Neverness to Everness oyunu için son güncellemede dahil tamamı Türkçeye çevrilmiştir.",
       "warning": "",
-      "updatedAt": "2026-09-27",
+      "updatedAt": "2026-10-10",
       "comingSoon": false,
       "changelog": [],
       "info": {
@@ -697,12 +697,12 @@
       },
       "package": {
         "url": null,
-        "size": 10885435,
-        "sha256": "a0769f9a49462cfa700eb55c14fe0a9af58c64f3faa39c4407426f9c11765a52",
+        "size": 10880098,
+        "sha256": "b3402fe6a398a96eaada5cb86ebe8800bbeea5ccf5fac203113fb0c31fb11811",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/nte-neverness-to-everness-v1.0/nte-neverness-to-everness-1.0.mfp",
-          "size": 10885627,
-          "sha256": "5994bbd0c26ee3b3264d7415dcd303abe80915a91084d6f305e11eb22e577332"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/nte-neverness-to-everness-v1.1/nte-neverness-to-everness-1.1.mfp",
+          "size": 10880290,
+          "sha256": "6d067b8207995a904bbd8cf60a8d6604c85ef4ebcc1109664c8ef9b55ff79b90"
         }
       },
       "installer": null
