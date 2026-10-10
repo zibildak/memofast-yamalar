@@ -1,6 +1,41 @@
 {
-  "catalogVersion": 54,
+  "catalogVersion": 55,
   "patches": [
+    {
+      "id": "permafrost",
+      "gameName": "Permafrost",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Permafrost oyunu için Türkçe tam çeviri yapıldı. Keyifli oyunlar.",
+      "warning": "",
+      "updatedAt": "2026-10-10",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2254990
+      },
+      "package": {
+        "url": null,
+        "size": 617990,
+        "sha256": "a3e482ae5247e56f66dc0b1b98bf1c617d2c61bedcbe11453d3a57acfa5fd1e7",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/permafrost-v1.0/permafrost-1.0.mfp",
+          "size": 618022,
+          "sha256": "9674353d4622d742bee391057271de5be09dc8fdb75888132ec3c17451e379f3"
+        }
+      },
+      "installer": null
+    },
     {
       "id": "yu-gi-oh-master-duel",
       "gameName": "Yu-Gi-Oh!  Master Duel",
