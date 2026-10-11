@@ -1,11 +1,12 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "notes": [
-    "Kod girerken sunucu hatası alanlar için yeni bir sunucuya ve sisteme geçildi şuan sorunsuz çalışması gerekiyor, lütfen güncelleyip deneyiniz"
+    "Bildirim özelliği eklendi, bildiri ve duyurularıyakında gelecek güncellemeleri buradan haber alabilirsiniz.",
+    "ufak tefek hatalar düzeltildi"
   ],
-  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.9.exe",
-  "sha256": "d9860957a9249a579a9a3262795b36fb24ca285a1e3eb3db6f4712f4b0445f56",
-  "size": 76077307,
+  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.10.exe",
+  "sha256": "10ff0672e3d5337118628e08ba04c320e51b4b627ae69487c5ea95b092ea1a6e",
+  "size": 76079853,
   "mandatory": true,
-  "publishedAt": "2026-10-08"
+  "publishedAt": "2026-10-12"
 }
