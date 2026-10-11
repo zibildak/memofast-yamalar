@@ -1,4 +1,4 @@
 {
-  "data": "{\r\n  \"version\": \"1.0.10\",\r\n  \"notes\": [\r\n    \"Bildirim özelliği eklendi, bildiri ve duyurularıyakında gelecek güncellemeleri buradan haber alabilirsiniz.\",\r\n    \"ufak tefek hatalar düzeltildi\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.10.exe\",\r\n  \"sha256\": \"10ff0672e3d5337118628e08ba04c320e51b4b627ae69487c5ea95b092ea1a6e\",\r\n  \"size\": 76079853,\r\n  \"mandatory\": true,\r\n  \"publishedAt\": \"2026-10-12\"\r\n}",
-  "sig": "NM9cpIkHylVlrsfMouIV4dpQFMs1Dt3WLrhOOTNbhjUE/aORSe4iEToIFXN2vVpC37SIuVCCcM4ccUu5oKW9bg=="
+  "data": "{\r\n  \"version\": \"1.0.11\",\r\n  \"notes\": [\r\n    \"Mobil oyunlar için yükleme özelliği getirildi TEST AŞAMASINDADIR\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.11.exe\",\r\n  \"sha256\": \"c874c7ce07918da9ddbd9ac00966ce5e1a9a6f01649920d5cad32beadd216ecd\",\r\n  \"size\": 76091196,\r\n  \"mandatory\": true,\r\n  \"publishedAt\": \"2026-10-12\"\r\n}",
+  "sig": "WtVIDjBBtweWN4lxndkYL29kg0Ka/1efiLvHYDe1SzwxV1CEg38WMFNZFfZJ61vxnWdO5MuixBvmjaX1fpqzmQ=="
 }
