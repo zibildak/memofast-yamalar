@@ -1,12 +1,11 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "notes": [
-    "Bildirim özelliği eklendi, bildiri ve duyurularıyakında gelecek güncellemeleri buradan haber alabilirsiniz.",
-    "ufak tefek hatalar düzeltildi"
+    "Mobil oyunlar için yükleme özelliği getirildi TEST AŞAMASINDADIR"
   ],
-  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.10.exe",
-  "sha256": "10ff0672e3d5337118628e08ba04c320e51b4b627ae69487c5ea95b092ea1a6e",
-  "size": 76079853,
+  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.11.exe",
+  "sha256": "c874c7ce07918da9ddbd9ac00966ce5e1a9a6f01649920d5cad32beadd216ecd",
+  "size": 76091196,
   "mandatory": true,
   "publishedAt": "2026-10-12"
 }
