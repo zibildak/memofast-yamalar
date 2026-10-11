@@ -1,6 +1,47 @@
 {
-  "catalogVersion": 57,
+  "catalogVersion": 58,
   "patches": [
+    {
+      "id": "once-human-mobil",
+      "gameName": "Once Human",
+      "title": "Mobil Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Once human mobil Türkçe yama",
+      "warning": "",
+      "updatedAt": "2026-10-12",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Telefona kurulur (USB)",
+        "Platform": "Android",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2139460
+      },
+      "package": {
+        "url": null,
+        "size": 169137271,
+        "sha256": "3a92487dd46c413f924d1cdea31ec4703f11258e8a92c3558ccabc83e0b0260b",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-mobil-v1.0/once-human-mobil-1.0.mfp",
+          "size": 169139879,
+          "sha256": "5f16a70f798472e3c2e9f4b892281bc5ff8190e0de409d767d5d80bd6e967367"
+        }
+      },
+      "installer": null,
+      "mobile": {
+        "package": "com.h73.jhqyna",
+        "targetPath": "Android/data/com.h73.jhqyna/files",
+        "mustExist": []
+      }
+    },
     {
       "id": "permafrost",
       "gameName": "Permafrost",
@@ -30,7 +71,8 @@
         "sha256": "a3e482ae5247e56f66dc0b1b98bf1c617d2c61bedcbe11453d3a57acfa5fd1e7",
         "sealed": null
       },
-      "installer": null
+      "installer": null,
+      "mobile": null
     },
     {
       "id": "yu-gi-oh-master-duel",
@@ -67,7 +109,8 @@
         "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
         "env": {},
         "watchFiles": []
-      }
+      },
+      "mobile": null
     },
     {
       "id": "dirt-rally-2-0",
@@ -108,7 +151,8 @@
         "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
         "env": {},
         "watchFiles": []
-      }
+      },
+      "mobile": null
     },
     {
       "id": "archeage-chronicles",
@@ -138,7 +182,8 @@
         "sha256": "",
         "sealed": null
       },
-      "installer": null
+      "installer": null,
+      "mobile": null
     },
     {
       "id": "guild-wars-3",
@@ -168,7 +213,8 @@
         "sha256": "",
         "sealed": null
       },
-      "installer": null
+      "installer": null,
+      "mobile": null
     },
     {
       "id": "chrono-odyssey",
@@ -198,7 +244,8 @@
         "sha256": "",
         "sealed": null
       },
-      "installer": null
+      "installer": null,
+      "mobile": null
     },
     {
       "id": "guild-wars-2",
@@ -235,7 +282,8 @@
         "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
         "env": {},
         "watchFiles": []
-      }
+      },
+      "mobile": null
     },
     {
       "id": "path-of-exile",
@@ -272,7 +320,8 @@
         "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
         "env": {},
         "watchFiles": []
-      }
+      },
+      "mobile": null
     },
     {
       "id": "dragon-shelter",
@@ -303,7 +352,8 @@
         "sha256": "30ca9320546ae7dd69b8e8f6381b04523df39538dd6502933c3571719e13c99a",
         "sealed": null
       },
-      "installer": null
+      "installer": null,
+      "mobile": null
     },
     {
       "id": "elden-ring",
@@ -337,7 +387,8 @@
           "sha256": "0c4d70c1cb69030b58e2ccf21583a7a86d0039c96cee6ed2b562386e41352c17"
         }
       },
-      "installer": null
+      "installer": null,
+      "mobile": null
     },
     {
       "id": "lords-of-the-fallen",
@@ -372,7 +423,8 @@
           "sha256": "1509b42cfa66de2fec25fe5190e82ace1eca494604f4c1e1f428114809902b88"
         }
       },
-      "installer": null
+      "installer": null,
+      "mobile": null
     },
     {
       "id": "yu-gi-oh-duel-links",
@@ -412,7 +464,8 @@
         "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
         "env": {},
         "watchFiles": []
-      }
+      },
+      "mobile": null
     },
     {
       "id": "path-of-exile-2",
@@ -447,7 +500,8 @@
           "sha256": "098da76ccd6ca0ceeb43f882aac7f8de396bec54a29466d54e47a6b85d4d9f80"
         }
       },
-      "installer": null
+      "installer": null,
+      "mobile": null
     },
     {
       "id": "z-a-t-o-i-love-the-world-and-everything-in-i",
@@ -482,7 +536,8 @@
           "sha256": "652f57045c0c1369712706925db59f1fc7d6915ba01ff5c0f9f460d0df58159f"
         }
       },
-      "installer": null
+      "installer": null,
+      "mobile": null
     },
     {
       "id": "runescape-dragonwilds",
@@ -517,7 +572,8 @@
           "sha256": "fc8c96468f1df0bdcf58cafebb837447f32794e51b7181ece3ab8924ad6f9c60"
         }
       },
-      "installer": null
+      "installer": null,
+      "mobile": null
     },
     {
       "id": "ananta",
@@ -547,7 +603,8 @@
         "sha256": "",
         "sealed": null
       },
-      "installer": null
+      "installer": null,
+      "mobile": null
     },
     {
       "id": "aion-2",
@@ -582,7 +639,8 @@
           "sha256": "755364b88e5221aa701ff0412359d209448169492920097b3ad34a3748546f3a"
         }
       },
-      "installer": null
+      "installer": null,
+      "mobile": null
     },
     {
       "id": "elden-ring-nightreign",
@@ -624,7 +682,8 @@
           "sha256": "90dd2831948347d8493599de889e88e51fe2396d85673ce74c42cdc89773f439"
         }
       },
-      "installer": null
+      "installer": null,
+      "mobile": null
     },
     {
       "id": "throne-and-liberty",
@@ -666,7 +725,8 @@
           "sha256": "7d316c04b1430ccbbb91d227f208fae0ca3195e0ab5c8104ad5d3b32de46e19e"
         }
       },
-      "installer": null
+      "installer": null,
+      "mobile": null
     },
     {
       "id": "once-human",
@@ -701,7 +761,8 @@
           "sha256": "29e7b3615500e53b402acd02c540282b174d7f4b0c1e8e3ce1cde344a9ade36a"
         }
       },
-      "installer": null
+      "installer": null,
+      "mobile": null
     },
     {
       "id": "nte-neverness-to-everness",
@@ -736,7 +797,8 @@
           "sha256": "6d067b8207995a904bbd8cf60a8d6604c85ef4ebcc1109664c8ef9b55ff79b90"
         }
       },
-      "installer": null
+      "installer": null,
+      "mobile": null
     },
     {
       "id": "wuthering-waves",
@@ -786,7 +848,8 @@
           "sha256": "8dc66ba16d006e418f21320c5dbb9534a0dba81d0fdb8b65ffa526cc0b371bb9"
         }
       },
-      "installer": null
+      "installer": null,
+      "mobile": null
     },
     {
       "id": "aniimo",
@@ -840,7 +903,8 @@
           "Aniimo_Data/cvs/res/lua/LuaScripts.xdt",
           "Aniimo_Data/StreamingAssets/cvs/res/lua/LuaScripts.xdt"
         ]
-      }
+      },
+      "mobile": null
     },
     {
       "id": "where-winds-meet",
@@ -883,7 +947,8 @@
           "sha256": "6e5b6162a57a37e3419b9a1b55695144971db70cefdef740037aff648b2f21c1"
         }
       },
-      "installer": null
+      "installer": null,
+      "mobile": null
     }
   ]
 }
