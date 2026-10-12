@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 64,
+  "catalogVersion": 65,
   "patches": [
     {
       "id": "planet-zoo-2",
@@ -78,14 +78,14 @@
       "id": "permafrost",
       "gameName": "Permafrost",
       "title": "Türkçe Yama",
-      "version": "1.1",
+      "version": "1.2",
       "tier": "free",
       "cover": null,
       "hero": null,
       "color": "#26352C",
       "description": "Permafrost oyunu için Türkçe tam çeviri yapıldı. Keyifli oyunlar.",
       "warning": "Yama 3 gün ücretsizdir.",
-      "updatedAt": "2026-10-11",
+      "updatedAt": "2026-10-12",
       "comingSoon": false,
       "changelog": [],
       "info": {
@@ -98,9 +98,9 @@
         "steamAppId": 2254990
       },
       "package": {
-        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/permafrost-v1.1/permafrost-1.1.zip",
-        "size": 617990,
-        "sha256": "a3e482ae5247e56f66dc0b1b98bf1c617d2c61bedcbe11453d3a57acfa5fd1e7",
+        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/permafrost-v1.2/permafrost-1.2.zip",
+        "size": 617961,
+        "sha256": "fa40d31f2edfa765546a26f22a0f053755dd3b2af7d5b7bacaacd77d7b2d0e57",
         "sealed": null
       },
       "installer": null,
