@@ -1,4 +1,4 @@
 {
-  "data": "{\r\n  \"version\": \"1.0.12\",\r\n  \"notes\": [\r\n    \"mobil oyunlar için yama yükleme özelliği eklendi\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.12.exe\",\r\n  \"sha256\": \"228df3e353ae9b1673c7cc5eac5f80e2447d0646b4cdd0f2f691666723a93480\",\r\n  \"size\": 76153212,\r\n  \"mandatory\": true,\r\n  \"publishedAt\": \"2026-10-12\"\r\n}",
-  "sig": "hJ6PTelhwwGceaXQUJtxJDUVvjIxP1NWzVBPK4R4G1aJW1IdxOLL/4P/WlUY98VxIIBbnREXYF4Gqgl0s9ktDQ=="
+  "data": "{\r\n  \"version\": \"1.0.13\",\r\n  \"notes\": [\r\n    \"Mobil oyunlar için yama yükleme özelliği eklendi\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.13.exe\",\r\n  \"sha256\": \"8bebad53069ff16955bec1ab4b9c0ca72d028b388a1466eb4b5716d88f6eafba\",\r\n  \"size\": 76153206,\r\n  \"mandatory\": true,\r\n  \"publishedAt\": \"2026-10-12\"\r\n}",
+  "sig": "1IfE6UmwHjbqPYY2iB8NfcLgcZC1xkZ+h1zjZ+eyyhywcMhw4dku0NBJiuIdw7aq4Vvlo1bkzaOrKEhCeo1GUA=="
 }
