@@ -1,6 +1,47 @@
 {
-  "catalogVersion": 67,
+  "catalogVersion": 68,
   "patches": [
+    {
+      "id": "aniimo-mobil",
+      "gameName": "Aniimo Mobil",
+      "title": "Mobil Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Aniimo Mobil oyunu için Türkçe yama eklendi",
+      "warning": "",
+      "updatedAt": "2026-10-12",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Telefona kurulur (USB)",
+        "Platform": "Android",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4126040
+      },
+      "package": {
+        "url": null,
+        "size": 72216395,
+        "sha256": "716b9eb1c314429b6f359e8caf455c6ddace0233ced10ebdf4c66f4914842a53",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-mobil-v1.0/aniimo-mobil-1.0.mfp",
+          "size": 72217515,
+          "sha256": "6cdffc7fe619470489d1e294dd34363e3a014c7552af41286765cdba8923db98"
+        }
+      },
+      "installer": null,
+      "mobile": {
+        "package": "com.x.aniimos",
+        "targetPath": "Android/data/com.x.aniimos/files/cvs/res",
+        "mustExist": []
+      }
+    },
     {
       "id": "hood-warfare-2",
       "gameName": "Hood Warfare 2",
