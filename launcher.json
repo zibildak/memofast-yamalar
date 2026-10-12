@@ -1,11 +1,11 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.13",
   "notes": [
-    "mobil oyunlar için yama yükleme özelliği eklendi"
+    "Mobil oyunlar için yama yükleme özelliği eklendi"
   ],
-  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.12.exe",
-  "sha256": "228df3e353ae9b1673c7cc5eac5f80e2447d0646b4cdd0f2f691666723a93480",
-  "size": 76153212,
+  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.13.exe",
+  "sha256": "8bebad53069ff16955bec1ab4b9c0ca72d028b388a1466eb4b5716d88f6eafba",
+  "size": 76153206,
   "mandatory": true,
   "publishedAt": "2026-10-12"
 }
