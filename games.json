@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 63,
+  "catalogVersion": 64,
   "patches": [
     {
       "id": "planet-zoo-2",
@@ -360,7 +360,7 @@
       "gameName": "Dragon Shelter",
       "title": "Türkçe Yama",
       "version": "1.0",
-      "tier": "free",
+      "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -379,10 +379,14 @@
         "steamAppId": 2712590
       },
       "package": {
-        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/dragon-shelter-v1.0/dragon-shelter-1.0.zip",
+        "url": null,
         "size": 160714,
         "sha256": "30ca9320546ae7dd69b8e8f6381b04523df39538dd6502933c3571719e13c99a",
-        "sealed": null
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/dragon-shelter-v1.0/dragon-shelter-1.0.mfp",
+          "size": 160746,
+          "sha256": "4026a907e2783948741833ccd5830ea93c26dff8382a8545f701199953fd44b2"
+        }
       },
       "installer": null,
       "mobile": null
