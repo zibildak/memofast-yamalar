@@ -1,6 +1,37 @@
 {
-  "catalogVersion": 65,
+  "catalogVersion": 66,
   "patches": [
+    {
+      "id": "hood-warfare-2",
+      "gameName": "Hood Warfare 2",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Hood Warfare 2 oyunu şuanda çeviri aşamasında",
+      "warning": "",
+      "updatedAt": "2026-10-12",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 5155360
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "planet-zoo-2",
       "gameName": "Planet Zoo 2",
