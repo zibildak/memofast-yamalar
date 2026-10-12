@@ -1,11 +1,11 @@
 {
-  "catalogVersion": 60,
+  "catalogVersion": 61,
   "patches": [
     {
       "id": "once-human-mobil",
       "gameName": "Once Human Mobil",
       "title": "Mobil Türkçe Yama",
-      "version": "1.0",
+      "version": "1.1",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -23,16 +23,16 @@
       },
       "detect": {
         "mustExist": [],
-        "steamAppId": 2139460
+        "steamAppId": null
       },
       "package": {
         "url": null,
         "size": 169137271,
         "sha256": "3a92487dd46c413f924d1cdea31ec4703f11258e8a92c3558ccabc83e0b0260b",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-mobil-v1.0/once-human-mobil-1.0.mfp",
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-mobil-v1.1/once-human-mobil-1.1.mfp",
           "size": 169139879,
-          "sha256": "5f16a70f798472e3c2e9f4b892281bc5ff8190e0de409d767d5d80bd6e967367"
+          "sha256": "fd8071c9edaf3de8a065cc1822c424f3a8b64118662d75b71312c3da3b11f4ba"
         }
       },
       "installer": null,
