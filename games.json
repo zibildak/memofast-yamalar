@@ -1,6 +1,38 @@
 {
-  "catalogVersion": 62,
+  "catalogVersion": 63,
   "patches": [
+    {
+      "id": "planet-zoo-2",
+      "gameName": "Planet Zoo 2",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Planet Zoo 2 için yama çalışması başlamıştır",
+      "warning": "",
+      "updatedAt": "2026-10-12",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3219030
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "once-human-mobil",
       "gameName": "Once Human Mobil",
