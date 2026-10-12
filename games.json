@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 59,
+  "catalogVersion": 60,
   "patches": [
     {
       "id": "once-human-mobil",
@@ -23,7 +23,7 @@
       },
       "detect": {
         "mustExist": [],
-        "steamAppId": null
+        "steamAppId": 2139460
       },
       "package": {
         "url": null,
