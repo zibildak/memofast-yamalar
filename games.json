@@ -1,9 +1,9 @@
 {
-  "catalogVersion": 58,
+  "catalogVersion": 59,
   "patches": [
     {
       "id": "once-human-mobil",
-      "gameName": "Once Human",
+      "gameName": "Once Human Mobil",
       "title": "Mobil Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
@@ -23,7 +23,7 @@
       },
       "detect": {
         "mustExist": [],
-        "steamAppId": 2139460
+        "steamAppId": null
       },
       "package": {
         "url": null,
