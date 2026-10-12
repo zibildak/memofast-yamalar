@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 66,
+  "catalogVersion": 67,
   "patches": [
     {
       "id": "hood-warfare-2",
@@ -353,7 +353,7 @@
       "gameName": "Path of Exile",
       "title": "Türkçe Yama",
       "version": "1.0",
-      "tier": "free",
+      "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -372,10 +372,14 @@
         "steamAppId": 238960
       },
       "package": {
-        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/path-of-exile-v1.0/path-of-exile-1.0.zip",
+        "url": null,
         "size": 25672412,
         "sha256": "d94e6cb6beaedf46c538c4f5a41cc8049129f197f06e148472b8c2f77538d218",
-        "sealed": null
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/path-of-exile-v1.0/path-of-exile-1.0.mfp",
+          "size": 25672828,
+          "sha256": "ed0643e1b2d016fffd9cbc15a1cf41f467018659b5734fe62d081511b83d38c0"
+        }
       },
       "installer": {
         "script": "kur.ps1",
