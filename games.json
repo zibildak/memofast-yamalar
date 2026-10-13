@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 69,
+  "catalogVersion": 70,
   "patches": [
     {
       "id": "battlefield-2042",
@@ -10,23 +10,24 @@
       "cover": null,
       "hero": null,
       "color": "#26352C",
-      "description": "Battlefield™ 2042 çeviri aşamasında",
-      "warning": "",
+      "description": "Battlefield™ 2042 çevrildi ama denenmedi steam hesabımda sorun var oyunu açamadım deneyip geri dönüş yaparsınız",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-13",
-      "comingSoon": true,
+      "comingSoon": false,
       "changelog": [],
       "info": {
         "Kurulum": "Dosya ekleme / değiştirme",
-        "Çeviren": "MemoFast ekibi"
+        "Çeviren": "MemoFast ekibi",
+        "Kapsam": "Tümü"
       },
       "detect": {
         "mustExist": [],
         "steamAppId": 1517290
       },
       "package": {
-        "url": null,
-        "size": 0,
-        "sha256": "",
+        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/battlefield-2042-v1.0/battlefield-2042-1.0.zip",
+        "size": 529427,
+        "sha256": "5c09bea9e804b6daabc86c68770ec3979eefb4c72929c75e1a828fb4c080dd22",
         "sealed": null
       },
       "installer": null,
