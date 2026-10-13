@@ -1,6 +1,37 @@
 {
-  "catalogVersion": 68,
+  "catalogVersion": 69,
   "patches": [
+    {
+      "id": "battlefield-2042",
+      "gameName": "Battlefield™ 2042",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Battlefield™ 2042 çeviri aşamasında",
+      "warning": "",
+      "updatedAt": "2026-10-13",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 1517290
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "aniimo-mobil",
       "gameName": "Aniimo Mobil",
