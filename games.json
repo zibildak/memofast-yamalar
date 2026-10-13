@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 70,
+  "catalogVersion": 71,
   "patches": [
     {
       "id": "battlefield-2042",
@@ -83,23 +83,24 @@
       "cover": null,
       "hero": null,
       "color": "#26352C",
-      "description": "Hood Warfare 2 oyunu şuanda çeviri aşamasında",
-      "warning": "",
-      "updatedAt": "2026-10-12",
-      "comingSoon": true,
+      "description": "Hood Warfare 2 oyunu şuanda çevirisi eklendi",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-14",
+      "comingSoon": false,
       "changelog": [],
       "info": {
         "Kurulum": "Dosya ekleme / değiştirme",
-        "Çeviren": "MemoFast ekibi"
+        "Çeviren": "MemoFast ekibi",
+        "Kapsam": "Tümü"
       },
       "detect": {
         "mustExist": [],
         "steamAppId": 5155360
       },
       "package": {
-        "url": null,
-        "size": 0,
-        "sha256": "",
+        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/hood-warfare-2-v1.0/hood-warfare-2-1.0.zip",
+        "size": 11129281,
+        "sha256": "9e98297799055e38f706667ac138551f2a4519b3b243f468b9584c4a57c2c1e5",
         "sealed": null
       },
       "installer": null,
