@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 71,
+  "catalogVersion": 72,
   "patches": [
     {
       "id": "battlefield-2042",
@@ -877,19 +877,19 @@
       "id": "once-human",
       "gameName": "Once Human",
       "title": "Türkçe Yama",
-      "version": "1.1",
+      "version": "1.2",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
-      "description": "Once Human oyununun tüm metinleri son güncellemesi de dahil Türkçe çevrilmiştir. NOT! Yamayı kurduktan sonra bu Memofast.exe kapatmayın yoksa yama çalışmaz.",
-      "warning": "",
-      "updatedAt": "2026-10-03",
+      "description": "Once Human oyunu çevirisi detaylı incelendi ve makına cevırısı sonrası anlam kayması veya çeviri hatası olan 5110 satır düzeltildi, Claude ile yama baştan sona incelenip düzeltildi",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-15",
       "comingSoon": false,
       "changelog": [],
       "info": {
         "Kurulum": "Dosya ekleme / değiştirme",
-        "Kapsam": "Tümü",
+        "Kapsam": "Yanlış çevrilen metinler",
         "Çeviren": "MemoFast ekibi"
       },
       "detect": {
@@ -898,12 +898,12 @@
       },
       "package": {
         "url": null,
-        "size": 24396250,
-        "sha256": "3c10b2137c34baf373fcc2df85f7636f0689e26f2d4227ebb7c00e86c75e0f60",
+        "size": 24436315,
+        "sha256": "c4b1dfe976343712ab33991d66df656c9300819da2b3072795d3a49974485033",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-v1.1/once-human-1.1.mfp",
-          "size": 24396650,
-          "sha256": "29e7b3615500e53b402acd02c540282b174d7f4b0c1e8e3ce1cde344a9ade36a"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-v1.2/once-human-1.2.mfp",
+          "size": 24436715,
+          "sha256": "263e6b2d2ed2ed4d8a3b374b273fe79b511839bf2f17b2a5c7c0ff02c4254085"
         }
       },
       "installer": null,
