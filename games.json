@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 74,
+  "catalogVersion": 75,
   "patches": [
     {
       "id": "battlefield-2042",
@@ -184,7 +184,7 @@
       "gameName": "Permafrost",
       "title": "Türkçe Yama",
       "version": "1.2",
-      "tier": "free",
+      "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -203,10 +203,14 @@
         "steamAppId": 2254990
       },
       "package": {
-        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/permafrost-v1.2/permafrost-1.2.zip",
+        "url": null,
         "size": 617961,
         "sha256": "fa40d31f2edfa765546a26f22a0f053755dd3b2af7d5b7bacaacd77d7b2d0e57",
-        "sealed": null
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/permafrost-v1.2/permafrost-1.2.mfp",
+          "size": 617993,
+          "sha256": "cfb7533adc38a9784ff6d4fe58e485540d408a5b58b6adfcb98e02935ad5a1f3"
+        }
       },
       "installer": null,
       "mobile": null
