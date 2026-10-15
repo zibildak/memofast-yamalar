@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 73,
+  "catalogVersion": 74,
   "patches": [
     {
       "id": "battlefield-2042",
@@ -388,12 +388,12 @@
       "id": "guild-wars-2",
       "gameName": "Guild Wars 2",
       "title": "Türkçe Yama",
-      "version": "1.1",
+      "version": "1.2",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
-      "description": "Guild Wars 2® Türkçe çevirisi , 500bin satır çevrildi kalanlar siz oynarken çevrilecek",
+      "description": "Guild Wars 2® Türkçe çevirisi , çevrilmeyen kısımlar çevrildi oyunun ruguna uygun çeviri hataları düzeltildi",
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-15",
       "comingSoon": false,
@@ -412,9 +412,9 @@
         "size": 20383300,
         "sha256": "acfc49fb9883faa5e0f154e72e4a4930ea134c6a6515a714a50cd9fdb3a5ee45",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/guild-wars-2-v1.1/guild-wars-2-1.1.mfp",
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/guild-wars-2-v1.2/guild-wars-2-1.2.mfp",
           "size": 20383636,
-          "sha256": "e1c67bdc97658fcc63d8be64cddb1cddf23d0d540d64cd7e96c9bf369f4df9fa"
+          "sha256": "feeb425f5a7489c2d6f342bc644e863712c1573445600d5f9192a39af16c4ee1"
         }
       },
       "installer": {
