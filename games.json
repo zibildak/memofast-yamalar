@@ -1,6 +1,42 @@
 {
-  "catalogVersion": 75,
+  "catalogVersion": 76,
   "patches": [
+    {
+      "id": "clive-barker-s-hellraiser-revival",
+      "gameName": "Clive Barker's Hellraiser Revival",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Clive Barker's Hellraiser Revival tam çevirisi sizlerle Keyifli oyunlar dilerim",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-15",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 1551980
+      },
+      "package": {
+        "url": null,
+        "size": 83733662,
+        "sha256": "4b72354acbb4ecceeef952344679ce0d99d4d605a62d4a8ccf2e67a92054ead0",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/clive-barker-s-hellraiser-revival-v1.0/clive-barker-s-hellraiser-revival-1.0.mfp",
+          "size": 83734958,
+          "sha256": "7457073d64403f01faacf57331aa5a78ef1ec58bc8735c59e09bf1c1e135ca52"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "battlefield-2042",
       "gameName": "Battlefield™ 2042",
