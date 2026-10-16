@@ -1,6 +1,38 @@
 {
-  "catalogVersion": 76,
+  "catalogVersion": 77,
   "patches": [
+    {
+      "id": "among-the-trolls",
+      "gameName": "Among the Trolls",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Among the Trolls tam çeviri sizlerle keyifli oyunlar dilerim.",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-16",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 1675260
+      },
+      "package": {
+        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/among-the-trolls-v1.0/among-the-trolls-1.0.zip",
+        "size": 67083090,
+        "sha256": "cb15fb6b71e23fe6e3260f4097dab3406f247f8737ed2589872651cf229c3542",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "clive-barker-s-hellraiser-revival",
       "gameName": "Clive Barker's Hellraiser Revival",
