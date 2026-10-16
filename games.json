@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 78,
+  "catalogVersion": 79,
   "patches": [
     {
       "id": "among-the-trolls",
@@ -989,14 +989,14 @@
       "id": "nte-neverness-to-everness",
       "gameName": "NTE: Neverness to Everness",
       "title": "Türkçe Yama",
-      "version": "1.2",
+      "version": "1.3",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
       "description": "NTE: Neverness to Everness oyunu için son güncellemede dahil tamamı Türkçeye çevrilmiştir.",
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-10-16",
+      "updatedAt": "2026-10-17",
       "comingSoon": false,
       "changelog": [],
       "info": {
@@ -1010,12 +1010,12 @@
       },
       "package": {
         "url": null,
-        "size": 11909714,
-        "sha256": "8cb49f88aa37b2e07b88a6a2d834244c82519550479ce195926b5a88352258e5",
+        "size": 36179845,
+        "sha256": "41329540f4e821427250743f24e01cdb42e31d694c71b5386d505a5f478f22c1",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/nte-neverness-to-everness-v1.2/nte-neverness-to-everness-1.2.mfp",
-          "size": 11909922,
-          "sha256": "5189f26ed557d5c6b52229368266fbad1dda050351f2a9d883638e0d666a84cf"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/nte-neverness-to-everness-v1.3/nte-neverness-to-everness-1.3.mfp",
+          "size": 36180421,
+          "sha256": "fbfae6c5863a11322c8ff79345131fa68bcbc94187b1ac24640ed4430fed3fc8"
         }
       },
       "installer": null,
