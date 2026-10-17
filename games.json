@@ -1,12 +1,14 @@
 {
-  "catalogVersion": 82,
+  "catalogVersion": 83,
   "patches": [
     {
       "id": "arknights-endfield",
       "gameName": "Arknights Endfield",
       "title": "Türkçe Yama",
-      "version": "1.0",
+      "version": "1.1",
       "tier": "pro",
+      "freeUntil": "2026-10-20T14:59:59.1316721Z",
+      "freeKey": "thP55gdBkaUGAlIiGXhT4KMcVwCyQS1KlKnWTmr12kE=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -25,7 +27,8 @@
       ],
       "info": {
         "Kurulum": "Dosya ekleme / değiştirme",
-        "Çeviren": "MemoFast ekibi"
+        "Çeviren": "MemoFast ekibi",
+        "Kapsam": "Tümü"
       },
       "detect": {
         "mustExist": [],
@@ -36,9 +39,9 @@
         "size": 19588477,
         "sha256": "75a81c86d0d55caab66cdce7ac13715ed9fc1512c56a75fbdb7101116e0ee1b9",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/arknights-endfield-v1.0/arknights-endfield-1.0.mfp",
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/arknights-endfield-v1.1/arknights-endfield-1.1.mfp",
           "size": 19588797,
-          "sha256": "49d5682a2689748e2362aec28ddb91d9076fc6d834c2871c61b27fdd2696543d"
+          "sha256": "f93bcc5b9ddefd59e17b6233861e848fb7b281ecb91bb78b8fb68cd3d091cf34"
         }
       },
       "installer": null,
