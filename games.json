@@ -1,6 +1,49 @@
 {
-  "catalogVersion": 81,
+  "catalogVersion": 82,
   "patches": [
+    {
+      "id": "arknights-endfield",
+      "gameName": "Arknights Endfield",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Arknights Endfield Türkçe yama eklendi tam çeviri olarak keyifli oyunlar dilerim.",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-17",
+      "comingSoon": false,
+      "changelog": [
+        {
+          "version": "1.0",
+          "date": "2026-10-17",
+          "notes": [
+            "Tümü"
+          ]
+        }
+      ],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4732690
+      },
+      "package": {
+        "url": null,
+        "size": 19588477,
+        "sha256": "75a81c86d0d55caab66cdce7ac13715ed9fc1512c56a75fbdb7101116e0ee1b9",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/arknights-endfield-v1.0/arknights-endfield-1.0.mfp",
+          "size": 19588797,
+          "sha256": "49d5682a2689748e2362aec28ddb91d9076fc6d834c2871c61b27fdd2696543d"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "among-the-trolls",
       "gameName": "Among the Trolls",
