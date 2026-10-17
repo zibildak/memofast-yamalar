@@ -1,11 +1,15 @@
 {
-  "version": "1.0.13",
+  "version": "1.0.14",
   "notes": [
-    "Mobil oyunlar için yama yükleme özelliği eklendi"
+    "Ana sayfada raflı yeni görünüm",
+    "3 gün ücretsiz yamalar",
+    "Pro düğmesinde kalan gün",
+    "Yama sayfasında arka plan resmi",
+    "Yeni Oyunu başlat düğmesi"
   ],
-  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.13.exe",
-  "sha256": "8bebad53069ff16955bec1ab4b9c0ca72d028b388a1466eb4b5716d88f6eafba",
-  "size": 76153206,
-  "mandatory": true,
-  "publishedAt": "2026-10-12"
+  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.14.exe",
+  "sha256": "8c850580b3d6bb919bc48286cd7708c5357014e3560ccb7bb3bacc664327c605",
+  "size": 76160658,
+  "mandatory": false,
+  "publishedAt": "2026-10-17"
 }
