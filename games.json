@@ -1,6 +1,44 @@
 {
-  "catalogVersion": 83,
+  "catalogVersion": 84,
   "patches": [
+    {
+      "id": "all-rats-on-deck",
+      "gameName": "All Rats on Deck",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-10-20T15:27:44.6063035Z",
+      "freeKey": "ae9M5t0B3vBPfhmxM7esaNoug69HTjhREJLDrUE8cyU=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "All Rats on Deck demo Türkçe yama keyifli oyunlar",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-17",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4536480
+      },
+      "package": {
+        "url": null,
+        "size": 66799108,
+        "sha256": "ebd790c17f1eeae83bc74c6e5c4bfcfd7cc37dcd7fd9bafa58aa1bac288fb0e2",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/all-rats-on-deck-v1.0/all-rats-on-deck-1.0.mfp",
+          "size": 66800148,
+          "sha256": "648003e044bf5d3b965ef4f76a20f7ba59e4c607a4f31d6189ed43e30b537196"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "arknights-endfield",
       "gameName": "Arknights Endfield",
