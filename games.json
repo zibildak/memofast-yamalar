@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 80,
+  "catalogVersion": 81,
   "patches": [
     {
       "id": "among-the-trolls",
@@ -989,7 +989,7 @@
       "id": "nte-neverness-to-everness",
       "gameName": "NTE: Neverness to Everness",
       "title": "Türkçe Yama",
-      "version": "1.4",
+      "version": "1.5",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -1010,12 +1010,12 @@
       },
       "package": {
         "url": null,
-        "size": 14549290,
-        "sha256": "616e94eb523124b348ced61433aebb3e8c1b4b8470e895c248b322285bfb595c",
+        "size": 14549371,
+        "sha256": "7a4243f2cea7db232ae59e78ce748e219f329d32c9103db836e4c34e1ffaaa78",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/nte-neverness-to-everness-v1.4/nte-neverness-to-everness-1.4.mfp",
-          "size": 14549530,
-          "sha256": "0cdfff7970503250a077d998ae82aeadbaf1f74ce06b6a3370fb9f0a64eb2215"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/nte-neverness-to-everness-v1.5/nte-neverness-to-everness-1.5.mfp",
+          "size": 14549611,
+          "sha256": "ef1514aeb02c3869ff145d03ab382bcf0985a0d5b4a4efa58e37ba4bbbdd1c2e"
         }
       },
       "installer": null,
