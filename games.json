@@ -1,6 +1,45 @@
 {
-  "catalogVersion": 91,
+  "catalogVersion": 92,
   "patches": [
+    {
+      "id": "disneypixar-toy-story-3-complete-edition",
+      "gameName": "DisneyPixar Toy Story 3 Complete Edition",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-10-22T22:45:03.8589203Z",
+      "freeKey": "DlGxL82s1hYCdlW1oV2ZFoXEKjYpPt74dPEO+oQkkTk=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Oyuncak sandığını yeniden aç! 2010 yapımı popüler animasyon filmi Toy Story 3'ü temel alan 3 boyutlu macera Toy Story 3 Complete Edition'da Woody, Buzz Işıkyılı ve Jessie ile eğlenceye atıl. Hikâye Modu ile film sahnelerini yaşa veya Oyuncak Kutusu Modu'nda Woody'nin Dünyası sandbox eğlencesine dal!",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-20",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kapsam": "tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4049180
+      },
+      "package": {
+        "url": null,
+        "size": 24485706,
+        "sha256": "e4035a1e80dd61a8d5fd76de5abcc8e96cb4e38b0edf9a95943c8a2f66fe6d70",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/disneypixar-toy-story-3-complete-edition-v1.0/disneypixar-toy-story-3-complete-edition-1.0.mfp",
+          "size": 24486106,
+          "sha256": "7767f31323290b54916e6baeb131b772157b36433ea4be13578586b9e50b02b3"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "silver-pines",
       "gameName": "Silver Pines",
