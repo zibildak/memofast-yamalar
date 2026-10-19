@@ -1,6 +1,45 @@
 {
-  "catalogVersion": 88,
+  "catalogVersion": 89,
   "patches": [
+    {
+      "id": "silver-pines",
+      "gameName": "Silver Pines",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-10-22T08:42:01.7250095Z",
+      "freeKey": "XPOxyaukWCkcd15DSfdAQ5If0R7+w7NFfkOMFjmDpMA=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Silver Pines tamamı Türkçe olarak eklendi keyifli oyunlar dilerim.",
+      "about": "",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-19",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2333000
+      },
+      "package": {
+        "url": null,
+        "size": 97221,
+        "sha256": "4f04d3394d01847186a3c39422db4b1056816e03958fa624f21723a8a402c251",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/silver-pines-v1.0/silver-pines-1.0.mfp",
+          "size": 97253,
+          "sha256": "a2bb85ef9eeb8004c337e6dbda73d981fcb35233c34eacf75bbe089bd22ad925"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "forever-ago",
       "gameName": "Forever Ago",
