@@ -1,6 +1,52 @@
 {
-  "catalogVersion": 87,
+  "catalogVersion": 88,
   "patches": [
+    {
+      "id": "forever-ago",
+      "gameName": "Forever Ago",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-10-22T06:40:52.0974206Z",
+      "freeKey": "y3nEOBHvzcsMzG4YsCcMWVzI5uq9TkC8iFzACk289dA=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Forever Ago oyunu için tam çeviri Türkçe eklendi keyifli oyunlar",
+      "about": "",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-19",
+      "comingSoon": false,
+      "changelog": [
+        {
+          "version": "1.0",
+          "date": "2026-10-19",
+          "notes": [
+            "Tümü"
+          ]
+        }
+      ],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 1215940
+      },
+      "package": {
+        "url": null,
+        "size": 13914656,
+        "sha256": "85915abc0bc180beab21f6230aaeca0c9335abe5eee68eb90eae467c3ebdd36d",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/forever-ago-v1.0/forever-ago-1.0.mfp",
+          "size": 13914896,
+          "sha256": "9d622c279e0f74a5a52cd42a04314479274e5876fd3e6ed36287d481eea30415"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "silent-hill-townfall",
       "gameName": "SILENT HILL Townfall",
