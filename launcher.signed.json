@@ -1,4 +1,4 @@
 {
-  "data": "{\r\n  \"version\": \"1.0.14\",\r\n  \"notes\": [\r\n    \"Ana sayfada raflı yeni görünüm\",\r\n    \"3 gün ücretsiz yamalar\",\r\n    \"Pro düğmesinde kalan gün\",\r\n    \"Yama sayfasında arka plan resmi\",\r\n    \"Yeni Oyunu başlat düğmesi\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.14.exe\",\r\n  \"sha256\": \"8c850580b3d6bb919bc48286cd7708c5357014e3560ccb7bb3bacc664327c605\",\r\n  \"size\": 76160658,\r\n  \"mandatory\": false,\r\n  \"publishedAt\": \"2026-10-17\"\r\n}",
-  "sig": "L1AhsVvmKW3Lv9sKHtIJGOqS/JqJACKeDSINeSJ3RXJXXgSUkcH+73Ar8Wo24CX5SIRv/qNjYB18aqDOA+nzKQ=="
+  "data": "{\r\n  \"version\": \"1.0.15\",\r\n  \"notes\": [\r\n    \"Ana sayfada en üstte son eklenen 5 yama\",\r\n    \"YouTuber kodları ile süreli Pro desteği\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.15.exe\",\r\n  \"sha256\": \"be8d7fb24cac4bed799cde7b192f7ea830a4d06ae6f4620ec30f9d91d1d1b9c8\",\r\n  \"size\": 76165062,\r\n  \"mandatory\": true,\r\n  \"publishedAt\": \"2026-10-19\"\r\n}",
+  "sig": "i36Epap46mfgvIcxa6tzqs5ZbZsWvpatHxSv8BvhZCT6iP3n1p2j/lSfh3BoBOSlFT25xmavZLW6bNWVyjNSxw=="
 }
