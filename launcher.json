@@ -1,12 +1,11 @@
 {
-  "version": "1.0.15",
+  "version": "1.0.16",
   "notes": [
-    "Ana sayfada en üstte son eklenen 5 yama",
-    "YouTuber kodları ile süreli Pro desteği"
+    "Telefon yamalarında kur düğmesinin pasif kalması düzeltildi"
   ],
-  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.15.exe",
-  "sha256": "be8d7fb24cac4bed799cde7b192f7ea830a4d06ae6f4620ec30f9d91d1d1b9c8",
-  "size": 76165062,
+  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.16.exe",
+  "sha256": "b63cd0ec0d8cc567b3082dc968abd54e9506e8c08fee85350997cfab9429a561",
+  "size": 76165071,
   "mandatory": true,
-  "publishedAt": "2026-10-19"
+  "publishedAt": "2026-10-20"
 }
