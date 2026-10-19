@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 89,
+  "catalogVersion": 90,
   "patches": [
     {
       "id": "silver-pines",
@@ -445,15 +445,17 @@
       "gameName": "Planet Zoo 2",
       "title": "Türkçe Yama",
       "version": "1.0",
-      "tier": "free",
+      "tier": "pro",
+      "freeUntil": "2026-10-22T18:57:45.1347255Z",
+      "freeKey": "H839uHK8psOuMjdGZB56BxIO1Fquf09NVdK58qeQBrw=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
-      "description": "Planet Zoo 2 için yama çalışması başlamıştır",
+      "description": "Planet Zoo 2 Tam çeviri Türkçe yama eklenmiştir. Keyifli oyunlar",
       "about": "",
-      "warning": "",
-      "updatedAt": "2026-10-12",
-      "comingSoon": true,
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-19",
+      "comingSoon": false,
       "changelog": [],
       "info": {
         "Kurulum": "Dosya ekleme / değiştirme",
@@ -466,9 +468,13 @@
       },
       "package": {
         "url": null,
-        "size": 0,
-        "sha256": "",
-        "sealed": null
+        "size": 3566140,
+        "sha256": "88bbfbca59d8925d2a1abf7e12a5e0356ad876a22ef8a1431fb1f5742be0014e",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/planet-zoo-2-v1.0/planet-zoo-2-1.0.mfp",
+          "size": 3566220,
+          "sha256": "63204373ce17a49a965097f52f56c7948c0f253f36e11d76093b07b0c1ff9f48"
+        }
       },
       "installer": null,
       "mobile": null
