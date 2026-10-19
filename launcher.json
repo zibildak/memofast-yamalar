@@ -1,15 +1,12 @@
 {
-  "version": "1.0.14",
+  "version": "1.0.15",
   "notes": [
-    "Ana sayfada raflı yeni görünüm",
-    "3 gün ücretsiz yamalar",
-    "Pro düğmesinde kalan gün",
-    "Yama sayfasında arka plan resmi",
-    "Yeni Oyunu başlat düğmesi"
+    "Ana sayfada en üstte son eklenen 5 yama",
+    "YouTuber kodları ile süreli Pro desteği"
   ],
-  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.14.exe",
-  "sha256": "8c850580b3d6bb919bc48286cd7708c5357014e3560ccb7bb3bacc664327c605",
-  "size": 76160658,
-  "mandatory": false,
-  "publishedAt": "2026-10-17"
+  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.15.exe",
+  "sha256": "be8d7fb24cac4bed799cde7b192f7ea830a4d06ae6f4620ec30f9d91d1d1b9c8",
+  "size": 76165062,
+  "mandatory": true,
+  "publishedAt": "2026-10-19"
 }
