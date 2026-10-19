@@ -1,6 +1,45 @@
 {
-  "catalogVersion": 86,
+  "catalogVersion": 87,
   "patches": [
+    {
+      "id": "silent-hill-townfall",
+      "gameName": "SILENT HILL Townfall",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-10-22T02:00:26.0156295Z",
+      "freeKey": "0zR2nYpg2Z6LTmiDLTRagkXdgPuj1cS4FGQhxwNnTK8=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "",
+      "warning": "Yamayı kurduktan sonra oyuna girip ayarlardan dil seçeneğini Fransızca olarak seçmeniz gerek. Keyifli oyunlar",
+      "updatedAt": "2026-10-19",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 1636440
+      },
+      "package": {
+        "url": null,
+        "size": 1693483,
+        "sha256": "a9c91c719f635da56f22ed011433ab292a2e485cf85989ea656a00d07ab42a9b",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/silent-hill-townfall-v1.0/silent-hill-townfall-1.0.mfp",
+          "size": 1693531,
+          "sha256": "9e09417c4de77f46ee64e0eff90da2515420ae757c513b38fa16fd084455920c"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "the-crimson-hunt",
       "gameName": "The Crimson Hunt",
