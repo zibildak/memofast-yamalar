@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 90,
+  "catalogVersion": 91,
   "patches": [
     {
       "id": "silver-pines",
@@ -1428,15 +1428,15 @@
       "id": "where-winds-meet",
       "gameName": "Where Winds Meet",
       "title": "Türkçe Yama",
-      "version": "1.3",
+      "version": "1.4",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
       "description": "Where Winds Meet son gelen güncelleme dahil tüm oyun metni türkçeye çevrildi",
       "about": "",
-      "warning": "",
-      "updatedAt": "2026-09-28",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-20",
       "comingSoon": false,
       "changelog": [
         {
@@ -1448,7 +1448,7 @@
         }
       ],
       "info": {
-        "Kapsam": "ana menü, görevler, yyyy hatası",
+        "Kapsam": "Güncelleme sonrası Tümü",
         "Çeviren": "MemoFast ekibi",
         "Kurulum": "Dosya ekleme / değiştirme"
       },
@@ -1458,12 +1458,12 @@
       },
       "package": {
         "url": null,
-        "size": 331735268,
-        "sha256": "6355bd313f3639ab22595a001acb0c2aee2b6c12694ad1d0258822129bdd887b",
+        "size": 172137240,
+        "sha256": "79fb453a53183fe9d0e9c687d967f9ff271dce57ab4f993b3c38c1432a70af8b",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/where-winds-meet-v1.3/where-winds-meet-1.3.mfp",
-          "size": 331740356,
-          "sha256": "6e5b6162a57a37e3419b9a1b55695144971db70cefdef740037aff648b2f21c1"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/where-winds-meet-v1.4/where-winds-meet-1.4.mfp",
+          "size": 172139896,
+          "sha256": "46b8bd3abce6d0d47e9c4c905cb715944347c032afab30215d117a81a9188175"
         }
       },
       "installer": null,
