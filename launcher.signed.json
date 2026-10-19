@@ -1,4 +1,4 @@
 {
-  "data": "{\r\n  \"version\": \"1.0.15\",\r\n  \"notes\": [\r\n    \"Ana sayfada en üstte son eklenen 5 yama\",\r\n    \"YouTuber kodları ile süreli Pro desteği\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.15.exe\",\r\n  \"sha256\": \"be8d7fb24cac4bed799cde7b192f7ea830a4d06ae6f4620ec30f9d91d1d1b9c8\",\r\n  \"size\": 76165062,\r\n  \"mandatory\": true,\r\n  \"publishedAt\": \"2026-10-19\"\r\n}",
-  "sig": "i36Epap46mfgvIcxa6tzqs5ZbZsWvpatHxSv8BvhZCT6iP3n1p2j/lSfh3BoBOSlFT25xmavZLW6bNWVyjNSxw=="
+  "data": "{\r\n  \"version\": \"1.0.16\",\r\n  \"notes\": [\r\n    \"Telefon yamalarında kur düğmesinin pasif kalması düzeltildi\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.16.exe\",\r\n  \"sha256\": \"b63cd0ec0d8cc567b3082dc968abd54e9506e8c08fee85350997cfab9429a561\",\r\n  \"size\": 76165071,\r\n  \"mandatory\": true,\r\n  \"publishedAt\": \"2026-10-20\"\r\n}",
+  "sig": "GBxMYjFlqFusBwz6aBlR591qHi043BK0aibKsefMXpUrs6IFHze1VGHQyQ/rDVjUTQId5IlubPZ7KFiK4PtJAA=="
 }
