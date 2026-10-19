@@ -1,6 +1,47 @@
 {
-  "catalogVersion": 92,
+  "catalogVersion": 93,
   "patches": [
+    {
+      "id": "where-winds-meet-mobil",
+      "gameName": "Where Winds Meet Mobil",
+      "title": "Mobil Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Antik Çin'de geçen bir açık dünya aksiyon - macera RPG oyununa adım atın. Mütevazı bir köy gezgininden imparatorluk başkentinin kılıç ustasına yükselirken kendi kimliğinin sırlarını ortaya çıkar. Dövüş sanatlarını öğren ve bu ücretsiz wuxia dünyasında bir kahraman veya kaos getirici olarak ününü inşa et.",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-20",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Telefona kurulur (USB)",
+        "Platform": "Android",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3564740
+      },
+      "package": {
+        "url": null,
+        "size": 229516206,
+        "sha256": "aa14d6b565791270cde3d3a72218168c1fda3497e9505f7c4e6e47e651e2331e",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/where-winds-meet-mobil-v1.0/where-winds-meet-mobil-1.0.mfp",
+          "size": 229519726,
+          "sha256": "b25ce17aa3cf011659b670b60e19205f7976351bdf0a0621753ef244de55e3e4"
+        }
+      },
+      "installer": null,
+      "mobile": {
+        "package": "com.netease.yysls",
+        "targetPath": "Android/data/com.netease.yysls/files",
+        "mustExist": []
+      }
+    },
     {
       "id": "disneypixar-toy-story-3-complete-edition",
       "gameName": "DisneyPixar Toy Story 3 Complete Edition",
