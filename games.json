@@ -1,6 +1,47 @@
 {
-  "catalogVersion": 96,
+  "catalogVersion": 97,
   "patches": [
+    {
+      "id": "gone-fishing",
+      "gameName": "GONE Fishing",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-10-23T20:56:36.5139212Z",
+      "freeKey": "zY4NR5Q07MWy0GvMltNYmeOZP0KsmxAsrTfRBvwC11M=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "GONE Fishing, 1-8 oyunculu bir hayatta kalma korku oyunu. Arkadaşlarınla birlikte hayatta kalmalısın... balık tutarak. Hayatta kalmanın tek yolu, göl seni yutmadan önce onun doymak bilmez açlığını beslemeye devam etmek. Bu açlığı doyurabilecek misin... yoksa bir sonraki adak sen mi olacaksın?",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-20",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [
+          "GONEfishing.exe"
+        ],
+        "steamAppId": 3645890
+      },
+      "package": {
+        "url": null,
+        "size": 57251,
+        "sha256": "d75f0e89bf5ea0b5e9f165624de3fc4a1485020c5d5b37b1d47ef5af368b662c",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/gone-fishing-v1.0/gone-fishing-1.0.mfp",
+          "size": 57283,
+          "sha256": "c2f59f23a3e27264905a046c3e428621c3e0a73bc1bdaea0f7f817fafa36cec8"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "battlefield-3",
       "gameName": "Battlefield 3™",
