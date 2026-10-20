@@ -1,6 +1,45 @@
 {
-  "catalogVersion": 93,
+  "catalogVersion": 94,
   "patches": [
+    {
+      "id": "shipping-store-simulator-2037",
+      "gameName": "Shipping Store Simulator 2037",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Gelecekte iflas etmiş bir teslimat hizmetinin yöneticisisiniz. Her şeyi kendiniz yapın veya robotlar ve dronlarla otomatikleştirin. VIP müşteriler, karaborsa, rakiplerin kirli numaraları ve kamyonet yarışları; pek çok sır barındıran canlı bir şehre sadece kısa bir bakış.",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-20",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Oyun dosyasına işlenir",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4098030
+      },
+      "package": {
+        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/shipping-store-simulator-2037-v1.0/shipping-store-simulator-2037-1.0.zip",
+        "size": 176563,
+        "sha256": "cd74b3bc979f8c08ab1de9d8e44206f835c47b41befc39fdecc47b740ffc5523",
+        "sealed": null
+      },
+      "installer": {
+        "script": "kur.ps1",
+        "installArgs": "-Mode kur -Oyun \"{oyun}\"",
+        "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
+        "env": {},
+        "watchFiles": []
+      },
+      "mobile": null
+    },
     {
       "id": "where-winds-meet-mobil",
       "gameName": "Where Winds Meet Mobil",
@@ -256,8 +295,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-10-20T15:27:44.6063035Z",
-      "freeKey": "ae9M5t0B3vBPfhmxM7esaNoug69HTjhREJLDrUE8cyU=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -295,8 +332,6 @@
       "title": "Türkçe Yama",
       "version": "1.1",
       "tier": "pro",
-      "freeUntil": "2026-10-20T14:59:59.1316721Z",
-      "freeKey": "thP55gdBkaUGAlIiGXhT4KMcVwCyQS1KlKnWTmr12kE=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
