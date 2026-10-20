@@ -1,6 +1,44 @@
 {
-  "catalogVersion": 94,
+  "catalogVersion": 95,
   "patches": [
+    {
+      "id": "battlefield-3",
+      "gameName": "Battlefield 3™",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-10-23T20:14:27.3024791Z",
+      "freeKey": "121y1fyyvpG0lHxJ1iOCMECAwlLNR6/dCwWlcRSJ7pU=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "DİKKAT!Oyunda denenmedi EA bende hesap sorunu var deneyip Discord veya youtubede son video altına yorum yaparsanız bakarım",
+      "about": "İstediğiniz gibi savaşma özgürlüğünün tadını çıkarın. 29 devasa çok oyunculu haritayı keşfedin ve tansiyonu yükseltmenize yardımcı olacak taşıtları, silahları ve cihazları kullanın. Çatışmanın her anında ekstra ögeleri açmaya ve Rütbe yükselmeye bir adım daha yaklaşacaksınız. Aksiyona ortak olun.",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-20",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 1238820
+      },
+      "package": {
+        "url": null,
+        "size": 5522629,
+        "sha256": "67f94d1e967b6215a4a5a5fad932fb5e583c7f25beb7a60ae8cabe68c8f22bf0",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/battlefield-3-v1.0/battlefield-3-1.0.mfp",
+          "size": 5522741,
+          "sha256": "70d0d6fb751f0f87422abd3381e548246ec856d1f77c2dd09d005f5784fd9ecc"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "shipping-store-simulator-2037",
       "gameName": "Shipping Store Simulator 2037",
