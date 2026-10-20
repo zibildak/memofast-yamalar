@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 95,
+  "catalogVersion": 96,
   "patches": [
     {
       "id": "battlefield-3",
@@ -43,8 +43,10 @@
       "id": "shipping-store-simulator-2037",
       "gameName": "Shipping Store Simulator 2037",
       "title": "Türkçe Yama",
-      "version": "1.0",
-      "tier": "free",
+      "version": "1.1",
+      "tier": "pro",
+      "freeUntil": "2026-10-23T20:28:17.9608213Z",
+      "freeKey": "hoql5WWJUNyn+KzigHmjpQnEzFL7YPqMxKV5q3mhxGo=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -64,10 +66,14 @@
         "steamAppId": 4098030
       },
       "package": {
-        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/shipping-store-simulator-2037-v1.0/shipping-store-simulator-2037-1.0.zip",
+        "url": null,
         "size": 176563,
         "sha256": "cd74b3bc979f8c08ab1de9d8e44206f835c47b41befc39fdecc47b740ffc5523",
-        "sealed": null
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/shipping-store-simulator-2037-v1.1/shipping-store-simulator-2037-1.1.mfp",
+          "size": 176595,
+          "sha256": "2dd7587bf54c06cde28a73cebe347c58604b0ea7b38f3a3500a410c75c2ff631"
+        }
       },
       "installer": {
         "script": "kur.ps1",
