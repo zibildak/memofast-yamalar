@@ -1,6 +1,48 @@
 {
-  "catalogVersion": 97,
+  "catalogVersion": 98,
   "patches": [
+    {
+      "id": "blue-protocol-star-resonance",
+      "gameName": "Blue Protocol Star Resonance",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Blue Protocol Star Resonance Türkçe yama tam çeviri sizlerle",
+      "about": "Blue Protokol: Star Resonance, Blue Protokol evrenini canlı bir MMORPG deneyimiyle genişletiyor. Kendi kahramanınızı yaratın, stratejik baskınlar için takım kurun ya da sadece rahatlayın ve arkadaşlarınızla balık tutma, el işi yapma ve sonsuz keşiflerle eğlenin. Macera bekliyor!",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-21",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Oyun dosyasına işlenir",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3681810
+      },
+      "package": {
+        "url": null,
+        "size": 25353382,
+        "sha256": "1079462676f8b6d1488e7ca0de70b412f98549dda8ccb7a7a0ae73ea3b96ba6e",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/blue-protocol-star-resonance-v1.0/blue-protocol-star-resonance-1.0.mfp",
+          "size": 25353798,
+          "sha256": "27c35f345b6b133bc231f69b602b8ffc7b273c2f3e14b0c0bb6a55428e02d424"
+        }
+      },
+      "installer": {
+        "script": "kur.ps1",
+        "installArgs": "-Mode kur -Oyun \"{oyun}\"",
+        "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
+        "env": {},
+        "watchFiles": []
+      },
+      "mobile": null
+    },
     {
       "id": "gone-fishing",
       "gameName": "GONE Fishing",
@@ -335,8 +377,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-10-21T07:05:29.1467375Z",
-      "freeKey": "IgfTmzQLivNHBOv/A6F1cdGgFb2LKTK29PMyk0xkDpY=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
