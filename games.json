@@ -1,6 +1,38 @@
 {
-  "catalogVersion": 98,
+  "catalogVersion": 99,
   "patches": [
+    {
+      "id": "archeage-chronicles-demo",
+      "gameName": "ArcheAge Chronicles Demo",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Derin bir geçmişe sahip ve heyecan verici aksiyonla dolu Auroria'nın engin ve rengârenk dünyasını keşfet. ArcheAge Chronicles hem yeni gelen oyuncuların hem de deneyimli maceracıların gönüllerini fethedecek sürükleyici bir deneyim sunar.",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-21",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3218230
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "blue-protocol-star-resonance",
       "gameName": "Blue Protocol Star Resonance",
