@@ -1,6 +1,45 @@
 {
-  "catalogVersion": 99,
+  "catalogVersion": 100,
   "patches": [
+    {
+      "id": "blades-of-time",
+      "gameName": "Blades of Time",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-10-24T21:42:02.2234654Z",
+      "freeKey": "OH5tPGXaf+fJMblNfXFeM9LVc2YxFuMJqo+Y9b+9K0Y=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Muhteşem silah ve kılıç kullanan hazine avcısı Ayumi, yeni maceralar aramak için eski bir adaya yolculuğa çıkıyor. Ödül açısından zengin olmasına rağmen ada aynı zamanda Kaos'un büyüsüyle de doludur ve aynı zamanda kana susamış canavarlara da ev sahipliği yapar.",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-22",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 208670
+      },
+      "package": {
+        "url": null,
+        "size": 2107820,
+        "sha256": "e8ce1b91b303c1dc89f04984b235d02b239a2671e8c74940400c677dbfcace96",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/blades-of-time-v1.0/blades-of-time-1.0.mfp",
+          "size": 2107884,
+          "sha256": "a3c0250f5bc52d0da35de4f0f1a9f170effeefaaabc989306296a2f3ffd18c14"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "archeage-chronicles-demo",
       "gameName": "ArcheAge Chronicles Demo",
