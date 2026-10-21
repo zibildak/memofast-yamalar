@@ -1,6 +1,44 @@
 {
-  "catalogVersion": 100,
+  "catalogVersion": 101,
   "patches": [
+    {
+      "id": "tenebris-somnia",
+      "gameName": "Tenebris Somnia",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-10-24T22:04:06.7767697Z",
+      "freeKey": "QU19nKAj3DG1hfb8Ey/jZFq4pjujsTUct2biilG4oLE=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Bulmacaları çözüp korkunç yaratıklarla savaşarak tüyler ürpertici bir hikayenin derinliklerini ortaya çıkarın. ...Ya bunlar sadece kabuslardan ibaret değilse?",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-22",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2121510
+      },
+      "package": {
+        "url": null,
+        "size": 72093,
+        "sha256": "19c03fc86949fba48be2b2f28b9fb6d4fc6a7fe6abcc3dd0bc1dd669d90e9d6d",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/tenebris-somnia-v1.0/tenebris-somnia-1.0.mfp",
+          "size": 72125,
+          "sha256": "c16b3704eb6db45f5e0e264c62829f1313d5e4a1c711353a5466da9e26ac8507"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "blades-of-time",
       "gameName": "Blades of Time",
@@ -573,8 +611,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-10-21T21:49:19.0161997Z",
-      "freeKey": "ckJdupxIn3oCsnSvI/15cZJDaaJrEZq2eaGcaBzgNLI=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
