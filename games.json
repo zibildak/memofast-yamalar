@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 101,
+  "catalogVersion": 102,
   "patches": [
     {
       "id": "tenebris-somnia",
@@ -362,8 +362,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-10-22T08:42:01.7250095Z",
-      "freeKey": "XPOxyaukWCkcd15DSfdAQ5If0R7+w7NFfkOMFjmDpMA=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -401,8 +399,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-10-22T06:40:52.0974206Z",
-      "freeKey": "y3nEOBHvzcsMzG4YsCcMWVzI5uq9TkC8iFzACk289dA=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -447,8 +443,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-10-22T02:00:26.0156295Z",
-      "freeKey": "0zR2nYpg2Z6LTmiDLTRagkXdgPuj1cS4FGQhxwNnTK8=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -793,8 +787,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-10-22T18:57:45.1347255Z",
-      "freeKey": "H839uHK8psOuMjdGZB56BxIO1Fquf09NVdK58qeQBrw=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -1593,15 +1585,15 @@
       "id": "once-human",
       "gameName": "Once Human",
       "title": "Türkçe Yama",
-      "version": "1.2",
+      "version": "1.3",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
-      "description": "Once Human oyunu çevirisi detaylı incelendi ve makına cevırısı sonrası anlam kayması veya çeviri hatası olan 5110 satır düzeltildi, Claude ile yama baştan sona incelenip düzeltildi",
-      "about": "",
+      "description": "Once Human Güncelleme sonrası yenı metinler eklendi",
+      "about": "Once Human, garip, kıyamet sonrası bir gelecekte geçen bir Garip Dünyalar Hayatta Kalma Oyunudur. Canavar düşmanlarla savaşmak, gizli planları ortaya çıkarmak, kaynaklar için rekabet etmek ve kendi bölgenizi inşa etmek için arkadaşlarınızla birleşin. Bir zamanlar sadece insandın. Artık dünyayı yeniden yaratma gücüne sahipsiniz.",
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-10-15",
+      "updatedAt": "2026-10-23",
       "comingSoon": false,
       "changelog": [],
       "info": {
@@ -1615,12 +1607,12 @@
       },
       "package": {
         "url": null,
-        "size": 24436315,
-        "sha256": "c4b1dfe976343712ab33991d66df656c9300819da2b3072795d3a49974485033",
+        "size": 24940305,
+        "sha256": "3baad1143dd80e446b18e3a3f6f231690baf924fab450ede5e1a294f46639a82",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-v1.2/once-human-1.2.mfp",
-          "size": 24436715,
-          "sha256": "263e6b2d2ed2ed4d8a3b374b273fe79b511839bf2f17b2a5c7c0ff02c4254085"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-v1.3/once-human-1.3.mfp",
+          "size": 24940705,
+          "sha256": "99e5b853a70af8f50964105580cb25c025ef4c0c53a2b378086e7c65a1ccf7af"
         }
       },
       "installer": null,
