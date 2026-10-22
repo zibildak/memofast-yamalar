@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 102,
+  "catalogVersion": 103,
   "patches": [
     {
       "id": "tenebris-somnia",
@@ -1585,7 +1585,7 @@
       "id": "once-human",
       "gameName": "Once Human",
       "title": "Türkçe Yama",
-      "version": "1.3",
+      "version": "1.4",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -1607,12 +1607,12 @@
       },
       "package": {
         "url": null,
-        "size": 24940305,
-        "sha256": "3baad1143dd80e446b18e3a3f6f231690baf924fab450ede5e1a294f46639a82",
+        "size": 114576610,
+        "sha256": "d25157ad43fa1649080b1119fdc74f6c0b03b7e5cec5acc4801a6a69a3210cda",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-v1.3/once-human-1.3.mfp",
-          "size": 24940705,
-          "sha256": "99e5b853a70af8f50964105580cb25c025ef4c0c53a2b378086e7c65a1ccf7af"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-v1.4/once-human-1.4.mfp",
+          "size": 114578386,
+          "sha256": "a3dcca7e00c8e2f0fbd7295ad72cf786b5220be46dbd6b3cac619fd8c9d3fc21"
         }
       },
       "installer": null,
