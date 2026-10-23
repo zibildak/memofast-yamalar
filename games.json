@@ -1,6 +1,38 @@
 {
-  "catalogVersion": 104,
+  "catalogVersion": 105,
   "patches": [
+    {
+      "id": "call-of-duty-modern-warfare-4",
+      "gameName": "Call of Duty®: Modern Warfare® 4",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Kuzey Kore'nin, Kore Yarımadası'na topyekûn işgal harekâtı başlatarak küresel barışı tehdit ettiği Call of Duty®: Modern Warfare® 4'te savaş patlak veriyor!",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-23",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4435490
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "final-fantasy-resonance",
       "gameName": "FINAL FANTASY RESONANCE",
