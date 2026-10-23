@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 108,
+  "catalogVersion": 109,
   "patches": [
     {
       "id": "atmosfar",
@@ -1002,14 +1002,14 @@
       "id": "permafrost",
       "gameName": "Permafrost",
       "title": "Türkçe Yama",
-      "version": "1.3",
+      "version": "1.4",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
       "description": "Permafrost oyunu için Türkçe tam çeviri yapıldı. Keyifli oyunlar.",
       "about": "Permafrost buz tutmuş, kıyamet sonrası bir dünyada geçen sandbox hikâye odaklı hayatta kalma oyunudur. Tek başına veya 4 oyuncuya kadar geniş, hikâyesi zengin açık dünyayı gez. Keşfet, malzeme topla, üret ve soğukla mücadele etmek için sığınaklar arasında bir ağ kur.",
-      "warning": "Yama 3 gün ücretsizdir.",
+      "warning": "",
       "updatedAt": "2026-10-23",
       "comingSoon": false,
       "changelog": [],
@@ -1027,9 +1027,9 @@
         "size": 617255,
         "sha256": "8ed29e8da6e940a86af519792730fa877799255b2557e3137357627493269b8e",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/permafrost-v1.3/permafrost-1.3.mfp",
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/permafrost-v1.4/permafrost-1.4.mfp",
           "size": 617287,
-          "sha256": "affc731ba90b7f4bf9b6c9583f77274b56fdfd3c1b0ba3d1292981f0409e4fa9"
+          "sha256": "8f50ee1f1a5f0da2cc3926c6feb6b9f1f685fba857dbf0510898b8a034e29685"
         }
       },
       "installer": null,
