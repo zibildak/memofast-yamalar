@@ -1,6 +1,38 @@
 {
-  "catalogVersion": 106,
+  "catalogVersion": 107,
   "patches": [
+    {
+      "id": "atmosfar",
+      "gameName": "ATMOSFAR",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Hayatta kalırken insanlığın son karakolunun kaderini ortaya çıkarın ve yüzen adalardan oluşan heyecan verici bir dünyayı keşfedin. Gökyüzünde kendi başınıza meydan okuyun veya arkadaşlarınızdan bir filo oluşturun ve uçan gemileri tasarlamak ve geliştirmek için hurdaları toplayın ve zeplininizi yolculuğunuz boyunca yanınıza alın.",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-23",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 1798230
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "otherside-tapes-favela",
       "gameName": "Otherside Tapes Favela",
