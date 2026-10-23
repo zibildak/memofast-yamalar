@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 110,
+  "catalogVersion": 111,
   "patches": [
     {
       "id": "terratech",
@@ -114,15 +114,15 @@
       "gameName": "Call of Duty®: Modern Warfare® 4",
       "title": "Türkçe Yama",
       "version": "1.0",
-      "tier": "free",
+      "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
-      "description": "",
+      "description": "Call of Duty®: Modern Warfare® 4 Türkçe yama AI çeviri %100 çevrili keyifli oyunlar",
       "about": "Kuzey Kore'nin, Kore Yarımadası'na topyekûn işgal harekâtı başlatarak küresel barışı tehdit ettiği Call of Duty®: Modern Warfare® 4'te savaş patlak veriyor!",
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-10-23",
-      "comingSoon": true,
+      "updatedAt": "2026-10-24",
+      "comingSoon": false,
       "changelog": [],
       "info": {
         "Kurulum": "Dosya ekleme / değiştirme",
@@ -134,9 +134,13 @@
       },
       "package": {
         "url": null,
-        "size": 0,
-        "sha256": "",
-        "sealed": null
+        "size": 5593051,
+        "sha256": "e99fb8acd9cab072141d9d8918805f2bcab50868e703417895b2ec6203744d2f",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/call-of-duty-modern-warfare-4-v1.0/call-of-duty-modern-warfare-4-1.0.mfp",
+          "size": 5593163,
+          "sha256": "a449b3cba0cd4c6f784c51f504b2873708d554568cf42b08baf8dabab5b9dc31"
+        }
       },
       "installer": null,
       "mobile": null
