@@ -1,6 +1,44 @@
 {
-  "catalogVersion": 109,
+  "catalogVersion": 110,
   "patches": [
+    {
+      "id": "terratech",
+      "gameName": "TerraTech",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-10-26T21:29:40.7059111Z",
+      "freeKey": "ry5q+6jkANliQDoSURl4mPxivYefhq3SxnvOMKFc5UM=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Şan ve kazanç amacıyla yeni yabancı dünyaların kanunsuz hudutlarına doğru zafer yolunuzda savaşırken benzersiz araç filolarını tasarla, inşa et ve yönet. LÜTFEN SATIN ALMADAN ÖNCE AŞAĞIDAKİ SİSTEM GEREKSİNİMLERİNİ KONTROL ET.",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-24",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 285920
+      },
+      "package": {
+        "url": null,
+        "size": 5888351,
+        "sha256": "6d8cb28a475040a7a7abc0fe25a91ae9f2ceccff63f62c08b42f904c11b5ab29",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/terratech-v1.0/terratech-1.0.mfp",
+          "size": 5888463,
+          "sha256": "d8f63e1ecf94997013d6943e18990f1d9c03fe8ad9d8366885cbfa2befbc349c"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "atmosfar",
       "gameName": "ATMOSFAR",
@@ -298,8 +336,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-10-23T20:56:36.5139212Z",
-      "freeKey": "zY4NR5Q07MWy0GvMltNYmeOZP0KsmxAsrTfRBvwC11M=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -339,8 +375,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-10-23T20:14:27.3024791Z",
-      "freeKey": "121y1fyyvpG0lHxJ1iOCMECAwlLNR6/dCwWlcRSJ7pU=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -377,8 +411,6 @@
       "title": "Türkçe Yama",
       "version": "1.1",
       "tier": "pro",
-      "freeUntil": "2026-10-23T20:28:17.9608213Z",
-      "freeKey": "hoql5WWJUNyn+KzigHmjpQnEzFL7YPqMxKV5q3mhxGo=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
