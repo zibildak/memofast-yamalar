@@ -1,6 +1,44 @@
 {
-  "catalogVersion": 103,
+  "catalogVersion": 104,
   "patches": [
+    {
+      "id": "final-fantasy-resonance",
+      "gameName": "FINAL FANTASY RESONANCE",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-10-26T06:32:18.0609386Z",
+      "freeKey": "rp+VHdQ4hXHkVjJLDdsxtjtQxhBo3gflNB8BWh5TTnA=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "FINAL FANTASY'nin klasik köklerinden geliştirilen piksel sanat dünyasına geri dönün. Kaderin bağlı olduğu arkadaşlarınızla seyahat edin ve her şeyi mahvetmekle tehdit eden bir gücün ardındaki gerçeği ortaya çıkarmak için savaşta size yardım etmesi için Visions'ı çağırın.",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-23",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3259780
+      },
+      "package": {
+        "url": null,
+        "size": 1272653,
+        "sha256": "1d336a2513e9b9e2b82493964b4251bef38d908abc10bcf18d19f1e4fa177798",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/final-fantasy-resonance-v1.0/final-fantasy-resonance-1.0.mfp",
+          "size": 1272701,
+          "sha256": "86aadb78f8f2e8dc6d6d69f635b2a66ef69c69f5a588b5448cba85d2f95b53d0"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "tenebris-somnia",
       "gameName": "Tenebris Somnia",
@@ -323,8 +361,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-10-22T22:45:03.8589203Z",
-      "freeKey": "DlGxL82s1hYCdlW1oV2ZFoXEKjYpPt74dPEO+oQkkTk=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
