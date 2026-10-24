@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 112,
+  "catalogVersion": 113,
   "patches": [
     {
       "id": "terratech",
@@ -1820,7 +1820,15 @@
       "color": "#26352C",
       "description": "Once Human Güncelleme sonrası yenı metinler eklendi",
       "about": "Once Human, garip, kıyamet sonrası bir gelecekte geçen bir Garip Dünyalar Hayatta Kalma Oyunudur. Canavar düşmanlarla savaşmak, gizli planları ortaya çıkarmak, kaynaklar için rekabet etmek ve kendi bölgenizi inşa etmek için arkadaşlarınızla birleşin. Bir zamanlar sadece insandın. Artık dünyayı yeniden yaratma gücüne sahipsiniz.",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "Hayatta kalma",
+        "Açık dünya",
+        "İnşa etme",
+        "Nişancı",
+        "Çok oyunculu"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-23",
       "comingSoon": false,
