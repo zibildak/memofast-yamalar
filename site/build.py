@@ -275,6 +275,7 @@ class Site:
       <li><a href="{MEMOFAST_APP_URL}">MemoFast çeviri uygulaması</a></li>
       <li><a href="{DISCORD_URL}" rel="noopener">Discord</a></li>
       <li><a href="{YOUTUBE_JOIN}" rel="noopener">YouTube</a></li>
+      <li><a href="{self.rel('gizlilik/')}">Gizlilik ve KVKK</a></li>
     </ul>
   </div>
 </footer>
@@ -663,6 +664,74 @@ def build_guide(site: Site, patches: list[Patch]) -> str:
 """ + site.footer()
 
 
+def build_privacy(site: Site) -> str:
+    path = "gizlilik/"
+    return site.head(
+        title="Gizlilik ve KVKK Aydınlatma Metni | MemoFast",
+        desc="MemoFast Launcher'da yeni yama e-postaları için kaydedilen e-posta adresinin nasıl işlendiği.",
+        path=path) + site.topbar() + f"""
+<article class="wrap guide">
+  <header class="guide-head">
+    <nav class="crumbs" aria-label="Konum"><a href="{site.rel()}">Türkçe yamalar</a><span>/</span>Gizlilik</nav>
+    <h1>Gizlilik ve KVKK aydınlatma metni</h1>
+    <p class="lead">Bu metin, MemoFast Launcher'da "Yeni yamalardan haberdar ol" bölümüne yazdığın e-posta adresinin
+    6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında nasıl işlendiğini anlatır.</p>
+  </header>
+
+  <section class="block">
+    <h2>Veri sorumlusu</h2>
+    <p>MemoFast (Türkçe yama yayıncısı). Başvuruların için bu sayfanın sonundaki iletişim yollarını kullanabilirsin.</p>
+  </section>
+
+  <section class="block">
+    <h2>Hangi veriler işlenir?</h2>
+    <ul class="checks">
+      <li><b>E-posta adresin</b> ve <b>kayıt tarihin.</b> Başka bir kişisel bilgi (ad, telefon, konum) istenmez.</li>
+      <li>Kötüye kullanımı önlemek için kayıt isteğinin geldiği IP adresi kısa süreli sayaçta tutulur; e-postanla birlikte saklanmaz.</li>
+    </ul>
+  </section>
+
+  <section class="block">
+    <h2>Ne için kullanılır?</h2>
+    <p>Sadece yeni bir Türkçe yama yayınlandığında sana yamanın linkini ve bilgilerini içeren e-posta göndermek için.
+    Adresin satılmaz, reklam için başkalarına verilmez.</p>
+  </section>
+
+  <section class="block">
+    <h2>Hukuki sebep</h2>
+    <p>Adresin, e-postanı kendin yazıp "Kaydet"e basarak verdiğin açık rızaya (KVKK madde 5/1) ve ticari elektronik ileti
+    onayına dayanarak işlenir. Rızanı istediğin an geri alabilirsin.</p>
+  </section>
+
+  <section class="block">
+    <h2>Nerede saklanır, kimlerle paylaşılır?</h2>
+    <p>Kayıt listesi, launcher'ın sunucusunu sağlayan Cloudflare altyapısında; e-postalar Google (Gmail) üzerinden gönderilir.
+    Bu hizmet sağlayıcıların sunucuları yurt dışında olabilir; verin yalnızca bu hizmetlerin sunulması için onlarda işlenir.</p>
+  </section>
+
+  <section class="block">
+    <h2>Ne kadar süre saklanır?</h2>
+    <p>Abonelikten çıkana kadar. Çıktığında adresin listeden hemen silinir.</p>
+  </section>
+
+  <section class="block">
+    <h2>Nasıl çıkarım?</h2>
+    <ul class="checks">
+      <li>Gelen her e-postanın altındaki <b>Abonelikten çık</b> linkine tıkla, ya da</li>
+      <li>MemoFast Launcher'da <b>Ayarlar → Genel</b> bölümünden <b>Kaydı sil</b>'e bas.</li>
+    </ul>
+  </section>
+
+  <section class="block">
+    <h2>Hakların (KVKK madde 11)</h2>
+    <p>Verinin işlenip işlenmediğini öğrenme, bilgi isteme, işlenme amacını öğrenme, aktarıldığı kişileri bilme, eksik ya da
+    yanlışsa düzeltilmesini, silinmesini isteme ve zarara uğradıysan giderilmesini talep etme hakların var.
+    Bunun için gelen e-postalardan birine yanıt verebilir ya da <a href="{DISCORD_URL}" rel="noopener">Discord</a> üzerinden bize yazabilirsin.</p>
+  </section>
+</article>
+""" + site.footer()
+
+
 def build_404(site: Site) -> str:
     return site.head(title="Sayfa bulunamadı | MemoFast", desc="Aradığın sayfa bulunamadı.", path="404.html",
                      noindex=True) + site.topbar() + f"""
@@ -675,7 +744,7 @@ def build_404(site: Site) -> str:
 
 
 def sitemap(site: Site, patches: list[Patch]) -> str:
-    urls = [("", site.today.isoformat()), ("oyun-turkce-yapma/", site.today.isoformat())]
+    urls = [("", site.today.isoformat()), ("oyun-turkce-yapma/", site.today.isoformat()), ("gizlilik/", site.today.isoformat())]
     urls += [(f"yama/{p.id}/", p.updated or site.today.isoformat()) for p in patches]
     body = "".join(f"<url><loc>{e(site.abs(u))}</loc><lastmod>{d}</lastmod></url>" for u, d in urls)
     return f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{body}</urlset>\n'
@@ -718,13 +787,14 @@ def main() -> None:
 
     write("index.html", build_home(site, patches))
     write("oyun-turkce-yapma/index.html", build_guide(site, patches))
+    write("gizlilik/index.html", build_privacy(site))
     for p in patches:
         write(f"yama/{p.id}/index.html", build_patch(site, p, patches))
     write("404.html", build_404(site))
     write("sitemap.xml", sitemap(site, patches))
     write("robots.txt", f"User-agent: *\nAllow: /\nSitemap: {site.abs('sitemap.xml')}\n")
     write(".nojekyll", "")
-    print(f"{len(patches)} yama, {len(patches) + 3} sayfa -> {out}")
+    print(f"{len(patches)} yama, {len(patches) + 4} sayfa -> {out}")
 
 
 if __name__ == "__main__":
