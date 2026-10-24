@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 113,
+  "catalogVersion": 114,
   "patches": [
     {
       "id": "terratech",
@@ -1813,7 +1813,7 @@
       "id": "once-human",
       "gameName": "Once Human",
       "title": "Türkçe Yama",
-      "version": "1.4",
+      "version": "1.5",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -1830,7 +1830,7 @@
         "Çok oyunculu"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-10-23",
+      "updatedAt": "2026-10-24",
       "comingSoon": false,
       "changelog": [],
       "info": {
@@ -1844,12 +1844,12 @@
       },
       "package": {
         "url": null,
-        "size": 114576610,
-        "sha256": "d25157ad43fa1649080b1119fdc74f6c0b03b7e5cec5acc4801a6a69a3210cda",
+        "size": 114849036,
+        "sha256": "463a68fe75b295455d4516478f1e28a75bba6e0c0a46f7c54caf7a865d7ad240",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-v1.4/once-human-1.4.mfp",
-          "size": 114578386,
-          "sha256": "a3dcca7e00c8e2f0fbd7295ad72cf786b5220be46dbd6b3cac619fd8c9d3fc21"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-v1.5/once-human-1.5.mfp",
+          "size": 114850812,
+          "sha256": "b7d40548ebf9adb2dae792402b48310ba3f6b6d20b5f69a137a03d4451d0b2de"
         }
       },
       "installer": null,
