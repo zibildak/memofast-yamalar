@@ -1,11 +1,12 @@
 {
-  "version": "1.0.16",
+  "version": "1.0.17",
   "notes": [
-    "Telefon yamalarında kur düğmesinin pasif kalması düzeltildi"
+    "Türe göre yama bulma (Tür seç)",
+    "Yeni yamalardan e-postayla haberdar olma"
   ],
-  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.16.exe",
-  "sha256": "b63cd0ec0d8cc567b3082dc968abd54e9506e8c08fee85350997cfab9429a561",
-  "size": 76165071,
+  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.17.exe",
+  "sha256": "d482a4a91c7aca537a1a4561c7b7637da944a19c7ce892888ca8aef2e63858ae",
+  "size": 76175612,
   "mandatory": true,
-  "publishedAt": "2026-10-20"
+  "publishedAt": "2026-10-24"
 }
