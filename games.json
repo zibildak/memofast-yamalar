@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 115,
+  "catalogVersion": 116,
   "patches": [
     {
       "id": "warrior-cats-clans-of-the-forest",
@@ -102,7 +102,12 @@
       "color": "#26352C",
       "description": "",
       "about": "Hayatta kalırken insanlığın son karakolunun kaderini ortaya çıkarın ve yüzen adalardan oluşan heyecan verici bir dünyayı keşfedin. Gökyüzünde kendi başınıza meydan okuyun veya arkadaşlarınızdan bir filo oluşturun ve uçan gemileri tasarlamak ve geliştirmek için hurdaları toplayın ve zeplininizi yolculuğunuz boyunca yanınıza alın.",
-      "genres": [],
+      "genres": [
+        "Macera",
+        "Hayatta kalma",
+        "İnşa etme",
+        "Çok oyunculu"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-23",
       "comingSoon": true,
@@ -137,7 +142,11 @@
       "color": "#26352C",
       "description": "",
       "about": "Buluntu görüntüler estetiğine sahip birinci şahıs psikolojik korku oyunu. Gizemli 7. Sokak'ı arayan bir şehir kaşifi, kendisini çarpık gerçeklikler, ritüeller ve Favela das Almas'ı kontrol eden doğaüstü bir varlığın döngüsünde sıkışıp kalmış halde bulur.",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Korku",
+        "Hikâye odaklı"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-23",
       "comingSoon": false,
@@ -174,7 +183,12 @@
       "color": "#26352C",
       "description": "Call of Duty®: Modern Warfare® 4 Türkçe yama AI çeviri %100 çevrili keyifli oyunlar",
       "about": "Kuzey Kore'nin, Kore Yarımadası'na topyekûn işgal harekâtı başlatarak küresel barışı tehdit ettiği Call of Duty®: Modern Warfare® 4'te savaş patlak veriyor!",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Nişancı",
+        "Hikâye odaklı",
+        "Çok oyunculu"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-24",
       "comingSoon": false,
@@ -213,7 +227,11 @@
       "color": "#26352C",
       "description": "",
       "about": "FINAL FANTASY'nin klasik köklerinden geliştirilen piksel sanat dünyasına geri dönün. Kaderin bağlı olduğu arkadaşlarınızla seyahat edin ve her şeyi mahvetmekle tehdit eden bir gücün ardındaki gerçeği ortaya çıkarmak için savaşta size yardım etmesi için Visions'ı çağırın.",
-      "genres": [],
+      "genres": [
+        "Macera",
+        "RPG",
+        "Hikâye odaklı"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-23",
       "comingSoon": false,
@@ -252,7 +270,12 @@
       "color": "#26352C",
       "description": "",
       "about": "Bulmacaları çözüp korkunç yaratıklarla savaşarak tüyler ürpertici bir hikayenin derinliklerini ortaya çıkarın. ...Ya bunlar sadece kabuslardan ibaret değilse?",
-      "genres": [],
+      "genres": [
+        "Macera",
+        "Korku",
+        "Bulmaca",
+        "Hikâye odaklı"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-22",
       "comingSoon": false,
@@ -284,14 +307,17 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-10-24T21:42:02.2234654Z",
-      "freeKey": "OH5tPGXaf+fJMblNfXFeM9LVc2YxFuMJqo+Y9b+9K0Y=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
       "description": "",
       "about": "Muhteşem silah ve kılıç kullanan hazine avcısı Ayumi, yeni maceralar aramak için eski bir adaya yolculuğa çıkıyor. Ödül açısından zengin olmasına rağmen ada aynı zamanda Kaos'un büyüsüyle de doludur ve aynı zamanda kana susamış canavarlara da ev sahipliği yapar.",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "RPG",
+        "Çok oyunculu"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-22",
       "comingSoon": false,
@@ -329,7 +355,13 @@
       "color": "#26352C",
       "description": "",
       "about": "Derin bir geçmişe sahip ve heyecan verici aksiyonla dolu Auroria'nın engin ve rengârenk dünyasını keşfet. ArcheAge Chronicles hem yeni gelen oyuncuların hem de deneyimli maceracıların gönüllerini fethedecek sürükleyici bir deneyim sunar.",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "RPG",
+        "Açık dünya",
+        "Çok oyunculu"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-21",
       "comingSoon": true,
@@ -362,7 +394,14 @@
       "color": "#26352C",
       "description": "Blue Protocol Star Resonance Türkçe yama tam çeviri sizlerle",
       "about": "Blue Protokol: Star Resonance, Blue Protokol evrenini canlı bir MMORPG deneyimiyle genişletiyor. Kendi kahramanınızı yaratın, stratejik baskınlar için takım kurun ya da sadece rahatlayın ve arkadaşlarınızla balık tutma, el işi yapma ve sonsuz keşiflerle eğlenin. Macera bekliyor!",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "RPG",
+        "Açık dünya",
+        "Anime",
+        "Çok oyunculu"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-21",
       "comingSoon": false,
@@ -405,7 +444,12 @@
       "color": "#26352C",
       "description": "",
       "about": "GONE Fishing, 1-8 oyunculu bir hayatta kalma korku oyunu. Arkadaşlarınla birlikte hayatta kalmalısın... balık tutarak. Hayatta kalmanın tek yolu, göl seni yutmadan önce onun doymak bilmez açlığını beslemeye devam etmek. Bu açlığı doyurabilecek misin... yoksa bir sonraki adak sen mi olacaksın?",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "Korku",
+        "Çok oyunculu"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-20",
       "comingSoon": false,
@@ -445,7 +489,11 @@
       "color": "#26352C",
       "description": "DİKKAT!Oyunda denenmedi EA bende hesap sorunu var deneyip Discord veya youtubede son video altına yorum yaparsanız bakarım",
       "about": "İstediğiniz gibi savaşma özgürlüğünün tadını çıkarın. 29 devasa çok oyunculu haritayı keşfedin ve tansiyonu yükseltmenize yardımcı olacak taşıtları, silahları ve cihazları kullanın. Çatışmanın her anında ekstra ögeleri açmaya ve Rütbe yükselmeye bir adım daha yaklaşacaksınız. Aksiyona ortak olun.",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Nişancı",
+        "Çok oyunculu"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-20",
       "comingSoon": false,
@@ -482,7 +530,11 @@
       "color": "#26352C",
       "description": "",
       "about": "Gelecekte iflas etmiş bir teslimat hizmetinin yöneticisisiniz. Her şeyi kendiniz yapın veya robotlar ve dronlarla otomatikleştirin. VIP müşteriler, karaborsa, rakiplerin kirli numaraları ve kamyonet yarışları; pek çok sır barındıran canlı bir şehre sadece kısa bir bakış.",
-      "genres": [],
+      "genres": [
+        "Macera",
+        "Simülasyon",
+        "İnşa etme"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-20",
       "comingSoon": false,
@@ -526,7 +578,14 @@
       "color": "#26352C",
       "description": "",
       "about": "Antik Çin'de geçen bir açık dünya aksiyon - macera RPG oyununa adım atın. Mütevazı bir köy gezgininden imparatorluk başkentinin kılıç ustasına yükselirken kendi kimliğinin sırlarını ortaya çıkar. Dövüş sanatlarını öğren ve bu ücretsiz wuxia dünyasında bir kahraman veya kaos getirici olarak ününü inşa et.",
-      "genres": [],
+      "genres": [
+        "Macera",
+        "RPG",
+        "Açık dünya",
+        "Hikâye odaklı",
+        "Souls-like",
+        "Çok oyunculu"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-20",
       "comingSoon": false,
@@ -568,7 +627,11 @@
       "color": "#26352C",
       "description": "",
       "about": "Oyuncak sandığını yeniden aç! 2010 yapımı popüler animasyon filmi Toy Story 3'ü temel alan 3 boyutlu macera Toy Story 3 Complete Edition'da Woody, Buzz Işıkyılı ve Jessie ile eğlenceye atıl. Hikâye Modu ile film sahnelerini yaşa veya Oyuncak Kutusu Modu'nda Woody'nin Dünyası sandbox eğlencesine dal!",
-      "genres": [],
+      "genres": [
+        "İnşa etme",
+        "Platform",
+        "Çok oyunculu"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-20",
       "comingSoon": false,
@@ -606,7 +669,12 @@
       "color": "#26352C",
       "description": "Silver Pines tamamı Türkçe olarak eklendi keyifli oyunlar dilerim.",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Korku",
+        "Açık dünya",
+        "Hikâye odaklı"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-19",
       "comingSoon": false,
@@ -644,7 +712,10 @@
       "color": "#26352C",
       "description": "Forever Ago oyunu için tam çeviri Türkçe eklendi keyifli oyunlar",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Macera",
+        "Hikâye odaklı"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-19",
       "comingSoon": false,
@@ -689,7 +760,11 @@
       "color": "#26352C",
       "description": "",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "Korku"
+      ],
       "warning": "Yamayı kurduktan sonra oyuna girip ayarlardan dil seçeneğini Fransızca olarak seçmeniz gerek. Keyifli oyunlar",
       "updatedAt": "2026-10-19",
       "comingSoon": false,
@@ -727,7 +802,14 @@
       "color": "#26352C",
       "description": "The Crimson Hunt Oyunda, geçmişinin peşini bırakmayan vampir avcısı Victoria ve daha yeni başlayan bir kabusa hapsolmuş genç kadın Eleanor’u canlandırıyorsunuz. İkisi birlikte, grotesk yaratıklarla, gizli tuzaklarla ve kendilerini sandıklarından daha iyi tanıyan bir varlıkla başa çıkmak zorundalar. Türkçe olarak oynayabilirsiniz",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "Korku",
+        "Nişancı",
+        "Hikâye odaklı",
+        "Çok oyunculu"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-18",
       "comingSoon": false,
@@ -771,7 +853,11 @@
       "color": "#26352C",
       "description": "All Rats on Deck demo Türkçe yama keyifli oyunlar",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "Çok oyunculu"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-17",
       "comingSoon": false,
@@ -809,7 +895,14 @@
       "color": "#26352C",
       "description": "Arknights Endfield Türkçe yama eklendi tam çeviri olarak keyifli oyunlar dilerim.",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "RPG",
+        "İnşa etme",
+        "Hikâye odaklı",
+        "Anime"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-17",
       "comingSoon": false,
@@ -855,7 +948,10 @@
       "color": "#26352C",
       "description": "Among the Trolls tam çeviri sizlerle keyifli oyunlar dilerim.",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Macera",
+        "Hikâye odaklı"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-16",
       "comingSoon": false,
@@ -893,7 +989,12 @@
       "color": "#26352C",
       "description": "Clive Barker's Hellraiser Revival tam çevirisi sizlerle Keyifli oyunlar dilerim",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "Korku",
+        "Bulmaca"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-15",
       "comingSoon": false,
@@ -931,7 +1032,11 @@
       "color": "#26352C",
       "description": "Battlefield™ 2042 çevrildi ama denenmedi steam hesabımda sorun var oyunu açamadım deneyip geri dönüş yaparsınız",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Nişancı",
+        "Çok oyunculu"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-13",
       "comingSoon": false,
@@ -965,7 +1070,13 @@
       "color": "#26352C",
       "description": "Aniimo Mobil oyunu için Türkçe yama eklendi",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Macera",
+        "RPG",
+        "Açık dünya",
+        "Hikâye odaklı",
+        "Çok oyunculu"
+      ],
       "warning": "",
       "updatedAt": "2026-10-12",
       "comingSoon": false,
@@ -1008,7 +1119,11 @@
       "color": "#26352C",
       "description": "Hood Warfare 2 oyunu şuanda çevirisi eklendi",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Nişancı",
+        "Çok oyunculu"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-14",
       "comingSoon": false,
@@ -1042,7 +1157,12 @@
       "color": "#26352C",
       "description": "Planet Zoo 2 Tam çeviri Türkçe yama eklenmiştir. Keyifli oyunlar",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Simülasyon",
+        "Strateji",
+        "İnşa etme",
+        "Çok oyunculu"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-19",
       "comingSoon": false,
@@ -1080,7 +1200,15 @@
       "color": "#26352C",
       "description": "Once human mobil Türkçe yama",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "Hayatta kalma",
+        "Açık dünya",
+        "İnşa etme",
+        "Nişancı",
+        "Çok oyunculu"
+      ],
       "warning": "",
       "updatedAt": "2026-10-12",
       "comingSoon": false,
@@ -1123,7 +1251,14 @@
       "color": "#26352C",
       "description": "Permafrost oyunu için Türkçe tam çeviri yapıldı. Keyifli oyunlar.",
       "about": "Permafrost buz tutmuş, kıyamet sonrası bir dünyada geçen sandbox hikâye odaklı hayatta kalma oyunudur. Tek başına veya 4 oyuncuya kadar geniş, hikâyesi zengin açık dünyayı gez. Keşfet, malzeme topla, üret ve soğukla mücadele etmek için sığınaklar arasında bir ağ kur.",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "Hayatta kalma",
+        "Açık dünya",
+        "İnşa etme",
+        "Çok oyunculu"
+      ],
       "warning": "",
       "updatedAt": "2026-10-23",
       "comingSoon": false,
@@ -1161,7 +1296,12 @@
       "color": "#26352C",
       "description": "Yu-Gi-Oh!  Master Duel oyunu için Türkçe yama eklendi keyifli oyunlar dilerim",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Simülasyon",
+        "Strateji",
+        "Anime",
+        "Çok oyunculu"
+      ],
       "warning": "",
       "updatedAt": "2026-10-10",
       "comingSoon": false,
@@ -1201,7 +1341,13 @@
       "color": "#26352C",
       "description": "DiRT Rally 2.0 oyunu için Türkçe yama eklendi keyifli oyunlar",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Simülasyon",
+        "Açık dünya",
+        "Yarış",
+        "Spor",
+        "Çok oyunculu"
+      ],
       "warning": "",
       "updatedAt": "2026-10-09",
       "comingSoon": false,
@@ -1245,7 +1391,13 @@
       "color": "#26352C",
       "description": "ArcheAge Chronicles oyun çıkar çıkmaz türkçe olacak",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "RPG",
+        "Açık dünya",
+        "Çok oyunculu"
+      ],
       "warning": "",
       "updatedAt": "2026-10-08",
       "comingSoon": true,
@@ -1278,7 +1430,13 @@
       "color": "#26352C",
       "description": "Guild Wars 3 oyun çıkar çıkmaz Türkçe yama eklenecek",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "RPG",
+        "Açık dünya",
+        "Çok oyunculu"
+      ],
       "warning": "",
       "updatedAt": "2026-10-08",
       "comingSoon": true,
@@ -1311,7 +1469,14 @@
       "color": "#26352C",
       "description": "Chrono Odyssey çıkar çıkmaz Türkçe yama eklenecek",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "RPG",
+        "Açık dünya",
+        "Souls-like",
+        "Çok oyunculu"
+      ],
       "warning": "",
       "updatedAt": "2026-10-08",
       "comingSoon": true,
@@ -1344,7 +1509,12 @@
       "color": "#26352C",
       "description": "Guild Wars 2® Türkçe çevirisi , çevrilmeyen kısımlar çevrildi oyunun ruguna uygun çeviri hataları düzeltildi",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Macera",
+        "RPG",
+        "Strateji",
+        "Çok oyunculu"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-15",
       "comingSoon": false,
@@ -1388,7 +1558,11 @@
       "color": "#26352C",
       "description": "Path of Exile oyunu için tam Türkçr çrviri yapıldı, karakter adları, özel terimler değiştirilmedi keyifli oyunlar",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "RPG",
+        "Çok oyunculu"
+      ],
       "warning": "",
       "updatedAt": "2026-10-06",
       "comingSoon": false,
@@ -1432,7 +1606,9 @@
       "color": "#26352C",
       "description": "Dragon Shelter oyunu tamamen yapay zeka ile çevrildi oyuna uygun terimler birebir çevrildi makina çevirinin o ruhsuz dilinden arındırıldı.",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Simülasyon"
+      ],
       "warning": "3 gün ücretsiz kullanılabilir",
       "updatedAt": "2026-10-05",
       "comingSoon": false,
@@ -1470,7 +1646,13 @@
       "color": "#26352C",
       "description": "Tüm metinler gemini ile çevrildi yani bağlamlar terimler oyunun karakterine uygun çevrildi.",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "RPG",
+        "Açık dünya",
+        "Souls-like",
+        "Çok oyunculu"
+      ],
       "warning": "Oyun dili English olmalı; yama EAC'yi kapatır, sadece çevrimdışı oynanır. Çevrim içinde Türkçe yapmak mümkün lakin EAC anında ban atar",
       "updatedAt": "2026-10-03",
       "comingSoon": false,
@@ -1507,7 +1689,14 @@
       "color": "#26352C",
       "description": "Lords of the Fallen oyunu tüm metinler Türkçeye çevrildi",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "RPG",
+        "Hikâye odaklı",
+        "Souls-like",
+        "Çok oyunculu"
+      ],
       "warning": "Oyunda hile koruması vardır %5 ihtimalle ban olabilir sorumluluk kullanıcıya aittir.",
       "updatedAt": "2026-10-01",
       "comingSoon": false,
@@ -1545,7 +1734,13 @@
       "color": "#26352C",
       "description": "Yu-Gi-Oh! Duel Links oyunu tam çeviri yapıldı",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "RPG",
+        "Strateji",
+        "Anime",
+        "Çok oyunculu"
+      ],
       "warning": "",
       "updatedAt": "2026-10-01",
       "comingSoon": false,
@@ -1588,7 +1783,13 @@
       "color": "#26352C",
       "description": "Path of Exile 2 Tüm metinleri çevrildi ve hazır",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "RPG",
+        "Souls-like",
+        "Çok oyunculu"
+      ],
       "warning": "",
       "updatedAt": "2026-09-30",
       "comingSoon": false,
@@ -1626,7 +1827,11 @@
       "color": "#26352C",
       "description": "Z.A.T.O. I Love the World and Everything In Ioyunun tüm metinleri menü de dahil çevrildi",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Korku",
+        "Hikâye odaklı",
+        "Anime"
+      ],
       "warning": "",
       "updatedAt": "2026-09-30",
       "comingSoon": false,
@@ -1664,7 +1869,15 @@
       "color": "#26352C",
       "description": "RuneScape Dragonwilds oyunu komple çecrildi ve hazır keyifli oyunlar dilerim. Memofast ekibi",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "RPG",
+        "Hayatta kalma",
+        "Açık dünya",
+        "İnşa etme",
+        "Çok oyunculu"
+      ],
       "warning": "",
       "updatedAt": "2026-09-29",
       "comingSoon": false,
@@ -1702,7 +1915,14 @@
       "color": "#26352C",
       "description": "Şehir temalı, açık dünya bir RYO olan ANANTA'ya hoş geldiniz. Farklı karakterleri canlandırın; hareketli iş bölgeleri ve gizli ara sokaklardan, sakin çay kasabaları ve cıvıl cıvıl eski sokaklara kadar her yeri keşfedin. Kendi ekibinizi kurarken, birbirinden ilginç karakterlerle yollarınızın kesişmesine tanık olun.",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "RPG",
+        "Açık dünya",
+        "Anime",
+        "Çok oyunculu"
+      ],
       "warning": "",
       "updatedAt": "2026-09-29",
       "comingSoon": true,
@@ -1735,7 +1955,13 @@
       "color": "#26352C",
       "description": "Yama içinde türkçe karakter sorunları font bazında incelendi ve düzeltildi lütfen inceleyip geridönüş yapınız",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "RPG",
+        "Açık dünya",
+        "Çok oyunculu"
+      ],
       "warning": "Yamayı yapma süreci oyunda doğru yapılmışmı tüm süreci lütfen Discort sohbet veya Youtube videosu altına belirtin çalıştı veya şu hatayı aldım diye.",
       "updatedAt": "2026-10-08",
       "comingSoon": false,
@@ -1773,7 +1999,13 @@
       "color": "#26352C",
       "description": "ELDEN RING NIGHTREIGN tamamı Türkçe olarak eklendi keyifli oyunlar dilerim.",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "RPG",
+        "Açık dünya",
+        "Souls-like",
+        "Çok oyunculu"
+      ],
       "warning": "Yüzde 5 ihtimal olsa da, Yama sonrası olası bir banlanma sorumluluğu kullanıcının kendisine aittir.",
       "updatedAt": "2026-09-28",
       "comingSoon": false,
@@ -1818,7 +2050,13 @@
       "color": "#26352C",
       "description": "Throne and Liberty oyunu son güncellemede dahil tüm çevirisi sizlerle. Keyifli oyunlar dilerim\r\nMemofast ekibi",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "RPG",
+        "Açık dünya",
+        "Çok oyunculu"
+      ],
       "warning": "",
       "updatedAt": "2026-09-28",
       "comingSoon": false,
@@ -1909,7 +2147,16 @@
       "color": "#26352C",
       "description": "NTE: Neverness to Everness oyunu için son güncellemede dahil tamamı Türkçeye çevrilmiştir.",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "RPG",
+        "Korku",
+        "Açık dünya",
+        "Hikâye odaklı",
+        "Anime",
+        "Çok oyunculu"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-17",
       "comingSoon": false,
@@ -1947,7 +2194,16 @@
       "color": "#26352C",
       "description": "Wuthering Waves Yeni gelen güncelleme sonrası tüm satırlar çevrilerek yama son güncel hale getirildi",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "RPG",
+        "Açık dünya",
+        "Hikâye odaklı",
+        "Souls-like",
+        "Anime",
+        "Çok oyunculu"
+      ],
       "warning": "",
       "updatedAt": "2026-10-12",
       "comingSoon": false,
@@ -2000,7 +2256,13 @@
       "color": "#26352C",
       "description": "Aniimo oyununa ait tüm metinler Türkçe olarak çevrildi, makina çevirisine ait hatalar el ile düzeltildi, Türkçe karakter sorunu giderildi, oyuna güncelleme gelirse yama bozulur tekrar kurarak Türkçe oynayabilirsiniz, büyük güncellemelerde yamanın çıkmasını bekleyin.",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Macera",
+        "RPG",
+        "Açık dünya",
+        "Hikâye odaklı",
+        "Çok oyunculu"
+      ],
       "warning": "",
       "updatedAt": "2026-09-28",
       "comingSoon": false,
@@ -2057,7 +2319,14 @@
       "color": "#26352C",
       "description": "Where Winds Meet son gelen güncelleme dahil tüm oyun metni türkçeye çevrildi",
       "about": "",
-      "genres": [],
+      "genres": [
+        "Macera",
+        "RPG",
+        "Açık dünya",
+        "Hikâye odaklı",
+        "Souls-like",
+        "Çok oyunculu"
+      ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-20",
       "comingSoon": false,
