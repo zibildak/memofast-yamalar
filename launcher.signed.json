@@ -1,4 +1,4 @@
 {
-  "data": "{\r\n  \"version\": \"1.0.16\",\r\n  \"notes\": [\r\n    \"Telefon yamalarında kur düğmesinin pasif kalması düzeltildi\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.16.exe\",\r\n  \"sha256\": \"b63cd0ec0d8cc567b3082dc968abd54e9506e8c08fee85350997cfab9429a561\",\r\n  \"size\": 76165071,\r\n  \"mandatory\": true,\r\n  \"publishedAt\": \"2026-10-20\"\r\n}",
-  "sig": "GBxMYjFlqFusBwz6aBlR591qHi043BK0aibKsefMXpUrs6IFHze1VGHQyQ/rDVjUTQId5IlubPZ7KFiK4PtJAA=="
+  "data": "{\r\n  \"version\": \"1.0.17\",\r\n  \"notes\": [\r\n    \"Türe göre yama bulma (Tür seç)\",\r\n    \"Yeni yamalardan e-postayla haberdar olma\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.17.exe\",\r\n  \"sha256\": \"d482a4a91c7aca537a1a4561c7b7637da944a19c7ce892888ca8aef2e63858ae\",\r\n  \"size\": 76175612,\r\n  \"mandatory\": true,\r\n  \"publishedAt\": \"2026-10-24\"\r\n}",
+  "sig": "zL2YFUeXeYwAmkBd1Xvlliu6eUhgiUN274uZKp0u+sHGNoGdLCwb1Lwn/1r4Dp9HG+spjd6f1kH2hPUmh0ZoxQ=="
 }
