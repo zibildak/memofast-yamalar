@@ -1,6 +1,49 @@
 {
-  "catalogVersion": 114,
+  "catalogVersion": 115,
   "patches": [
+    {
+      "id": "warrior-cats-clans-of-the-forest",
+      "gameName": "Warrior Cats: Clans of the Forest",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-10-27T17:43:03.8989944Z",
+      "freeKey": "gCHwFL0EEzINCn2/FI7KiTzJiZc6bg5hIT174dn1Es8=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Kendi Savaşçı Kedini yarat ve sevilen Savaşçı Kediler kitap serisinden ilham alan sürükleyici bir aksiyon-macera oyununda Göl Bölgeleri'nde maceraya atıl. Avlan, keşfet, rakip Klanlarla savaş, kehanetleri ortaya çıkar ve verdiğin her kararla kendi efsaneni şekillendir.",
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "RPG"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-24",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3960600
+      },
+      "package": {
+        "url": null,
+        "size": 34592294,
+        "sha256": "6c620fe741853da92f3fed7acf7b8c47c2f35bcb8688a62d2d7b9afab5572b04",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/warrior-cats-clans-of-the-forest-v1.0/warrior-cats-clans-of-the-forest-1.0.mfp",
+          "size": 34592838,
+          "sha256": "f47c179723b97d2e8b09a9d0c6c9bcfe3a5a70a1f34107c7ae41c241892f363f"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "terratech",
       "gameName": "TerraTech",
