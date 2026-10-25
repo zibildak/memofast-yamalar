@@ -1,6 +1,49 @@
 {
-  "catalogVersion": 120,
+  "catalogVersion": 121,
   "patches": [
+    {
+      "id": "five-nights-at-freddy-s-help-wanted-2",
+      "gameName": "Five Nights at Freddy's: Help Wanted 2",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-10-28T19:14:52.8199698Z",
+      "freeKey": "hkIZj+PGu93DvZwBRgFHPq1p+9b7vXLTNLnbqD3h/b4=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Five Nights at Freddy’s: Help Wanted 2, ünlü korku serisine yepyeni bir hayat veren ürkütücü VR deneyimini devam ettiriyor. Fazbear’ın en yeni çalışanı olarak Pizza Restoranı işletiminde ustalaşmak için tüm hünerlerini sergilemen gerekecek.",
+      "genres": [
+        "Korku",
+        "Simülasyon",
+        "Bulmaca"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-25",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2287520
+      },
+      "package": {
+        "url": null,
+        "size": 1015796,
+        "sha256": "a1a500910dd1cd2b340ffe5ed16beaa9318bb7fa5253b290f77a236ab1fbbbf9",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/five-nights-at-freddy-s-help-wanted-2-v1.0/five-nights-at-freddy-s-help-wanted-2-1.0.mfp",
+          "size": 1015828,
+          "sha256": "d111e5f3ed38fe3cca9aefb6d65d8f6941ca0ac7f2f14e3e59e996344dd15548"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "nautus",
       "gameName": "NAUTUS",
