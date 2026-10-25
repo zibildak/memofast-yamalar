@@ -1,6 +1,58 @@
 {
-  "catalogVersion": 119,
+  "catalogVersion": 120,
   "patches": [
+    {
+      "id": "nautus",
+      "gameName": "NAUTUS",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-10-28T18:22:01.6968908Z",
+      "freeKey": "xQBFfozgOvFH+jwAsjjr7JEXISnuiQTmhH07zvZ7JAQ=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Have a Nice Death'in yaratıcılarından, 4 oyunculu iş birliğiyle büyüleyici, tuhaf bir ada macerası geliyor! Yukarıda, rahat bir sığınakta soluklan ve tuhaf yerlilerle dost ol. Aşağıda, yükseltilebilir bir denizaltının dümenine geç, mutant yaratıklarla savaş ve gerekli ekipmanı üret. NAUTUS'u keşfet!",
+      "genres": [
+        "Macera",
+        "İnşa etme",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-25",
+      "comingSoon": false,
+      "changelog": [
+        {
+          "version": "1.0",
+          "date": "2026-10-25",
+          "notes": [
+            "Türkçe karakter eklendi",
+            "ai ile düzeltme yapıldı"
+          ]
+        }
+      ],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2917940
+      },
+      "package": {
+        "url": null,
+        "size": 28024685,
+        "sha256": "8f9cd4b7c15e1787746cae33e664ac919c4c47adba783db585c040852675f2e0",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/nautus-v1.0/nautus-1.0.mfp",
+          "size": 28025133,
+          "sha256": "bed7e80798b91905533b43eb789b75575437589c3e25c9aaeb6a0a73e5cdab3e"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "way-of-the-hunter-2",
       "gameName": "Way of the Hunter 2",
