@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 121,
+  "catalogVersion": 122,
   "patches": [
     {
       "id": "five-nights-at-freddy-s-help-wanted-2",
@@ -2326,13 +2326,13 @@
       "id": "nte-neverness-to-everness",
       "gameName": "NTE: Neverness to Everness",
       "title": "Türkçe Yama",
-      "version": "1.5",
+      "version": "1.6",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
       "description": "NTE: Neverness to Everness oyunu için son güncellemede dahil tamamı Türkçeye çevrilmiştir.",
-      "about": "",
+      "about": "NTE, Hotta Studio tarafından geliştirilen doğaüstü bir kentsel açık dünya RPG'sidir. Hikayeniz Hethereau'da lisanssız bir anormallik avcısı olarak başlıyor. Şehrin gizemlerini açığa çıkarmak için her biri benzersiz yeteneklere sahip çeşitli arkadaşlarla takım kurun.",
       "genres": [
         "Aksiyon",
         "Macera",
@@ -2344,7 +2344,7 @@
         "Çok oyunculu"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-10-17",
+      "updatedAt": "2026-10-26",
       "comingSoon": false,
       "changelog": [],
       "info": {
@@ -2358,12 +2358,12 @@
       },
       "package": {
         "url": null,
-        "size": 14549371,
-        "sha256": "7a4243f2cea7db232ae59e78ce748e219f329d32c9103db836e4c34e1ffaaa78",
+        "size": 14758778,
+        "sha256": "7594dc4cb9d1cefead8d9010227e3e02bacbe02a0617f3127246c4c28fbe028c",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/nte-neverness-to-everness-v1.5/nte-neverness-to-everness-1.5.mfp",
-          "size": 14549611,
-          "sha256": "ef1514aeb02c3869ff145d03ab382bcf0985a0d5b4a4efa58e37ba4bbbdd1c2e"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/nte-neverness-to-everness-v1.6/nte-neverness-to-everness-1.6.mfp",
+          "size": 14759034,
+          "sha256": "69e9c18c3140083cb25186699b412785af5da8afbc70814fbcf124c260414b4a"
         }
       },
       "installer": null,
