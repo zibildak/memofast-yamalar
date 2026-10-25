@@ -1,6 +1,52 @@
 {
-  "catalogVersion": 117,
+  "catalogVersion": 118,
   "patches": [
+    {
+      "id": "suicide-squad-kill-the-justice-league",
+      "gameName": "Suicide Squad: Kill the Justice League",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-10-28T14:16:32.0978616Z",
+      "freeKey": "hj2czM91Nk8DzBMRnrAZT/oXOk4PWySDigxuYy0NtRA=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Batman: Arkham yaratıcıları tarafından geliştirilen ve üçüncül kişi bakış açılı bir aksiyon nişancı oyunu olan Suicide Squad: Kill the Justice League'de uyumsuzlar ekibi olarak imkânsızı başarmalı ve Adalet Birliği üyelerini öldürmelisiniz.",
+      "genres": [
+        "Aksiyon",
+        "Korku",
+        "Açık dünya",
+        "Nişancı",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-25",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 315210
+      },
+      "package": {
+        "url": null,
+        "size": 1547846,
+        "sha256": "635c381414955112cbab04f604e5bef2b70cb9630bb0c52f0b719ae7cb45a8d8",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/suicide-squad-kill-the-justice-league-v1.0/suicide-squad-kill-the-justice-league-1.0.mfp",
+          "size": 1547894,
+          "sha256": "54c8852cadc99a8e42f9a79a496981f69fe9ccaa28ec544178caafe3bf9075a6"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "warrior-cats-clans-of-the-forest",
       "gameName": "Warrior Cats: Clans of the Forest",
