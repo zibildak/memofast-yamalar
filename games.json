@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 123,
+  "catalogVersion": 124,
   "patches": [
     {
       "id": "her-revenge",
@@ -191,10 +191,10 @@
       "id": "suicide-squad-kill-the-justice-league",
       "gameName": "Suicide Squad: Kill the Justice League",
       "title": "Türkçe Yama",
-      "version": "1.0",
+      "version": "1.1",
       "tier": "pro",
       "freeUntil": "2026-10-28T14:16:32.0978616Z",
-      "freeKey": "hj2czM91Nk8DzBMRnrAZT/oXOk4PWySDigxuYy0NtRA=",
+      "freeKey": "qv7YCWmQPVFEGQo3JH0VBMpeLMX9HLQ+CQQITstLq8o=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -208,11 +208,11 @@
         "Çok oyunculu"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-10-25",
+      "updatedAt": "2026-10-26",
       "comingSoon": false,
       "changelog": [],
       "info": {
-        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kurulum": "Oyun dosyasına işlenir",
         "Kapsam": "Tümü",
         "Çeviren": "MemoFast ekibi"
       },
@@ -222,15 +222,21 @@
       },
       "package": {
         "url": null,
-        "size": 1547846,
-        "sha256": "635c381414955112cbab04f604e5bef2b70cb9630bb0c52f0b719ae7cb45a8d8",
+        "size": 1550106,
+        "sha256": "c8d318493a9cae5fb5cfbabd7fdb5de357553760d4e698d367b1af458c6d39b6",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/suicide-squad-kill-the-justice-league-v1.0/suicide-squad-kill-the-justice-league-1.0.mfp",
-          "size": 1547894,
-          "sha256": "54c8852cadc99a8e42f9a79a496981f69fe9ccaa28ec544178caafe3bf9075a6"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/suicide-squad-kill-the-justice-league-v1.1/suicide-squad-kill-the-justice-league-1.1.mfp",
+          "size": 1550154,
+          "sha256": "63e38d7dae22133aa85a7945f6c8735b405c1889c8a831608c820931475a1629"
         }
       },
-      "installer": null,
+      "installer": {
+        "script": "kur.ps1",
+        "installArgs": "-Mode kur -Oyun \"{oyun}\"",
+        "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
+        "env": {},
+        "watchFiles": []
+      },
       "mobile": null
     },
     {
