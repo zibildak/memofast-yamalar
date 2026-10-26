@@ -1,4 +1,4 @@
 {
-  "data": "{\r\n  \"version\": \"1.0.17\",\r\n  \"notes\": [\r\n    \"Türe göre yama bulma (Tür seç)\",\r\n    \"Yeni yamalardan e-postayla haberdar olma\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.17.exe\",\r\n  \"sha256\": \"d482a4a91c7aca537a1a4561c7b7637da944a19c7ce892888ca8aef2e63858ae\",\r\n  \"size\": 76175612,\r\n  \"mandatory\": true,\r\n  \"publishedAt\": \"2026-10-24\"\r\n}",
-  "sig": "zL2YFUeXeYwAmkBd1Xvlliu6eUhgiUN274uZKp0u+sHGNoGdLCwb1Lwn/1r4Dp9HG+spjd6f1kH2hPUmh0ZoxQ=="
+  "data": "{\r\n  \"version\": \"1.0.18\",\r\n  \"notes\": [\r\n    \"Küçük düzeltmeler\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.18.exe\",\r\n  \"sha256\": \"b5858b298464d8966687b6a8648051c479f7b11e4bf1e750d240276056eb8dcb\",\r\n  \"size\": 76190012,\r\n  \"mandatory\": true,\r\n  \"publishedAt\": \"2026-10-26\"\r\n}",
+  "sig": "PG7K3zMHKXRvhyiTTybkozB/GKK0IYTVHcoduRgcGdyNSZHG45eu73xWWa1uVJbzdcV8etpqvX1LzK/5nR0suw=="
 }
