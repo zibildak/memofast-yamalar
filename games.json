@@ -1,6 +1,51 @@
 {
-  "catalogVersion": 125,
+  "catalogVersion": 126,
   "patches": [
+    {
+      "id": "stygian-outer-gods",
+      "gameName": "Stygian: Outer Gods",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-10-29T18:25:15.370032Z",
+      "freeKey": "b26z41/OqZA58y/e5TYndHMBBY++4rqzA6houM47uMk=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "RYO ögeleri barındıran bu korkunç hayatta kalma oyununda varlığını tehdit eden bir dünyaya atıl, kadim gizemlerin ardındaki gerçekleri gün yüzüne çıkar, akıl sağlığını riske atarak Outer Gods'a karşı becerilerini kanıtla. Her bir merminin ve kararın hayati önem taşıdığı bu göreve çıkabilecek misin?",
+      "genres": [
+        "RPG",
+        "Korku",
+        "Hayatta kalma",
+        "Nişancı",
+        "Hikâye odaklı"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-26",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2581410
+      },
+      "package": {
+        "url": null,
+        "size": 3624601,
+        "sha256": "8bdef661c4df8ef066193be7f018779724ddae306234598d4b91386306dd3f78",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/stygian-outer-gods-v1.0/stygian-outer-gods-1.0.mfp",
+          "size": 3624681,
+          "sha256": "36ea904bb7c9c43808e0c7410e2e0dc1f935608a45a651767e841085c2ac7ddd"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "ai-olympius",
       "gameName": "AI Olympius",
