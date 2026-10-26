@@ -1,6 +1,53 @@
 {
-  "catalogVersion": 124,
+  "catalogVersion": 125,
   "patches": [
+    {
+      "id": "ai-olympius",
+      "gameName": "AI Olympius",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-10-29T12:22:01.2357452Z",
+      "freeKey": "sPs9QqP00b0gk9PPAjqWoeoizaqeDYJ/X/2FaWvNB5k=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "RPG öğeleri ve üs oluşturma modu içeren üçüncü şahıs nişancı oyununda isyancılara katılın. Yüce yapay zekanın kontrolü altındaki çeşitli savaş drone modellerine karşı savaşın.",
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "RPG",
+        "İnşa etme",
+        "Nişancı",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-26",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 1478970
+      },
+      "package": {
+        "url": null,
+        "size": 1507985,
+        "sha256": "5f5e7a2c76423341422c98ed658db8cc31aa0514c38b5aca8bf78d73349e47c1",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/ai-olympius-v1.0/ai-olympius-1.0.mfp",
+          "size": 1508033,
+          "sha256": "ef13582382169556d1fc56d0a1a1fb7b11cd8faa72941f92ce0da0b313a03a8e"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "her-revenge",
       "gameName": "Her Revenge",
