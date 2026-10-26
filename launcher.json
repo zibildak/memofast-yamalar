@@ -1,12 +1,11 @@
 {
-  "version": "1.0.17",
+  "version": "1.0.18",
   "notes": [
-    "Türe göre yama bulma (Tür seç)",
-    "Yeni yamalardan e-postayla haberdar olma"
+    "Küçük düzeltmeler"
   ],
-  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.17.exe",
-  "sha256": "d482a4a91c7aca537a1a4561c7b7637da944a19c7ce892888ca8aef2e63858ae",
-  "size": 76175612,
+  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.18.exe",
+  "sha256": "b5858b298464d8966687b6a8648051c479f7b11e4bf1e750d240276056eb8dcb",
+  "size": 76190012,
   "mandatory": true,
-  "publishedAt": "2026-10-24"
+  "publishedAt": "2026-10-26"
 }
