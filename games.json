@@ -1,6 +1,50 @@
 {
-  "catalogVersion": 122,
+  "catalogVersion": 123,
   "patches": [
+    {
+      "id": "her-revenge",
+      "gameName": "Her Revenge",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-10-29T06:33:52.321534Z",
+      "freeKey": "eruKNLScFD0UIh5gGVSzi+5kUde7GJ7kw2Y33K4/PO4=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Mühürlü bir dairede mahsur kaldınız ve büyük bir yanlış anlaşılmayı ortaya çıkarmak zorundasınız. Büyükannene ne olduğunu öğren ve tamamen sessiz ol. Burası senin dairen değil. Sıkışmış durumdasın",
+      "genres": [
+        "Macera",
+        "Korku",
+        "Nişancı",
+        "Bulmaca"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-26",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4952170
+      },
+      "package": {
+        "url": null,
+        "size": 21364864,
+        "sha256": "09ab8d2eb49a68f28f7962a98726cb9b1cbba5725802a02ad97bd8abf4ec186d",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/her-revenge-v1.0/her-revenge-1.0.mfp",
+          "size": 21365216,
+          "sha256": "cff4d1db559639e818f48833a5d770cceccc1635c550b6783665a034718d0e23"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "five-nights-at-freddy-s-help-wanted-2",
       "gameName": "Five Nights at Freddy's: Help Wanted 2",
@@ -408,8 +452,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-10-26T06:32:18.0609386Z",
-      "freeKey": "rp+VHdQ4hXHkVjJLDdsxtjtQxhBo3gflNB8BWh5TTnA=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
