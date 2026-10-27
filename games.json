@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 129,
+  "catalogVersion": 130,
   "patches": [
     {
       "id": "avatar-frontiers-of-pandora",
@@ -1602,7 +1602,7 @@
       "id": "once-human-mobil",
       "gameName": "Once Human Mobil",
       "title": "Mobil Türkçe Yama",
-      "version": "1.1",
+      "version": "1.2",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -1618,8 +1618,8 @@
         "Nişancı",
         "Çok oyunculu"
       ],
-      "warning": "",
-      "updatedAt": "2026-10-12",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-27",
       "comingSoon": false,
       "changelog": [],
       "info": {
@@ -1630,16 +1630,16 @@
       },
       "detect": {
         "mustExist": [],
-        "steamAppId": 2139460
+        "steamAppId": null
       },
       "package": {
         "url": null,
-        "size": 169137271,
-        "sha256": "3a92487dd46c413f924d1cdea31ec4703f11258e8a92c3558ccabc83e0b0260b",
+        "size": 165765848,
+        "sha256": "f71e26edbd6c8109e53dc09dd4ab396e9c369e1be8980816af5e488973ac2261",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-mobil-v1.1/once-human-mobil-1.1.mfp",
-          "size": 169139879,
-          "sha256": "fd8071c9edaf3de8a065cc1822c424f3a8b64118662d75b71312c3da3b11f4ba"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-mobil-v1.2/once-human-mobil-1.2.mfp",
+          "size": 165768408,
+          "sha256": "fbb102a87e121e6bc0f0391e4c926a3766eaab8c66475340686ac26c3278b61f"
         }
       },
       "installer": null,
