@@ -1,6 +1,43 @@
 {
-  "catalogVersion": 132,
+  "catalogVersion": 133,
   "patches": [
+    {
+      "id": "probably-stolen-cyberpunk-shopkeeper-sim",
+      "gameName": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Muhtemelen Stolen, distopik bir uzay istasyonunda geçen bir siberpunk mağazacılık simülatörüdür. Kaynağı şüpheli mallar üretin, ticaretini yapın ve kaçakçılığı yapın, hizip sadakatlerini yönlendirin ve kontrol ettiği kişileri öldürerek başıboş yapay zekayı durdurun. Artan kira sizi zorlamadan önce dükkanınızı satın almaya yetecek kadar kazanın.",
+      "genres": [
+        "RPG",
+        "Simülasyon",
+        "Hikâye odaklı"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-28",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4348910
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "reka",
       "gameName": "REKA",
