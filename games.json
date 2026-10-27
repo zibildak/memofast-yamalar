@@ -1,6 +1,52 @@
 {
-  "catalogVersion": 127,
+  "catalogVersion": 128,
   "patches": [
+    {
+      "id": "avatar-frontiers-of-pandora",
+      "gameName": "Avatar Frontiers of Pandora",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-10-30T18:55:17.295246Z",
+      "freeKey": "M37GXU4Bo8yYTPDWaQNmgI1VbmxX6EXuCu3rpVac3yM=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Avatar: Frontiers of Pandora™, Batı Sınırı'nda geçen üçüncü ve birinci şahıs aksiyon macera oyunudur. Kayıp mirasınızla yeniden bağlantı kurun ve Na'vi olmanın anlamını keşfedin.",
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "Açık dünya",
+        "Nişancı",
+        "Hikâye odaklı",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-27",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2840770
+      },
+      "package": {
+        "url": null,
+        "size": 12772403,
+        "sha256": "32c4156026585954021acd4fe9e782b91272a63194f9675e09604e077ed22e3d",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/avatar-frontiers-of-pandora-v1.0/avatar-frontiers-of-pandora-1.0.mfp",
+          "size": 12772627,
+          "sha256": "58eb6183c5b149ea54e2189e916fea88773ddccbb0e21bf36627f9fa7f7c9f2f"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "architect",
       "gameName": "Architect",
@@ -380,8 +426,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-10-27T17:43:03.8989944Z",
-      "freeKey": "gCHwFL0EEzINCn2/FI7KiTzJiZc6bg5hIT174dn1Es8=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
