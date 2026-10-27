@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 128,
+  "catalogVersion": 129,
   "patches": [
     {
       "id": "avatar-frontiers-of-pandora",
@@ -2503,7 +2503,7 @@
       "id": "once-human",
       "gameName": "Once Human",
       "title": "Türkçe Yama",
-      "version": "1.5",
+      "version": "1.6",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -2520,7 +2520,7 @@
         "Çok oyunculu"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-10-24",
+      "updatedAt": "2026-10-27",
       "comingSoon": false,
       "changelog": [],
       "info": {
@@ -2534,12 +2534,12 @@
       },
       "package": {
         "url": null,
-        "size": 114849036,
-        "sha256": "463a68fe75b295455d4516478f1e28a75bba6e0c0a46f7c54caf7a865d7ad240",
+        "size": 114959019,
+        "sha256": "1148c35bf64c793464d32ae1665ebe0d4ae07f807460f04c8397ee2678b2db0b",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-v1.5/once-human-1.5.mfp",
-          "size": 114850812,
-          "sha256": "b7d40548ebf9adb2dae792402b48310ba3f6b6d20b5f69a137a03d4451d0b2de"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-v1.6/once-human-1.6.mfp",
+          "size": 114960795,
+          "sha256": "9c1bb5ef58fd7b92327e62efa1e58fe1e328703fe22d1a9917e1538aac055fc4"
         }
       },
       "installer": null,
