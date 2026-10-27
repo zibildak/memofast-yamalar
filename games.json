@@ -1,6 +1,42 @@
 {
-  "catalogVersion": 133,
+  "catalogVersion": 134,
   "patches": [
+    {
+      "id": "the-wolf-among-us-remastered",
+      "gameName": "The Wolf Among Us Remastered",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Folklorun gerçek olduğu, şiddetin tüyler ürpertici olduğu ve her seçimin sonuçlarının olduğu karanlık bir dedektif gerilim filmi.",
+      "genres": [
+        "Macera",
+        "Hikâye odaklı"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-28",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3884860
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "probably-stolen-cyberpunk-shopkeeper-sim",
       "gameName": "Probably Stolen - Cyberpunk Shopkeeper Sim",
