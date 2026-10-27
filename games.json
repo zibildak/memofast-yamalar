@@ -1,6 +1,49 @@
 {
-  "catalogVersion": 126,
+  "catalogVersion": 127,
   "patches": [
+    {
+      "id": "architect",
+      "gameName": "Architect",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-10-30T08:00:07.6331595Z",
+      "freeKey": "sUR2vxMuG+Fbf1CsNmc9OYTwW7JOh7xLBm3n5yvL9V0=",
+      "cover": "patches/architect/cover-74b7e54d77.png",
+      "hero": "patches/architect/hero-3c292ca4f7.jpg",
+      "color": "#26352C",
+      "description": "Yamayı kurmadan önce oyunun ana klasörünü Gözat butonu ile seçin",
+      "about": "Kaos ve hırsın bir arada yaşadığı, Dev Kulesi'nin etrafında şekillenen \"terk edilmiş bir diyar\".\r\n\r\nSizi orada bekleyen dünyanın sırlarını keşfedin ve\r\n10.000 yıldır bekleyenin halefi olun.\r\nŞimdi Architect'te kendinize yeni bir çağ ve fırsat yaratın.",
+      "genres": [
+        "Simülasyon",
+        "Strateji",
+        "İnşa etme"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-27",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4768160
+      },
+      "package": {
+        "url": null,
+        "size": 57692128,
+        "sha256": "1defdaeece557ed209663c17c16befe819592c75acb6e56610d15ef123d86062",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/architect-v1.0/architect-1.0.mfp",
+          "size": 57693040,
+          "sha256": "b5a4dfb7669a2a57f8c8f8e85c17124955e22923c49de952ec4a5ed371cb3013"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "stygian-outer-gods",
       "gameName": "Stygian: Outer Gods",
@@ -380,8 +423,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-10-26T21:29:40.7059111Z",
-      "freeKey": "ry5q+6jkANliQDoSURl4mPxivYefhq3SxnvOMKFc5UM=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -465,8 +506,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-10-26T18:43:51.2494127Z",
-      "freeKey": "/PRZmYqUtAdyGJfN+BzGKfgR4UqdVBjWmQCzSmJOTS8=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
