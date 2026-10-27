@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 130,
+  "catalogVersion": 131,
   "patches": [
     {
       "id": "avatar-frontiers-of-pandora",
@@ -1608,7 +1608,7 @@
       "hero": null,
       "color": "#26352C",
       "description": "Once human mobil Türkçe yama",
-      "about": "",
+      "about": "Once Human, garip, kıyamet sonrası bir gelecekte geçen bir Garip Dünyalar Hayatta Kalma Oyunudur. Canavar düşmanlarla savaşmak, gizli planları ortaya çıkarmak, kaynaklar için rekabet etmek ve kendi bölgenizi inşa etmek için arkadaşlarınızla birleşin. Bir zamanlar sadece insandın. Artık dünyayı yeniden yaratma gücüne sahipsiniz.",
       "genres": [
         "Aksiyon",
         "Macera",
@@ -1630,7 +1630,7 @@
       },
       "detect": {
         "mustExist": [],
-        "steamAppId": null
+        "steamAppId": 2139460
       },
       "package": {
         "url": null,
