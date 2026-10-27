@@ -1,6 +1,51 @@
 {
-  "catalogVersion": 134,
+  "catalogVersion": 135,
   "patches": [
+    {
+      "id": "bless-unleashed",
+      "gameName": "Bless Unleashed",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-10-30T21:52:50.6939633Z",
+      "freeKey": "Z+2EmxVGBqZ+ikw1Eib5UkFb0tZn2j+zG6R7gQeThT8=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Bless Unleashed, arkadaşlarınızla ve diğer sayısız kişiyle birlikte keyfini çıkarabileceğiniz bir açık dünya çevrimiçi oyunudur. Geniş bölgeleri ve tehlikeli zindanları keşfederken yoğun çatışmalara girmek için dışarı çıkın.",
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "RPG",
+        "Açık dünya",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-28",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 1254120
+      },
+      "package": {
+        "url": null,
+        "size": 4351474,
+        "sha256": "885acaebfd4d9a4be21e39f7ba33fb8318b6e3d6920c10d684f3c5eb3058caef",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/bless-unleashed-v1.0/bless-unleashed-1.0.mfp",
+          "size": 4351570,
+          "sha256": "9a6cdaa01161ddd1cd376b28478ef122baea7b055f41fea29f6a0a8adbb376c0"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "the-wolf-among-us-remastered",
       "gameName": "The Wolf Among Us Remastered",
