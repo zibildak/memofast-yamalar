@@ -1,6 +1,44 @@
 {
-  "catalogVersion": 131,
+  "catalogVersion": 132,
   "patches": [
+    {
+      "id": "reka",
+      "gameName": "REKA",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Slav folklorundan esinlenen sıcacık, büyülü bir dünyaya giriş yap. Güzün sisli ormanlarında dolaşırken kendi tavuk bacaklı evini yaparak onu süsle ve özelleştir. Bölgedeki köylülere yardım et, orman yaratıklarını evcilleştir ve ulu cadı Baba Jaga'dan iyi büyüler öğren.",
+      "genres": [
+        "Macera",
+        "Açık dünya",
+        "İnşa etme",
+        "Hikâye odaklı"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-27",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 1737870
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "avatar-frontiers-of-pandora",
       "gameName": "Avatar Frontiers of Pandora",
