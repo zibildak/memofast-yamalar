@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 136,
+  "catalogVersion": 137,
   "patches": [
     {
       "id": "bless-unleashed",
@@ -388,8 +388,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-10-28T19:14:52.8199698Z",
-      "freeKey": "hkIZj+PGu93DvZwBRgFHPq1p+9b7vXLTNLnbqD3h/b4=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -1752,7 +1750,7 @@
       "id": "once-human-mobil",
       "gameName": "Once Human Mobil",
       "title": "Mobil Türkçe Yama",
-      "version": "1.2",
+      "version": "1.3",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -1769,7 +1767,7 @@
         "Çok oyunculu"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-10-27",
+      "updatedAt": "2026-10-28",
       "comingSoon": false,
       "changelog": [],
       "info": {
@@ -1784,12 +1782,12 @@
       },
       "package": {
         "url": null,
-        "size": 165765848,
-        "sha256": "f71e26edbd6c8109e53dc09dd4ab396e9c369e1be8980816af5e488973ac2261",
+        "size": 125968888,
+        "sha256": "fe329498ebba6dce20f6d15e5e159f1b3bd9e108a9f9016a01db77039db87ed1",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-mobil-v1.2/once-human-mobil-1.2.mfp",
-          "size": 165768408,
-          "sha256": "fbb102a87e121e6bc0f0391e4c926a3766eaab8c66475340686ac26c3278b61f"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-mobil-v1.3/once-human-mobil-1.3.mfp",
+          "size": 125970840,
+          "sha256": "a4aa3841fc84c54f78c99382385c36fa036890ab2d01de6ee612b7aeb6fbce99"
         }
       },
       "installer": null,
