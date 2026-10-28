@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 137,
+  "catalogVersion": 138,
   "patches": [
     {
       "id": "bless-unleashed",
@@ -2806,13 +2806,13 @@
       "id": "aniimo",
       "gameName": "Aniimo",
       "title": "Türkçe Yama",
-      "version": "1.4",
+      "version": "1.5",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
       "description": "Aniimo oyununa ait tüm metinler Türkçe olarak çevrildi, makina çevirisine ait hatalar el ile düzeltildi, Türkçe karakter sorunu giderildi, oyuna güncelleme gelirse yama bozulur tekrar kurarak Türkçe oynayabilirsiniz, büyük güncellemelerde yamanın çıkmasını bekleyin.",
-      "about": "",
+      "about": "Aniimo, oynaması ücretsiz, yeni nesil yaratık yakalayan bir açık dünya RPG'sidir. Eşsiz Aniimo ile geniş Idyll kıtasını keşfedin, Twine, yeni yeteneklerin kilidini açın. Gökyüzünde süzülen bir metropole seyahat edin, diğer Yol Bulucularla tanışın ve heyecan verici yarışmalarda savaşın. Aniimo'nuzu seçin ve destansı yolculuğunuza başlayın!",
       "genres": [
         "Macera",
         "RPG",
@@ -2820,8 +2820,8 @@
         "Hikâye odaklı",
         "Çok oyunculu"
       ],
-      "warning": "",
-      "updatedAt": "2026-09-28",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-28",
       "comingSoon": false,
       "changelog": [
         {
@@ -2843,12 +2843,12 @@
       },
       "package": {
         "url": null,
-        "size": 3017963,
-        "sha256": "a46cb5488f9a406dc3f1f27a832ca14a88fcdb91384b845294bf34d019cf48a3",
+        "size": 3016942,
+        "sha256": "189b3b4ea12ebcfbfdf36e5ba624900cb61c7cc3205a62f3d9060a3ac01bab0e",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-v1.4/aniimo-1.4.mfp",
-          "size": 3018027,
-          "sha256": "54f7046c708c021ae9c12ac5dbcc3dae9001158893739cbf2c7b01a757121adf"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-v1.5/aniimo-1.5.mfp",
+          "size": 3017006,
+          "sha256": "7d2bb076125592208b8a91fc24007a273c6d744ce28a0a2b944ddeb9ab44aac7"
         }
       },
       "installer": {
