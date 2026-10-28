@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 135,
+  "catalogVersion": 136,
   "patches": [
     {
       "id": "bless-unleashed",
@@ -431,8 +431,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-10-28T18:22:01.6968908Z",
-      "freeKey": "xQBFfozgOvFH+jwAsjjr7JEXISnuiQTmhH07zvZ7JAQ=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -483,8 +481,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-10-28T14:30:14.259534Z",
-      "freeKey": "ap5YwLKztZPKd2MY66qcYEFxMKi3llBUyFeOIMW5zJ4=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -530,8 +526,6 @@
       "title": "Türkçe Yama",
       "version": "1.1",
       "tier": "pro",
-      "freeUntil": "2026-10-28T14:16:32.0978616Z",
-      "freeKey": "qv7YCWmQPVFEGQo3JH0VBMpeLMX9HLQ+CQQITstLq8o=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -2659,12 +2653,12 @@
       "id": "once-human",
       "gameName": "Once Human",
       "title": "Türkçe Yama",
-      "version": "1.6",
+      "version": "1.7",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
-      "description": "Once Human Güncelleme sonrası yenı metinler eklendi",
+      "description": "Once Human YAMAYI KURMADAN ÖNCE ESKİ YAMAYI KALDIRIN, MEMOFAST KAPATIP OYUNU AÇIN OYUN 800 MB YAKIN BİR GÜNCELLEME YAPACAK OYUN AÇILIP ANA EKRAN GELİNCE OYUNU KAPATIN VE YAMAYI KURUN",
       "about": "Once Human, garip, kıyamet sonrası bir gelecekte geçen bir Garip Dünyalar Hayatta Kalma Oyunudur. Canavar düşmanlarla savaşmak, gizli planları ortaya çıkarmak, kaynaklar için rekabet etmek ve kendi bölgenizi inşa etmek için arkadaşlarınızla birleşin. Bir zamanlar sadece insandın. Artık dünyayı yeniden yaratma gücüne sahipsiniz.",
       "genres": [
         "Aksiyon",
@@ -2676,7 +2670,7 @@
         "Çok oyunculu"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-10-27",
+      "updatedAt": "2026-10-28",
       "comingSoon": false,
       "changelog": [],
       "info": {
@@ -2690,12 +2684,12 @@
       },
       "package": {
         "url": null,
-        "size": 114959019,
-        "sha256": "1148c35bf64c793464d32ae1665ebe0d4ae07f807460f04c8397ee2678b2db0b",
+        "size": 115033899,
+        "sha256": "934b3a044e06017acf1b2cc88282a746857ba23fc59d1882ea098618aebe2d67",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-v1.6/once-human-1.6.mfp",
-          "size": 114960795,
-          "sha256": "9c1bb5ef58fd7b92327e62efa1e58fe1e328703fe22d1a9917e1538aac055fc4"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-v1.7/once-human-1.7.mfp",
+          "size": 115035675,
+          "sha256": "bf9d5a20ae21743c64f5d9c4379988999da62b3d9d629806c223a640d213d32b"
         }
       },
       "installer": null,
