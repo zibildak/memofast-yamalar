@@ -1,6 +1,49 @@
 {
-  "catalogVersion": 139,
+  "catalogVersion": 140,
   "patches": [
+    {
+      "id": "president-simulator",
+      "gameName": "President Simulator",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-10-31T21:20:18.9397287Z",
+      "freeKey": "knKMPtRJ14gUxsVAnWzBV4kkT0PAx5MCVUS/HHy9pMA=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Ayarlardan ingilizceyi seçip Türkçe oynayabilirsiniz.",
+      "about": "ABD Başkanı olun: Saçma kararnameler imzalayın ve \"satılmış\" damgası yememek için politikalarınızı dengeleyin. Popülerlik kazanmak için iletişim kurun, röportajları ve basın konferanslarını yönetin. İşler sarpa mı sardı? Kırmızı düğmeye basın.",
+      "genres": [
+        "Simülasyon",
+        "İnşa etme"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-29",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3705900
+      },
+      "package": {
+        "url": null,
+        "size": 79740,
+        "sha256": "3119cc0beb0048269054d55b0e09f025ba943cd3450e05912e2df57c99449d0e",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/president-simulator-v1.0/president-simulator-1.0.mfp",
+          "size": 79772,
+          "sha256": "f5782ec779f19ab2553ffc267011b3eaa110e3b72e2fe7b6bae429b94789cdcc"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "zombie-assault-resurgence",
       "gameName": "Zombie Assault Resurgence",
