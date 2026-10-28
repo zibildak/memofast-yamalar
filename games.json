@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 140,
+  "catalogVersion": 141,
   "patches": [
     {
       "id": "president-simulator",
@@ -1352,19 +1352,19 @@
       "id": "forever-ago",
       "gameName": "Forever Ago",
       "title": "Türkçe Yama",
-      "version": "1.0",
+      "version": "1.1",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
-      "description": "Forever Ago oyunu için tam çeviri Türkçe eklendi keyifli oyunlar",
-      "about": "",
+      "description": "Forever Ago güncelleme sonrası yeni metinler çevrildi , makina çeviri sonrası yanlış çevrilen kelimeler düzeltildi",
+      "about": "Bu tek kişilik yol macerasında kaderin trajik bir oyunu sonrasında Alfred kefaret arayışında kuzeye bir yolculuğa çıkıyor.",
       "genres": [
         "Macera",
         "Hikâye odaklı"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-10-19",
+      "updatedAt": "2026-10-29",
       "comingSoon": false,
       "changelog": [
         {
@@ -1385,12 +1385,12 @@
       },
       "package": {
         "url": null,
-        "size": 13914656,
-        "sha256": "85915abc0bc180beab21f6230aaeca0c9335abe5eee68eb90eae467c3ebdd36d",
+        "size": 14009782,
+        "sha256": "76e6628388b7a9a0e467ef85f67b278ab60a5db056567fe2d5331061218903aa",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/forever-ago-v1.0/forever-ago-1.0.mfp",
-          "size": 13914896,
-          "sha256": "9d622c279e0f74a5a52cd42a04314479274e5876fd3e6ed36287d481eea30415"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/forever-ago-v1.1/forever-ago-1.1.mfp",
+          "size": 14010022,
+          "sha256": "88bcafaac333d5df1b1828bd66744227c2317692c7d6919b5df1b914bfb582af"
         }
       },
       "installer": null,
