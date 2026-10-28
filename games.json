@@ -1,6 +1,53 @@
 {
-  "catalogVersion": 138,
+  "catalogVersion": 139,
   "patches": [
+    {
+      "id": "zombie-assault-resurgence",
+      "gameName": "Zombie Assault Resurgence",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-10-31T20:46:51.2318365Z",
+      "freeKey": "asWwoV/tC9naTUL8ZHkCpbYiNQSLZzeXOXOIyUfdkFs=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Zombie Assault: Resurgence, derin RPG ögelerine sahip yoğun ve aksiyon dolu bir top-down shooter! Benzersiz, geliştirilebilir silahlarla ekipmanınızı özelleştirin ve düşman sürüleriyle savaşın. Solo oynayın veya 4 kişiye kadar co-op takım kurun!",
+      "genres": [
+        "Aksiyon",
+        "RPG",
+        "Korku",
+        "Hayatta kalma",
+        "Nişancı",
+        "Hikâye odaklı",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-28",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2747660
+      },
+      "package": {
+        "url": null,
+        "size": 1159459,
+        "sha256": "2715a16c07ca49561afca244afff1a4871b147aeeeb8f6f7875f060a7a40c4e7",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/zombie-assault-resurgence-v1.0/zombie-assault-resurgence-1.0.mfp",
+          "size": 1159507,
+          "sha256": "41c07f77417c0d879077b3ea383c65fc99bae603625e0c85d815159a899d48f7"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "bless-unleashed",
       "gameName": "Bless Unleashed",
