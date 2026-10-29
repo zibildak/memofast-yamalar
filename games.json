@@ -1,6 +1,44 @@
 {
-  "catalogVersion": 142,
+  "catalogVersion": 143,
   "patches": [
+    {
+      "id": "phantom-blade-zero",
+      "gameName": "Phantom Blade Zero",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "S-GAME, klasik Wuxia hikaye anlatımı ile Unreal Engine 5 destekli heyecan verici aksiyonun bir birleşimi olan Phantom Blade Zero'yu sunuyor. Yaşamına yalnızca altmış altı günü kalmış bir savaşçı olan Soul olarak oynuyorsunuz. Suikastçıları savuşturun, dünyanın sonunu getiren komploları ortaya çıkarın ve değerlerinizi hayatınız pahasına savunun.",
+      "genres": [
+        "Aksiyon",
+        "RPG",
+        "Hikâye odaklı",
+        "Souls-like"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-29",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4115450
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "president-simulator",
       "gameName": "President Simulator",
