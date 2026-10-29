@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 147,
+  "catalogVersion": 148,
   "patches": [
     {
       "id": "phantom-blade-zero",
@@ -398,8 +398,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-10-29T18:25:15.370032Z",
-      "freeKey": "b26z41/OqZA58y/e5TYndHMBBY++4rqzA6houM47uMk=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -801,7 +799,9 @@
       "gameName": "ATMOSFAR",
       "title": "Türkçe Yama",
       "version": "1.0",
-      "tier": "free",
+      "tier": "pro",
+      "freeUntil": "2026-11-01T21:17:35.5857175Z",
+      "freeKey": "ppxi/s9q46TaJ700dRLoBbpYriF3p6mxWz8GyMQzXZ8=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -814,12 +814,13 @@
         "Çok oyunculu"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-10-23",
-      "comingSoon": true,
+      "updatedAt": "2026-10-30",
+      "comingSoon": false,
       "changelog": [],
       "info": {
         "Kurulum": "Dosya ekleme / değiştirme",
-        "Çeviren": "MemoFast ekibi"
+        "Çeviren": "MemoFast ekibi",
+        "Kapsam": "Tümü"
       },
       "detect": {
         "mustExist": [],
@@ -827,9 +828,13 @@
       },
       "package": {
         "url": null,
-        "size": 0,
-        "sha256": "",
-        "sealed": null
+        "size": 1670936,
+        "sha256": "e1975ebfb754a33b7498e5ff917cfd958a1ed7d97f60631185d798843970b3f9",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/atmosfar-v1.0/atmosfar-1.0.mfp",
+          "size": 1670984,
+          "sha256": "30fee931010180c0a29b2a2cf99a3754e6ac11405027706fc1e7a4b346283cdd"
+        }
       },
       "installer": null,
       "mobile": null
