@@ -1,16 +1,16 @@
 {
-  "catalogVersion": 143,
+  "catalogVersion": 144,
   "patches": [
     {
       "id": "phantom-blade-zero",
       "gameName": "Phantom Blade Zero",
       "title": "Türkçe Yama",
       "version": "1.0",
-      "tier": "free",
+      "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
-      "description": "",
+      "description": "Tüm satırlar çevrildi ve AI denetimi sonrası oyunun jargonuna uygun düzeltildi oyun %100 Türkçedir",
       "about": "S-GAME, klasik Wuxia hikaye anlatımı ile Unreal Engine 5 destekli heyecan verici aksiyonun bir birleşimi olan Phantom Blade Zero'yu sunuyor. Yaşamına yalnızca altmış altı günü kalmış bir savaşçı olan Soul olarak oynuyorsunuz. Suikastçıları savuşturun, dünyanın sonunu getiren komploları ortaya çıkarın ve değerlerinizi hayatınız pahasına savunun.",
       "genres": [
         "Aksiyon",
@@ -20,11 +20,12 @@
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-10-29",
-      "comingSoon": true,
+      "comingSoon": false,
       "changelog": [],
       "info": {
         "Kurulum": "Dosya ekleme / değiştirme",
-        "Çeviren": "MemoFast ekibi"
+        "Çeviren": "MemoFast ekibi",
+        "Kapsam": "Tümü"
       },
       "detect": {
         "mustExist": [],
@@ -32,9 +33,13 @@
       },
       "package": {
         "url": null,
-        "size": 0,
-        "sha256": "",
-        "sealed": null
+        "size": 64252156,
+        "sha256": "ba3c9e7479b52b9fc51db8d9fa9b855a88e2fe1c7b597d5015e419834fe4f81d",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/phantom-blade-zero-v1.0/phantom-blade-zero-1.0.mfp",
+          "size": 64253164,
+          "sha256": "bd879cb31a5cb4ec6d369929bad4f70f5b1ee9f28a7c7b0c282c81185faf735b"
+        }
       },
       "installer": null,
       "mobile": null
@@ -425,8 +430,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-10-29T12:22:01.2357452Z",
-      "freeKey": "sPs9QqP00b0gk9PPAjqWoeoizaqeDYJ/X/2FaWvNB5k=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -472,8 +475,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-10-29T06:33:52.321534Z",
-      "freeKey": "eruKNLScFD0UIh5gGVSzi+5kUde7GJ7kw2Y33K4/PO4=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
