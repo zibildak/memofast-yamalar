@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 146,
+  "catalogVersion": 147,
   "patches": [
     {
       "id": "phantom-blade-zero",
@@ -351,7 +351,7 @@
     },
     {
       "id": "architect",
-      "gameName": "Architect",
+      "gameName": "Architect: Land of Exiles",
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
