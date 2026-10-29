@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 144,
+  "catalogVersion": 145,
   "patches": [
     {
       "id": "phantom-blade-zero",
@@ -2935,7 +2935,7 @@
       "id": "aniimo",
       "gameName": "Aniimo",
       "title": "Türkçe Yama",
-      "version": "1.5",
+      "version": "1.6",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -2950,7 +2950,7 @@
         "Çok oyunculu"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-10-28",
+      "updatedAt": "2026-10-29",
       "comingSoon": false,
       "changelog": [
         {
@@ -2972,12 +2972,12 @@
       },
       "package": {
         "url": null,
-        "size": 3016942,
-        "sha256": "189b3b4ea12ebcfbfdf36e5ba624900cb61c7cc3205a62f3d9060a3ac01bab0e",
+        "size": 3750654,
+        "sha256": "6ebae8c688798ff417dc5f4abc390da0c92839f0c077765a0920a414dc13dc5a",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-v1.5/aniimo-1.5.mfp",
-          "size": 3017006,
-          "sha256": "7d2bb076125592208b8a91fc24007a273c6d744ce28a0a2b944ddeb9ab44aac7"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-v1.6/aniimo-1.6.mfp",
+          "size": 3750734,
+          "sha256": "94bd1e38858a9d11784869f1832dd8360f5e72ef37e5a0a3e090f0944fbd9402"
         }
       },
       "installer": {
