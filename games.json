@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 145,
+  "catalogVersion": 146,
   "patches": [
     {
       "id": "phantom-blade-zero",
@@ -257,7 +257,9 @@
       "gameName": "REKA",
       "title": "Türkçe Yama",
       "version": "1.0",
-      "tier": "free",
+      "tier": "pro",
+      "freeUntil": "2026-11-01T16:10:10.3406384Z",
+      "freeKey": "Y+fCkvBSdN82rWj3c/4KMfEbzQ055/AOaTgfaJQcSYE=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -270,12 +272,13 @@
         "Hikâye odaklı"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-10-27",
-      "comingSoon": true,
+      "updatedAt": "2026-10-29",
+      "comingSoon": false,
       "changelog": [],
       "info": {
-        "Kurulum": "Dosya ekleme / değiştirme",
-        "Çeviren": "MemoFast ekibi"
+        "Kurulum": "Oyun dosyasına işlenir",
+        "Çeviren": "MemoFast ekibi",
+        "Kapsam": "Tümü"
       },
       "detect": {
         "mustExist": [],
@@ -283,11 +286,21 @@
       },
       "package": {
         "url": null,
-        "size": 0,
-        "sha256": "",
-        "sealed": null
+        "size": 24690281,
+        "sha256": "9d049dba1c2ff0a631e2d0ded80f1fdcd8a0f0412bbe74991e98705ed3c16a28",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/reka-v1.0/reka-1.0.mfp",
+          "size": 24690681,
+          "sha256": "8424cfa2dba2e0f4fb56243d633240d7d0e91a2e94603a48a133ebdedddc9dc3"
+        }
       },
-      "installer": null,
+      "installer": {
+        "script": "kur.ps1",
+        "installArgs": "-Mode kur -Oyun \"{oyun}\"",
+        "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
+        "env": {},
+        "watchFiles": []
+      },
       "mobile": null
     },
     {
