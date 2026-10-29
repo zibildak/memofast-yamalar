@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 148,
+  "catalogVersion": 149,
   "patches": [
     {
       "id": "phantom-blade-zero",
@@ -800,8 +800,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-11-01T21:17:35.5857175Z",
-      "freeKey": "ppxi/s9q46TaJ700dRLoBbpYriF3p6mxWz8GyMQzXZ8=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
