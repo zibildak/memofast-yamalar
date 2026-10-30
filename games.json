@@ -1,6 +1,54 @@
 {
-  "catalogVersion": 149,
+  "catalogVersion": 150,
   "patches": [
+    {
+      "id": "hunting-simulator-3",
+      "gameName": "Hunting Simulator 3",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-11-02T05:18:44.8456134Z",
+      "freeKey": "6g1LJslRuC/YOTgDF8lxYn+PgLYs4ab39V9JIFP3Bdc=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Bu açık dünya oyunu, sadık köpeğin av heyecanını yaşamanı sağlayacak! Resmi markalar arasından ekipmanını seç ve bir sonraki avını aramak için vahşi doğayı keşfet.",
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "Simülasyon",
+        "Açık dünya",
+        "Nişancı",
+        "Spor",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-30",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2482760
+      },
+      "package": {
+        "url": null,
+        "size": 794000,
+        "sha256": "2e347b7658fb46bcefb17de428bcfc2149db661f681ddfd94cdecabc70076b1e",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/hunting-simulator-3-v1.0/hunting-simulator-3-1.0.mfp",
+          "size": 794032,
+          "sha256": "10ded44c19f010e68e717e5e7a35265c3de2e321a5464daa1e31f2445682f707"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "phantom-blade-zero",
       "gameName": "Phantom Blade Zero",
