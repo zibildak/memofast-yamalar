@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 150,
+  "catalogVersion": 151,
   "patches": [
     {
       "id": "hunting-simulator-3",
@@ -1813,13 +1813,13 @@
       "id": "aniimo-mobil",
       "gameName": "Aniimo Mobil",
       "title": "Mobil Türkçe Yama",
-      "version": "1.0",
+      "version": "1.1",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
       "description": "Aniimo Mobil oyunu için Türkçe yama eklendi",
-      "about": "",
+      "about": "Aniimo, oynaması ücretsiz, yeni nesil yaratık yakalayan bir açık dünya RPG'sidir. Eşsiz Aniimo ile geniş Idyll kıtasını keşfedin, Twine, yeni yeteneklerin kilidini açın. Gökyüzünde süzülen bir metropole seyahat edin, diğer Yol Bulucularla tanışın ve heyecan verici yarışmalarda savaşın. Aniimo'nuzu seçin ve destansı yolculuğunuza başlayın!",
       "genres": [
         "Macera",
         "RPG",
@@ -1827,8 +1827,8 @@
         "Hikâye odaklı",
         "Çok oyunculu"
       ],
-      "warning": "",
-      "updatedAt": "2026-10-12",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-30",
       "comingSoon": false,
       "changelog": [],
       "info": {
@@ -1843,12 +1843,12 @@
       },
       "package": {
         "url": null,
-        "size": 72216395,
-        "sha256": "716b9eb1c314429b6f359e8caf455c6ddace0233ced10ebdf4c66f4914842a53",
+        "size": 143193206,
+        "sha256": "d574470382d447fc97f4b710e2325ffa1acca978e4d22916dfba636ce1cce0b9",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-mobil-v1.0/aniimo-mobil-1.0.mfp",
-          "size": 72217515,
-          "sha256": "6cdffc7fe619470489d1e294dd34363e3a014c7552af41286765cdba8923db98"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-mobil-v1.1/aniimo-mobil-1.1.mfp",
+          "size": 143195414,
+          "sha256": "8c690e59842bb0fd3661caa1defb356684bf10ae4716a4fe06b0d809741c10b2"
         }
       },
       "installer": null,
