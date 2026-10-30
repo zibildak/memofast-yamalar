@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 152,
+  "catalogVersion": 153,
   "patches": [
     {
       "id": "hunting-simulator-3",
@@ -1094,45 +1094,6 @@
           "size": 2107884,
           "sha256": "a3c0250f5bc52d0da35de4f0f1a9f170effeefaaabc989306296a2f3ffd18c14"
         }
-      },
-      "installer": null,
-      "mobile": null
-    },
-    {
-      "id": "archeage-chronicles-demo",
-      "gameName": "ArcheAge Chronicles Demo",
-      "title": "Türkçe Yama",
-      "version": "1.0",
-      "tier": "free",
-      "cover": null,
-      "hero": null,
-      "color": "#26352C",
-      "description": "",
-      "about": "Derin bir geçmişe sahip ve heyecan verici aksiyonla dolu Auroria'nın engin ve rengârenk dünyasını keşfet. ArcheAge Chronicles hem yeni gelen oyuncuların hem de deneyimli maceracıların gönüllerini fethedecek sürükleyici bir deneyim sunar.",
-      "genres": [
-        "Aksiyon",
-        "Macera",
-        "RPG",
-        "Açık dünya",
-        "Çok oyunculu"
-      ],
-      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-10-21",
-      "comingSoon": true,
-      "changelog": [],
-      "info": {
-        "Kurulum": "Dosya ekleme / değiştirme",
-        "Çeviren": "MemoFast ekibi"
-      },
-      "detect": {
-        "mustExist": [],
-        "steamAppId": 3218230
-      },
-      "package": {
-        "url": null,
-        "size": 0,
-        "sha256": "",
-        "sealed": null
       },
       "installer": null,
       "mobile": null
