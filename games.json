@@ -1,6 +1,55 @@
 {
-  "catalogVersion": 153,
+  "catalogVersion": 154,
   "patches": [
+    {
+      "id": "metal-gear-rising-revengeance",
+      "gameName": "METAL GEAR RISING REVENGEANCE",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-11-02T19:24:53.663891Z",
+      "freeKey": "PeC3Ff9VgwmM2TWOqnaDhTKK33Afy2vBHowsww8qf8Q=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Kojima Productions ve PlatinumGames tarafından geliştirilen METAL GEAR RISING: REVENGEANCE, ünlü METAL GEAR serisini yepyeni bir aksiyon deneyimiyle heyecan verici yeni bölgelere taşıyor. Oyun, yarı insan, yarı cyborg bir ninjaya dönüşen çocuk asker Raiden'ı çevreleyen saf aksiyon ve destansı hikaye anlatımını kusursuz bir şekilde birleştiriyor.",
+      "genres": [
+        "Aksiyon",
+        "Hikâye odaklı"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-30",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Oyun dosyasına işlenir",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 235460
+      },
+      "package": {
+        "url": null,
+        "size": 22083772,
+        "sha256": "326fae1643e31af525d3f33a695c6045a166959549de1e601d1a6e760dea788e",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/metal-gear-rising-revengeance-v1.0/metal-gear-rising-revengeance-1.0.mfp",
+          "size": 22084140,
+          "sha256": "03047736a996506cc625a50a8e639039ebc8d1034f9bef5da4889198677b49d1"
+        }
+      },
+      "installer": {
+        "script": "kur.ps1",
+        "installArgs": "-Mode kur -Oyun \"{oyun}\"",
+        "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
+        "env": {},
+        "watchFiles": []
+      },
+      "mobile": null
+    },
     {
       "id": "hunting-simulator-3",
       "gameName": "Hunting Simulator 3",
@@ -363,8 +412,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-10-30T18:55:17.295246Z",
-      "freeKey": "M37GXU4Bo8yYTPDWaQNmgI1VbmxX6EXuCu3rpVac3yM=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
