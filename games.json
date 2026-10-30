@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 151,
+  "catalogVersion": 152,
   "patches": [
     {
       "id": "hunting-simulator-3",
@@ -232,19 +232,21 @@
       "gameName": "The Wolf Among Us Remastered",
       "title": "Türkçe Yama",
       "version": "1.0",
-      "tier": "free",
+      "tier": "pro",
+      "freeUntil": "2026-11-02T08:30:55.3153149Z",
+      "freeKey": "MnsxLhScl6RNMaHGwNyTUX+cHucLSrb6PbXTU6gODmY=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
-      "description": "",
+      "description": "The Wolf Among Us Remastered %100 Türkçe yama eklendi",
       "about": "Folklorun gerçek olduğu, şiddetin tüyler ürpertici olduğu ve her seçimin sonuçlarının olduğu karanlık bir dedektif gerilim filmi.",
       "genres": [
         "Macera",
         "Hikâye odaklı"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-10-28",
-      "comingSoon": true,
+      "updatedAt": "2026-10-30",
+      "comingSoon": false,
       "changelog": [],
       "info": {
         "Kurulum": "Dosya ekleme / değiştirme",
@@ -256,9 +258,13 @@
       },
       "package": {
         "url": null,
-        "size": 0,
-        "sha256": "",
-        "sealed": null
+        "size": 16790958,
+        "sha256": "aed35a35e1c59ff1a0e9ce3d7ca4101e7b943ce73bffff4e42580a41e04e7f71",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/the-wolf-among-us-remastered-v1.0/the-wolf-among-us-remastered-1.0.mfp",
+          "size": 16791246,
+          "sha256": "528708845d00e3b70aa89829ef909cc9d10fbcad02f1b36f21fc024c74e23f10"
+        }
       },
       "installer": null,
       "mobile": null
@@ -403,8 +409,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-10-30T08:00:07.6331595Z",
-      "freeKey": "sUR2vxMuG+Fbf1CsNmc9OYTwW7JOh7xLBm3n5yvL9V0=",
       "cover": "patches/architect/cover-74b7e54d77.png",
       "hero": "patches/architect/hero-3c292ca4f7.jpg",
       "color": "#26352C",
