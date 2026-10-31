@@ -1,6 +1,48 @@
 {
-  "catalogVersion": 155,
+  "catalogVersion": 156,
   "patches": [
+    {
+      "id": "probably-stolen",
+      "gameName": "Probably Stolen",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Probably Stolen oyununun tüm metinleri orjinaline sadık kalınarak çevrildi.",
+      "about": "Muhtemelen Stolen, distopik bir uzay istasyonunda geçen bir siberpunk mağazacılık simülatörüdür. Kaynağı şüpheli mallar üretin, ticaretini yapın ve kaçakçılığı yapın, grup sadakatlerinde yol alın ve ayakta kalmak için ne kadar ileri gitmek istediğinize karar verin. Artan kira sizi zorlamadan önce dükkanınızı satın almaya yetecek kadar kazanın.",
+      "genres": [
+        "RPG",
+        "Simülasyon",
+        "Hikâye odaklı"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-31",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4348910
+      },
+      "package": {
+        "url": null,
+        "size": 1691759,
+        "sha256": "45b1c2c78d2cafddc92a04c3b692ee87f05a8c1861c3f3f52070b7e4a313b17e",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/probably-stolen-v1.0/probably-stolen-1.0.mfp",
+          "size": 1691807,
+          "sha256": "0bf515e7ba348dc340ce61536d90676705eb0e6fb270c7cc3f3691faa1b5a8d2"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "metal-gear-rising-revengeance",
       "gameName": "METAL GEAR RISING REVENGEANCE",
