@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 158,
+  "catalogVersion": 159,
   "patches": [
     {
       "id": "shift-2-unleashed",
@@ -3058,7 +3058,7 @@
       "id": "aniimo",
       "gameName": "Aniimo",
       "title": "Türkçe Yama",
-      "version": "1.7",
+      "version": "1.8",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -3095,12 +3095,12 @@
       },
       "package": {
         "url": null,
-        "size": 3031284,
-        "sha256": "b5ea90b9cbfaedf7562563dc608602ea1946e162075ec2cb46cfa7c23da1cb71",
+        "size": 3768431,
+        "sha256": "ecade6b2d72940135c74e67cf8e13d27a8c109f7d532d96ccd8756d3ca9b08de",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-v1.7/aniimo-1.7.mfp",
-          "size": 3031348,
-          "sha256": "033ebd43d0d8d9df7c6ffa537afba3dc6fd6a3883f583bf5ddba95dd86f3e351"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-v1.8/aniimo-1.8.mfp",
+          "size": 3768511,
+          "sha256": "221b04fc2ec9a6ee86d48ce4f57e0b269dc6d2bde73d2645efaef50d4e35c12d"
         }
       },
       "installer": {
