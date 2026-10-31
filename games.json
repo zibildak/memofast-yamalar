@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 154,
+  "catalogVersion": 155,
   "patches": [
     {
       "id": "metal-gear-rising-revengeance",
@@ -237,8 +237,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-10-30T21:52:50.6939633Z",
-      "freeKey": "Z+2EmxVGBqZ+ikw1Eib5UkFb0tZn2j+zG6R7gQeThT8=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -3011,12 +3009,12 @@
       "id": "aniimo",
       "gameName": "Aniimo",
       "title": "Türkçe Yama",
-      "version": "1.6",
+      "version": "1.7",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
-      "description": "Aniimo oyununa ait tüm metinler Türkçe olarak çevrildi, makina çevirisine ait hatalar el ile düzeltildi, Türkçe karakter sorunu giderildi, oyuna güncelleme gelirse yama bozulur tekrar kurarak Türkçe oynayabilirsiniz, büyük güncellemelerde yamanın çıkmasını bekleyin.",
+      "description": "Aniimo oyunda ki yanlış çevrlmiş veya Aniimo adları da çevrilen kısımlar düzeltildi",
       "about": "Aniimo, oynaması ücretsiz, yeni nesil yaratık yakalayan bir açık dünya RPG'sidir. Eşsiz Aniimo ile geniş Idyll kıtasını keşfedin, Twine, yeni yeteneklerin kilidini açın. Gökyüzünde süzülen bir metropole seyahat edin, diğer Yol Bulucularla tanışın ve heyecan verici yarışmalarda savaşın. Aniimo'nuzu seçin ve destansı yolculuğunuza başlayın!",
       "genres": [
         "Macera",
@@ -3026,7 +3024,7 @@
         "Çok oyunculu"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-10-29",
+      "updatedAt": "2026-10-31",
       "comingSoon": false,
       "changelog": [
         {
@@ -3048,12 +3046,12 @@
       },
       "package": {
         "url": null,
-        "size": 3750654,
-        "sha256": "6ebae8c688798ff417dc5f4abc390da0c92839f0c077765a0920a414dc13dc5a",
+        "size": 3031284,
+        "sha256": "b5ea90b9cbfaedf7562563dc608602ea1946e162075ec2cb46cfa7c23da1cb71",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-v1.6/aniimo-1.6.mfp",
-          "size": 3750734,
-          "sha256": "94bd1e38858a9d11784869f1832dd8360f5e72ef37e5a0a3e090f0944fbd9402"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-v1.7/aniimo-1.7.mfp",
+          "size": 3031348,
+          "sha256": "033ebd43d0d8d9df7c6ffa537afba3dc6fd6a3883f583bf5ddba95dd86f3e351"
         }
       },
       "installer": {
