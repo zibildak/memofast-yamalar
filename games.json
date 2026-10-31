@@ -1,6 +1,50 @@
 {
-  "catalogVersion": 157,
+  "catalogVersion": 158,
   "patches": [
+    {
+      "id": "shift-2-unleashed",
+      "gameName": "Shift 2 Unleashed",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-11-03T15:31:15.4150788Z",
+      "freeKey": "42VoYxiEXL6iNYE1bS5/2YVvj9LPyvvO1i8p1pu3T9E=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Direksiyon başında olmanın tüm yoğunluğu ve coşkusuyla gerçek sürücü deneyimini hayata geçirin!",
+      "genres": [
+        "Simülasyon",
+        "Yarış",
+        "Spor",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-10-31",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 47920
+      },
+      "package": {
+        "url": null,
+        "size": 1622215,
+        "sha256": "b2542453cc5aa0f6424829083b074a9cdb136ec60e6006342d1c647d6933da29",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/shift-2-unleashed-v1.0/shift-2-unleashed-1.0.mfp",
+          "size": 1622263,
+          "sha256": "bcb2a773deef84a284b52604cbaec92a00cfda415d6e350b2e267cc237d4ec02"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "probably-stolen",
       "gameName": "Probably Stolen",
