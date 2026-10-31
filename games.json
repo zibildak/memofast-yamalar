@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 159,
+  "catalogVersion": 160,
   "patches": [
     {
       "id": "shift-2-unleashed",
@@ -406,10 +406,10 @@
       "id": "reka",
       "gameName": "REKA",
       "title": "Türkçe Yama",
-      "version": "1.0",
+      "version": "1.1",
       "tier": "pro",
       "freeUntil": "2026-11-01T16:10:10.3406384Z",
-      "freeKey": "Y+fCkvBSdN82rWj3c/4KMfEbzQ055/AOaTgfaJQcSYE=",
+      "freeKey": "yRCCfzKhphoEpacBnnW5Gb0xmWo2FWqJX4NvjDuir5w=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -422,7 +422,7 @@
         "Hikâye odaklı"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-10-29",
+      "updatedAt": "2026-10-31",
       "comingSoon": false,
       "changelog": [],
       "info": {
@@ -436,12 +436,12 @@
       },
       "package": {
         "url": null,
-        "size": 24690281,
-        "sha256": "9d049dba1c2ff0a631e2d0ded80f1fdcd8a0f0412bbe74991e98705ed3c16a28",
+        "size": 12452570,
+        "sha256": "7bbf7ed2533a030f9cd612f5791557733ad32ab65fa4fb68c2926683199eb773",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/reka-v1.0/reka-1.0.mfp",
-          "size": 24690681,
-          "sha256": "8424cfa2dba2e0f4fb56243d633240d7d0e91a2e94603a48a133ebdedddc9dc3"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/reka-v1.1/reka-1.1.mfp",
+          "size": 12452778,
+          "sha256": "7f2e8d617711599a248ac5e8bdf221fb01cf03c27243c2b124e3868bd18733af"
         }
       },
       "installer": {
