@@ -1,6 +1,48 @@
 {
-  "catalogVersion": 163,
+  "catalogVersion": 164,
   "patches": [
+    {
+      "id": "devil-may-cry-5",
+      "gameName": "Devil May Cry 5",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Devil May Cry 5 oyunun tamamı Türkçe hale getirildi",
+      "about": "En iyi Şeytan Avcısı, aksiyon oyunu hayranlarının beklediği tarzda geri döndü.",
+      "genres": [
+        "Aksiyon",
+        "Hikâye odaklı",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-02",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kapsam": "Tümü",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 601150
+      },
+      "package": {
+        "url": null,
+        "size": 48237988,
+        "sha256": "3e13a7b3cf91f9723f1bf78f737396cdca4f6ce7eb88a4433267e342a6e45fa1",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/devil-may-cry-5-v1.0/devil-may-cry-5-1.0.mfp",
+          "size": 48238756,
+          "sha256": "36e7a8c1562fbc57bfdfdcd311981ddbb800101fedac28f9726b880408d15b9c"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "shift-2-unleashed",
       "gameName": "Shift 2 Unleashed",
