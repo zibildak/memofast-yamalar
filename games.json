@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 161,
+  "catalogVersion": 162,
   "patches": [
     {
       "id": "shift-2-unleashed",
@@ -1861,55 +1861,6 @@
       },
       "installer": null,
       "mobile": null
-    },
-    {
-      "id": "aniimo-mobil",
-      "gameName": "Aniimo Mobil",
-      "title": "Mobil Türkçe Yama",
-      "version": "1.1",
-      "tier": "pro",
-      "cover": null,
-      "hero": null,
-      "color": "#26352C",
-      "description": "Aniimo Mobil oyunu için Türkçe yama eklendi",
-      "about": "Aniimo, oynaması ücretsiz, yeni nesil yaratık yakalayan bir açık dünya RPG'sidir. Eşsiz Aniimo ile geniş Idyll kıtasını keşfedin, Twine, yeni yeteneklerin kilidini açın. Gökyüzünde süzülen bir metropole seyahat edin, diğer Yol Bulucularla tanışın ve heyecan verici yarışmalarda savaşın. Aniimo'nuzu seçin ve destansı yolculuğunuza başlayın!",
-      "genres": [
-        "Macera",
-        "RPG",
-        "Açık dünya",
-        "Hikâye odaklı",
-        "Çok oyunculu"
-      ],
-      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-10-30",
-      "comingSoon": false,
-      "changelog": [],
-      "info": {
-        "Kurulum": "Telefona kurulur (USB)",
-        "Platform": "Android",
-        "Kapsam": "Tümü",
-        "Çeviren": "MemoFast ekibi"
-      },
-      "detect": {
-        "mustExist": [],
-        "steamAppId": 4126040
-      },
-      "package": {
-        "url": null,
-        "size": 143193206,
-        "sha256": "d574470382d447fc97f4b710e2325ffa1acca978e4d22916dfba636ce1cce0b9",
-        "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-mobil-v1.1/aniimo-mobil-1.1.mfp",
-          "size": 143195414,
-          "sha256": "8c690e59842bb0fd3661caa1defb356684bf10ae4716a4fe06b0d809741c10b2"
-        }
-      },
-      "installer": null,
-      "mobile": {
-        "package": "com.x.aniimos",
-        "targetPath": "Android/data/com.x.aniimos/files/cvs/res",
-        "mustExist": []
-      }
     },
     {
       "id": "hood-warfare-2",
