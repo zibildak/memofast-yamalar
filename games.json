@@ -1,6 +1,48 @@
 {
-  "catalogVersion": 168,
+  "catalogVersion": 169,
   "patches": [
+    {
+      "id": "palia",
+      "gameName": "Palia",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Palia oyunu tamamen AI ile çevrildi orjinale yakın bir Türkçe ile eklendi keyifli oyunlar",
+      "about": "Hayallerinizdeki hayatı ve evi tasarlayabileceğiniz, keşfedebileceğiniz ve yaratabileceğiniz, oynaması ücretsiz bir fantastik yaşam simülasyonu macerası olan Palia'da davetkar bir dünyayı keşfedin. Palia'yı eviniz haline getirmenin neredeyse sonsuz yolu sayesinde, bu canlı, iç ısıtan dünyanın her köşesinde rahatlama ve neşe bulacaksınız.",
+      "genres": [
+        "RPG",
+        "Simülasyon",
+        "İnşa etme",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-03",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2707930
+      },
+      "package": {
+        "url": null,
+        "size": 6884600,
+        "sha256": "3bd2f56586ce0aa6425a3a7782952e354a2191d4ba695e897a7168d5cd772f00",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/palia-v1.0/palia-1.0.mfp",
+          "size": 6884728,
+          "sha256": "d5394d03d22ccfaee197fc397564e7ba307fb5b726e5e6dd4d7849fb5c00f175"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "shadowrun-hong-kong-extended-edition",
       "gameName": "Shadowrun Hong Kong Extended Edition",
