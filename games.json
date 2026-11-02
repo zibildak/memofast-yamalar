@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 165,
+  "catalogVersion": 166,
   "patches": [
     {
       "id": "shadowrun-hong-kong-extended-edition",
@@ -95,10 +95,10 @@
       "id": "shift-2-unleashed",
       "gameName": "Shift 2 Unleashed",
       "title": "Türkçe Yama",
-      "version": "1.1",
+      "version": "1.2",
       "tier": "pro",
       "freeUntil": "2026-11-03T15:31:15.4150788Z",
-      "freeKey": "52jBug/+XM8KDi3is/LYIcXvzUdH69pDp7bWHZZTIXA=",
+      "freeKey": "hBJewY4qi+Uvs8doRfK228Mk3kcIs1lOCGtWzqTQfbc=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -124,12 +124,12 @@
       },
       "package": {
         "url": null,
-        "size": 585590,
-        "sha256": "1934d15c6f26062f1fc7301acb22d838b59404a50b6e092b683b4748da379f70",
+        "size": 813532,
+        "sha256": "c15cb9b576d83b5471e51f5b3869f5adcfcd59fbf0f71f849e021a52d8a33e0f",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/shift-2-unleashed-v1.1/shift-2-unleashed-1.1.mfp",
-          "size": 585622,
-          "sha256": "97ea973a1a77f27d597be24b80e621361cf9ecbc7e0a74545c5d48658d3b4e2a"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/shift-2-unleashed-v1.2/shift-2-unleashed-1.2.mfp",
+          "size": 813564,
+          "sha256": "99878aef6877fb8bc170976dbcb4317cba0efcb2fdd68aea8898b42b30e26acd"
         }
       },
       "installer": null,
