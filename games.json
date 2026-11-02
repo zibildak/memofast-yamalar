@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 167,
+  "catalogVersion": 168,
   "patches": [
     {
       "id": "shadowrun-hong-kong-extended-edition",
@@ -2932,7 +2932,7 @@
       "id": "once-human",
       "gameName": "Once Human",
       "title": "Türkçe Yama",
-      "version": "1.8",
+      "version": "1.9",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -2949,7 +2949,7 @@
         "Çok oyunculu"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-11-01",
+      "updatedAt": "2026-11-02",
       "comingSoon": false,
       "changelog": [],
       "info": {
@@ -2963,12 +2963,12 @@
       },
       "package": {
         "url": null,
-        "size": 115426135,
-        "sha256": "11abb19ff8963941f09e00e67a131901341a5d02bf9457c9dcdc3d687e1b4c7d",
+        "size": 11223076,
+        "sha256": "25459f5025a9813656f4a438ce700cb966c1950c8ae0dc7d3d8a1722acf18eac",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-v1.8/once-human-1.8.mfp",
-          "size": 115427927,
-          "sha256": "042d25fcfd16d2ff789b1b738073dba31d3901c757fa5f88d2a486367d2e14b1"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-v1.9/once-human-1.9.mfp",
+          "size": 11223268,
+          "sha256": "d9f1458e60bb473f881f8bc9514c3bc143429a544ab1d8d22cce4339f9becde1"
         }
       },
       "installer": null,
