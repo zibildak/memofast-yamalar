@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 166,
+  "catalogVersion": 167,
   "patches": [
     {
       "id": "shadowrun-hong-kong-extended-edition",
@@ -2937,7 +2937,7 @@
       "cover": null,
       "hero": null,
       "color": "#26352C",
-      "description": "Once Human YAMAYI KURMADAN ÖNCE ESKİ YAMAYI KALDIRIN, MEMOFAST KAPATIP OYUNU AÇIN OYUN 800 MB YAKIN BİR GÜNCELLEME YAPACAK OYUN AÇILIP ANA EKRAN GELİNCE OYUNU KAPATIN VE YAMAYI KURUN",
+      "description": "Kurulum için öncelikle mevcut yamayı kaldırın sonrasında oyunu açıp güncelleyin, oyunu kapatın yamayı kurun",
       "about": "Once Human, garip, kıyamet sonrası bir gelecekte geçen bir Garip Dünyalar Hayatta Kalma Oyunudur. Canavar düşmanlarla savaşmak, gizli planları ortaya çıkarmak, kaynaklar için rekabet etmek ve kendi bölgenizi inşa etmek için arkadaşlarınızla birleşin. Bir zamanlar sadece insandın. Artık dünyayı yeniden yaratma gücüne sahipsiniz.",
       "genres": [
         "Aksiyon",
