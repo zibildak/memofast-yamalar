@@ -1,6 +1,42 @@
 {
-  "catalogVersion": 169,
+  "catalogVersion": 170,
   "patches": [
+    {
+      "id": "figure-me-out",
+      "gameName": "Figure Me Out",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Sayıları alınlarına yazarak rakiplerinizi ortadan kaldırdığınız çok oyunculu bir FPS. Onlar sizinkini okumadan önce onlarınkini okuyun, savaşı engellemek için taktiksel araçlar kullanın ve 20 oyuncuya kadar olan maçlarda arkadaşlarınızla veya yabancılarla savaşın.",
+      "genres": [
+        "Aksiyon",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-03",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 5313470
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "palia",
       "gameName": "Palia",
