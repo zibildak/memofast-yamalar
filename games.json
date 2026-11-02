@@ -1,6 +1,54 @@
 {
-  "catalogVersion": 164,
+  "catalogVersion": 165,
   "patches": [
+    {
+      "id": "shadowrun-hong-kong-extended-edition",
+      "gameName": "Shadowrun Hong Kong Extended Edition",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Shadowrun Hong Kong - Extended Edition oyunun tamamı %100 Türkçeye çevrildi Aİ ile tam kontrol yapıldı. Keyifli oyunlar dilerim",
+      "about": "Shadowrun: Hong Kong - Extended Edition, Harebrained Schemes'in Shadowrun serisinin en önemli oyunu ve artık tamamen yeni, 6+ saatlik Shadows of Hong Kong Bonus Kampanyasını içeriyor. 2015'in en iyi cRPG / strateji oyunlarından biri olarak kabul edilen, şimdiye kadarki en etkileyici Shadowrun RPG'sini deneyimleyin!",
+      "genres": [
+        "Macera",
+        "RPG",
+        "Strateji",
+        "Hikâye odaklı"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-02",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Oyun dosyasına işlenir",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 346940
+      },
+      "package": {
+        "url": null,
+        "size": 5771189,
+        "sha256": "daa51ac50e5f412b4051efc4afb002ea970fe5f7a4b97ebea8f185c94dd4f539",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/shadowrun-hong-kong-extended-edition-v1.0/shadowrun-hong-kong-extended-edition-1.0.mfp",
+          "size": 5771301,
+          "sha256": "d35ee659c537a008bb11a88c00609ebf42185eb3eced5b3f2b6ffe7bb206e1b7"
+        }
+      },
+      "installer": {
+        "script": "kur.ps1",
+        "installArgs": "-Mode kur -Oyun \"{oyun}\"",
+        "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
+        "env": {},
+        "watchFiles": []
+      },
+      "mobile": null
+    },
     {
       "id": "devil-may-cry-5",
       "gameName": "Devil May Cry 5",
@@ -135,8 +183,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-11-02T19:24:53.663891Z",
-      "freeKey": "PeC3Ff9VgwmM2TWOqnaDhTKK33Afy2vBHowsww8qf8Q=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -184,8 +230,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-11-02T05:18:44.8456134Z",
-      "freeKey": "6g1LJslRuC/YOTgDF8lxYn+PgLYs4ab39V9JIFP3Bdc=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -404,8 +448,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-11-02T08:30:55.3153149Z",
-      "freeKey": "MnsxLhScl6RNMaHGwNyTUX+cHucLSrb6PbXTU6gODmY=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
