@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 172,
+  "catalogVersion": 173,
   "patches": [
     {
       "id": "the-midnight-walk",
@@ -259,8 +259,6 @@
       "title": "Türkçe Yama",
       "version": "1.2",
       "tier": "pro",
-      "freeUntil": "2026-11-03T15:31:15.4150788Z",
-      "freeKey": "hBJewY4qi+Uvs8doRfK228Mk3kcIs1lOCGtWzqTQfbc=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -648,7 +646,7 @@
       "id": "reka",
       "gameName": "REKA",
       "title": "Türkçe Yama",
-      "version": "1.1",
+      "version": "1.2",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -662,7 +660,7 @@
         "Hikâye odaklı"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-10-31",
+      "updatedAt": "2026-11-04",
       "comingSoon": false,
       "changelog": [],
       "info": {
@@ -676,12 +674,12 @@
       },
       "package": {
         "url": null,
-        "size": 12452570,
-        "sha256": "7bbf7ed2533a030f9cd612f5791557733ad32ab65fa4fb68c2926683199eb773",
+        "size": 547800,
+        "sha256": "fa2b966e9c1cc61c43dc0fcb6dd97c25eb2397dbdc98b9e7e8228e9d3a555c91",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/reka-v1.1/reka-1.1.mfp",
-          "size": 12452778,
-          "sha256": "7f2e8d617711599a248ac5e8bdf221fb01cf03c27243c2b124e3868bd18733af"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/reka-v1.2/reka-1.2.mfp",
+          "size": 547832,
+          "sha256": "e6ffa910d2e0d5c69bcb8c65e0ae16ef77e177071ecd07cc6d1ee5a29cbc850b"
         }
       },
       "installer": {
