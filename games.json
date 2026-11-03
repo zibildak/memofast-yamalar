@@ -1,6 +1,48 @@
 {
-  "catalogVersion": 170,
+  "catalogVersion": 171,
   "patches": [
+    {
+      "id": "can-em-all",
+      "gameName": "Can 'Em All",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Can 'Em All Türkçe yama %100 ai çeviri eklendi keyifli oyunlar.",
+      "about": "Sevimli yaratıkları teneke kutulara dönüştürmek hakkında sulu bir birinci şahıs artımlı oyun. Onları öldürün, bedenlerini toplayın, kutulayın ve satın. Para kazanın, silahlarınızı ve makinelerinizi yükseltin ve daha fazlasını üretin.",
+      "genres": [
+        "Aksiyon",
+        "Simülasyon",
+        "Strateji",
+        "Nişancı"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-03",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 5133900
+      },
+      "package": {
+        "url": null,
+        "size": 22305561,
+        "sha256": "fac7c6d6d54b98297348b417a73a21368bb7038497d1a0d49e4ce330ccf4d709",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/can-em-all-v1.0/can-em-all-1.0.mfp",
+          "size": 22305929,
+          "sha256": "002711850bf4357aeca946ce434e987749b90b792513f828ecc1fbb715b34031"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "figure-me-out",
       "gameName": "Figure Me Out",
