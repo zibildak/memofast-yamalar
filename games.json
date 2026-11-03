@@ -1,6 +1,48 @@
 {
-  "catalogVersion": 171,
+  "catalogVersion": 172,
   "patches": [
+    {
+      "id": "the-midnight-walk",
+      "gameName": "The Midnight Walk",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "The Midnight Walk %100 Türkçe yama eklendi keyifli oyunlar",
+      "about": "Lost in Random'ın geliştiricilerinin sunduğu The Midnight Walk macerasına atıl. Kayıp bir fener yaratığıyla dost olup mucizevi ve korkunç bir dünyada yolunu aydınlat. Gerçek kille şekillendirilmiş ve stop motion'la tasarlanmış bir ortamda zekânla canavarları alt edip rahatsız edici detayları keşfet.",
+      "genres": [
+        "Macera",
+        "Korku",
+        "Bulmaca",
+        "Hikâye odaklı"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-03",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2863640
+      },
+      "package": {
+        "url": null,
+        "size": 1020518,
+        "sha256": "7691e2ae5f87df7222e5f48068d446791d2edc8f6fcbfbde950a19288b9f8817",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/the-midnight-walk-v1.0/the-midnight-walk-1.0.mfp",
+          "size": 1020550,
+          "sha256": "db5087e1e528d10bf296aa373a0dda2e11deb1488a81443b8adfc96f661f1e30"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "can-em-all",
       "gameName": "Can 'Em All",
