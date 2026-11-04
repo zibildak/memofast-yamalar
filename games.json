@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 174,
+  "catalogVersion": 175,
   "patches": [
     {
       "id": "the-midnight-walk",
@@ -2382,7 +2382,7 @@
       "id": "archeage-chronicles",
       "gameName": "ArcheAge Chronicles",
       "title": "Türkçe Yama",
-      "version": "1.0",
+      "version": "1.1",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -2410,12 +2410,12 @@
       },
       "package": {
         "url": null,
-        "size": 1795897,
-        "sha256": "05510a010699419493c1c2fa041e22782717232424185c8728c428dae3acae8d",
+        "size": 1793329,
+        "sha256": "85179dd3cee6283582d221c0c69c4503b0de2163c5cdb033128f3e703033dd8d",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/archeage-chronicles-v1.0/archeage-chronicles-1.0.mfp",
-          "size": 1795945,
-          "sha256": "4950aedaf8dfaf6924164bb8de1dfb52cd3571c94c26709fe699749209eacacf"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/archeage-chronicles-v1.1/archeage-chronicles-1.1.mfp",
+          "size": 1793377,
+          "sha256": "72fe95edef7943377c631400447b8d5a79e83ca7477868fdced72100c7b5f4b1"
         }
       },
       "installer": {
