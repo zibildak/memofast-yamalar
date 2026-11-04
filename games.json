@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 173,
+  "catalogVersion": 174,
   "patches": [
     {
       "id": "the-midnight-walk",
@@ -2383,12 +2383,12 @@
       "gameName": "ArcheAge Chronicles",
       "title": "Türkçe Yama",
       "version": "1.0",
-      "tier": "free",
+      "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
-      "description": "ArcheAge Chronicles oyun çıkar çıkmaz türkçe olacak",
-      "about": "",
+      "description": "ArcheAge Chronicles Türkçe yama sizlerle",
+      "about": "Derin bir geçmişe sahip ve heyecan verici aksiyonla dolu Auroria'nın engin ve rengârenk dünyasını keşfet. ArcheAge Chronicles hem yeni gelen oyuncuların hem de deneyimli maceracıların gönüllerini fethedecek sürükleyici bir deneyim sunar.",
       "genres": [
         "Aksiyon",
         "Macera",
@@ -2396,12 +2396,12 @@
         "Açık dünya",
         "Çok oyunculu"
       ],
-      "warning": "",
-      "updatedAt": "2026-10-08",
-      "comingSoon": true,
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-04",
+      "comingSoon": false,
       "changelog": [],
       "info": {
-        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kurulum": "Oyun dosyasına işlenir",
         "Çeviren": "MemoFast ekibi"
       },
       "detect": {
@@ -2410,11 +2410,21 @@
       },
       "package": {
         "url": null,
-        "size": 0,
-        "sha256": "",
-        "sealed": null
+        "size": 1795897,
+        "sha256": "05510a010699419493c1c2fa041e22782717232424185c8728c428dae3acae8d",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/archeage-chronicles-v1.0/archeage-chronicles-1.0.mfp",
+          "size": 1795945,
+          "sha256": "4950aedaf8dfaf6924164bb8de1dfb52cd3571c94c26709fe699749209eacacf"
+        }
       },
-      "installer": null,
+      "installer": {
+        "script": "kur.ps1",
+        "installArgs": "-Mode kur -Oyun \"{oyun}\"",
+        "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
+        "env": {},
+        "watchFiles": []
+      },
       "mobile": null
     },
     {
