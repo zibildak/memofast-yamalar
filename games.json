@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 178,
+  "catalogVersion": 179,
   "patches": [
     {
       "id": "the-midnight-walk",
@@ -2956,7 +2956,7 @@
       "id": "aion-2",
       "gameName": "Aion 2",
       "title": "Türkçe Yama",
-      "version": "1.9",
+      "version": "1.10",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -2985,12 +2985,12 @@
       },
       "package": {
         "url": null,
-        "size": 72785439,
-        "sha256": "27c191f9ef53190e8efd7d3f7611fd4c96cb93616a15970f2123513a2557242f",
+        "size": 72858439,
+        "sha256": "69b29502c5750ede7c5272532c6c318d2d987c5762dfca60b8a0769bb70a7ccd",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aion-2-v1.9/aion-2-1.9.mfp",
-          "size": 72786575,
-          "sha256": "553213c67bf475594da156896fc3dd703f999f93033822b031c327a0ecf1f859"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aion-2-v1.10/aion-2-1.10.mfp",
+          "size": 72859575,
+          "sha256": "14406e938e80b6e8bfefb12ac1ad7f0f4a884e695d8a35bb45d4fb68d77b23ef"
         }
       },
       "installer": null,
