@@ -1,6 +1,43 @@
 {
-  "catalogVersion": 180,
+  "catalogVersion": 181,
   "patches": [
+    {
+      "id": "world-of-warcraft-forever",
+      "gameName": "World of Warcraft Forever",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": "patches/world-of-warcraft-forever/cover-7d7fefe600.jpg",
+      "hero": "patches/world-of-warcraft-forever/hero-0a3bc2d11e.jpg",
+      "color": "#26352C",
+      "description": "World of Warcraft Forever Türkçe yama eklendi. Kurulum esnasında gözat ile oyunun ana klasörünü seçin kurulum tamamlanınca, oyuna girik oyun içi türkçe olacak.",
+      "about": "",
+      "genres": [],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-05",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": null
+      },
+      "package": {
+        "url": null,
+        "size": 8055337,
+        "sha256": "e12bf5a17c07be12d79d5803adfe4747bdb7a4f4e85b09f0d114b9b380a86153",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/world-of-warcraft-forever-v1.0/world-of-warcraft-forever-1.0.mfp",
+          "size": 8055481,
+          "sha256": "127a652a40853eccc2d07f16127660a11ff60ea640d0802e1285f04c05d046fc"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "the-midnight-walk",
       "gameName": "The Midnight Walk",
