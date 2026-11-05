@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 177,
+  "catalogVersion": 178,
   "patches": [
     {
       "id": "the-midnight-walk",
@@ -2956,7 +2956,7 @@
       "id": "aion-2",
       "gameName": "Aion 2",
       "title": "Türkçe Yama",
-      "version": "1.8",
+      "version": "1.9",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -2971,7 +2971,7 @@
         "Çok oyunculu"
       ],
       "warning": "Yamayı yapma süreci oyunda doğru yapılmışmı tüm süreci lütfen Discort sohbet veya Youtube videosu altına belirtin çalıştı veya şu hatayı aldım diye.",
-      "updatedAt": "2026-10-29",
+      "updatedAt": "2026-11-05",
       "comingSoon": false,
       "changelog": [],
       "info": {
@@ -2985,12 +2985,12 @@
       },
       "package": {
         "url": null,
-        "size": 4625371,
-        "sha256": "69c3edab5b878d88869183c6a23ea67a5784ac90e035060e541f51f82468f53c",
+        "size": 72785439,
+        "sha256": "27c191f9ef53190e8efd7d3f7611fd4c96cb93616a15970f2123513a2557242f",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aion-2-v1.8/aion-2-1.8.mfp",
-          "size": 4625467,
-          "sha256": "8406eb98fd180ede6db7e3c56933f6ee53e66685c8311d3b3039e505a5d91113"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aion-2-v1.9/aion-2-1.9.mfp",
+          "size": 72786575,
+          "sha256": "553213c67bf475594da156896fc3dd703f999f93033822b031c327a0ecf1f859"
         }
       },
       "installer": null,
