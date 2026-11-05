@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 181,
+  "catalogVersion": 182,
   "patches": [
     {
       "id": "world-of-warcraft-forever",
@@ -3139,7 +3139,7 @@
       "id": "once-human",
       "gameName": "Once Human",
       "title": "Türkçe Yama",
-      "version": "1.9",
+      "version": "1.10",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -3156,7 +3156,7 @@
         "Çok oyunculu"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-11-02",
+      "updatedAt": "2026-11-05",
       "comingSoon": false,
       "changelog": [],
       "info": {
@@ -3171,11 +3171,11 @@
       "package": {
         "url": null,
         "size": 11223076,
-        "sha256": "25459f5025a9813656f4a438ce700cb966c1950c8ae0dc7d3d8a1722acf18eac",
+        "sha256": "02d4bf3066df22c84110e594f010be21855ad1f096af10f124a6c0d5d85ea033",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-v1.9/once-human-1.9.mfp",
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-v1.10/once-human-1.10.mfp",
           "size": 11223268,
-          "sha256": "d9f1458e60bb473f881f8bc9514c3bc143429a544ab1d8d22cce4339f9becde1"
+          "sha256": "2a88c5cf9d3fda8cc3cccb014ec809adb9e586913d3ebed7e10f9a102c4e1b7d"
         }
       },
       "installer": null,
