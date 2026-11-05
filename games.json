@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 182,
+  "catalogVersion": 183,
   "patches": [
     {
       "id": "world-of-warcraft-forever",
@@ -1655,7 +1655,7 @@
       "id": "where-winds-meet-mobil",
       "gameName": "Where Winds Meet Mobil",
       "title": "Mobil Türkçe Yama",
-      "version": "1.0",
+      "version": "1.1",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -1671,7 +1671,7 @@
         "Çok oyunculu"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-10-20",
+      "updatedAt": "2026-11-05",
       "comingSoon": false,
       "changelog": [],
       "info": {
@@ -1685,12 +1685,12 @@
       },
       "package": {
         "url": null,
-        "size": 229516206,
-        "sha256": "aa14d6b565791270cde3d3a72218168c1fda3497e9505f7c4e6e47e651e2331e",
+        "size": 57387277,
+        "sha256": "7588f6f571faa92fc21bcb0119b16e51d2f731d0ba846682adedac70cf0068ec",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/where-winds-meet-mobil-v1.0/where-winds-meet-mobil-1.0.mfp",
-          "size": 229519726,
-          "sha256": "b25ce17aa3cf011659b670b60e19205f7976351bdf0a0621753ef244de55e3e4"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/where-winds-meet-mobil-v1.1/where-winds-meet-mobil-1.1.mfp",
+          "size": 57388173,
+          "sha256": "a7ee14256f4b9b4254d13349b43b154be31c75a4d08259878b2e7640ae90c5bb"
         }
       },
       "installer": null,
