@@ -1,6 +1,49 @@
 {
-  "catalogVersion": 183,
+  "catalogVersion": 184,
   "patches": [
+    {
+      "id": "lightyear-frontier",
+      "gameName": "Lightyear Frontier",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Mekaniğinizin ağır yük kaldırdığı rahatlatıcı bir açık dünya tarım oyununu deneyimleyin. İdeal çiftliğinizi kurun ve bakımı otomatikleştirin. Tüm ormanları temizlemek ve geniş tarlaları sürmek için mekaniğinizi ayarlayın veya arkanıza yaslanın ve en fazla üç arkadaşınızla gün batımını izleyin.",
+      "genres": [
+        "Simülasyon",
+        "Hayatta kalma",
+        "Açık dünya",
+        "İnşa etme",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-06",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 1677110
+      },
+      "package": {
+        "url": null,
+        "size": 520305,
+        "sha256": "4c87e00d7de7d6855fb6d711972b7a91f0d02e04faab7806ef8fedeac0d1ed26",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/lightyear-frontier-v1.0/lightyear-frontier-1.0.mfp",
+          "size": 520337,
+          "sha256": "66a41b09b130dccbc4980b246224dc133b3566c7169821cdb862647cb18fd71c"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "world-of-warcraft-forever",
       "gameName": "World of Warcraft Forever",
