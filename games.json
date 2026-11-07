@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 185,
+  "catalogVersion": 186,
   "patches": [
     {
       "id": "lost-ark",
@@ -30,7 +30,7 @@
       },
       "detect": {
         "mustExist": [],
-        "steamAppId": 3720100
+        "steamAppId": 1599340
       },
       "package": {
         "url": null,
