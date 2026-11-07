@@ -1,6 +1,50 @@
 {
-  "catalogVersion": 184,
+  "catalogVersion": 185,
   "patches": [
+    {
+      "id": "lost-ark",
+      "gameName": "Lost Ark",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Lost Ark oyun için tam çeviri yapıldı keyifli oyunlar dilerim",
+      "about": "Özel bonuslar için Genişleme Paketini kapın! Drakeling'leri, Elderclaw'ı edinin ve ASA'nın devasa hikaye odaklı genişlemesinde donmuş Necrocene'ye dalın! Güçlü becerilerde ustalaşın, egzotik yaratıkları evcilleştirin ve Kayıp Kral'a meydan okumak için Thrall ordularına komuta edin.",
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "Hayatta kalma",
+        "Açık dünya",
+        "İnşa etme",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-08",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3720100
+      },
+      "package": {
+        "url": null,
+        "size": 154008143,
+        "sha256": "9eba05f5ff4070a261d166b6b8bfb5c78e0002a14c7d079ccd49750980fd650a",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/lost-ark-v1.0/lost-ark-1.0.mfp",
+          "size": 154010511,
+          "sha256": "f79974f7466054497cd99a7a125d75480ac3660e39330b1a1c9d07e58b3ee028"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "lightyear-frontier",
       "gameName": "Lightyear Frontier",
