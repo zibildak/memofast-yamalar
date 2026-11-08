@@ -1,6 +1,46 @@
 {
-  "catalogVersion": 187,
+  "catalogVersion": 188,
   "patches": [
+    {
+      "id": "rob-run",
+      "gameName": "ROB RUN",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "ROB RUN, binlerce oyuncunun yer aldığı acımasız bir suç sanal alanıdır. Cesaret, kir ve mücadeleyle herkesin üstüne çıkın. Özgürleşin ve ne şekilde olursa olsun kendinizi sefaletten kurtarın.",
+      "genres": [
+        "Aksiyon",
+        "Hayatta kalma",
+        "Açık dünya",
+        "İnşa etme",
+        "Nişancı",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-08",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4262460
+      },
+      "package": {
+        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/rob-run-v1.0/rob-run-1.0.zip",
+        "size": 9536422,
+        "sha256": "d6b52cac20359c7f4e54acd0a865a483e506b5d2802b8ad20f8866eabb6b28da",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "hubert",
       "gameName": "Hubert",
