@@ -1,6 +1,51 @@
 {
-  "catalogVersion": 188,
+  "catalogVersion": 189,
   "patches": [
+    {
+      "id": "zed-zone",
+      "gameName": "ZED ZONE",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "ZED ZONE Türkçe yapmak için ayarlardan girip dil seçeneklerinden Türkçe seçin",
+      "about": "Büyük bir felaket yaşandı. Görev sırasında uçağınız düşüyor ve Zed Bölgesi'nde mahsur kalıyorsunuz. Zombiler ve canavarlar her yerde. Bir umut ışığının peşinde koşarken kaçmak, malzeme toplamak, becerilerinizi geliştirmek, barınaklar inşa etmek ve zombi ordularını ve gizemli makineleri yenmek için.",
+      "genres": [
+        "Aksiyon",
+        "RPG",
+        "Simülasyon",
+        "Hayatta kalma",
+        "Açık dünya",
+        "İnşa etme",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-09",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 1211600
+      },
+      "package": {
+        "url": null,
+        "size": 245840,
+        "sha256": "f1c2a75f97cb5e6fc690145edc29ab44ae5e9f4c39938a7bd7b4ec3d79b176b1",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/zed-zone-v1.0/zed-zone-1.0.mfp",
+          "size": 245872,
+          "sha256": "06e0d3f5002071388c4e1f0ba84723ae9752ee0568d4acc8c6d644c81217cd21"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "rob-run",
       "gameName": "ROB RUN",
