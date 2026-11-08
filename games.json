@@ -1,6 +1,47 @@
 {
-  "catalogVersion": 186,
+  "catalogVersion": 187,
   "patches": [
+    {
+      "id": "hubert",
+      "gameName": "Hubert",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Hubert oyunu için %100 çeciri yapıldı keyifli oyunlar",
+      "about": "Sürüsünü koruyan ve ona güvenen tek insanı koruyan çalışan bir çoban köpeği olarak oynayın. Kurtlar yaklaştıkça, hizmet ettiğiniz dünya ile sizi çağıran vahşi doğa arasında büyüyen uçurumla yüzleşmelisiniz. Koyunları güdün, kokuları takip edin ve engebeli kuzey topraklarında çiftliği koruyun.",
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "Hikâye odaklı"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-08",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 764930
+      },
+      "package": {
+        "url": null,
+        "size": 91483102,
+        "sha256": "b2d08da3b6e745a3912591616906d0311465d40dc4788d3fce443e7c96589788",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/hubert-v1.0/hubert-1.0.mfp",
+          "size": 91484526,
+          "sha256": "da24d9be2466d3ed6c98835d7049fafe045f00ff51b2f10cd6bdab13c9cd33ce"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "lost-ark",
       "gameName": "Lost Ark",
