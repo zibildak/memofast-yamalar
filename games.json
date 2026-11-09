@@ -1,6 +1,47 @@
 {
-  "catalogVersion": 190,
+  "catalogVersion": 191,
   "patches": [
+    {
+      "id": "godzilla-destroy-all-monsters-melee-remastered",
+      "gameName": "Godzilla Destroy All Monsters Melee Remastered",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Godzilla Destroy All Monsters Melee Remastered Türkçe yama sizlerle",
+      "about": "Tarih yazan Godzilla arena dövüş oyunu tamamen yenilenmiş olarak geri dönüyor. Canavarını seçip vahşi saldırılarını kullanarak yeniden tasarlanmış şehirlerde ve farklı konumlarda savaş. Yerel eşli oyun modunda veya yeni çevrim içi çok oyunculu modda arkadaşlarınla ve düşmanlarınla kozlarını paylaş.",
+      "genres": [
+        "Aksiyon",
+        "Dövüş",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-09",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4251460
+      },
+      "package": {
+        "url": null,
+        "size": 815057,
+        "sha256": "2681c4c622fe8980dc79cd50ad19758c198a7780ef97dac73823f96e4d6fa31b",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/godzilla-destroy-all-monsters-melee-remastered-v1.0/godzilla-destroy-all-monsters-melee-remastered-1.0.mfp",
+          "size": 815089,
+          "sha256": "636f405445470a660c5ffca9ae222d2da578eb3bc31a133825191e7eb425aec0"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "silica",
       "gameName": "Silica",
