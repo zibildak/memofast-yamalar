@@ -1,6 +1,50 @@
 {
-  "catalogVersion": 191,
+  "catalogVersion": 192,
   "patches": [
+    {
+      "id": "escape-academy-2-back-2-school",
+      "gameName": "Escape Academy 2 Back 2 School",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Escape Academy 2 Back 2 School oyun %100 Türkçe çevrilmiştir keyifli oyunlar dilerim",
+      "about": "Sınıf (geri) Escape Academy 2: Back 2 School ile oturumda! Tek başına veya kooperatifte oyna ve yepyeni bir kampüsü keşfet, hayatı tehdit eden bulmaca odalarından kaç ve okulun kendisi kadar eski bir komployu çöz — hepsi zil çalmadan önce.",
+      "genres": [
+        "Macera",
+        "Simülasyon",
+        "Açık dünya",
+        "Bulmaca",
+        "Hikâye odaklı",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-09",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3296060
+      },
+      "package": {
+        "url": null,
+        "size": 105830323,
+        "sha256": "ce14831e05983ac1e957f9965a9f0e7a8d2dc17c86c50f0af4f75fca57a0a1f8",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/escape-academy-2-back-2-school-v1.0/escape-academy-2-back-2-school-1.0.mfp",
+          "size": 105831955,
+          "sha256": "84153e5ded0ab40c4c8f575b42d111dee0ed59d6d8c255b3263a6c2e351b416e"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "godzilla-destroy-all-monsters-melee-remastered",
       "gameName": "Godzilla Destroy All Monsters Melee Remastered",
