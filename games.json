@@ -1,6 +1,48 @@
 {
-  "catalogVersion": 189,
+  "catalogVersion": 190,
   "patches": [
+    {
+      "id": "silica",
+      "gameName": "Silica",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Silica Türkçe yama %100 çeviri ile sizlerle keyifli oyunlar",
+      "about": "Silica, destansı, fotogerçekçi savaşlarda FPS ve GZS'yi harmanlıyor. Yerde savaşmayı veya insanlar veya uzaylılar olarak yukarıdan komuta etmeyi seçin. Heyecan verici çok oyunculu savaşa dalın veya stratejik komutada ustalaşın. Hayatta kalmaya ve fethetmeye hazır mısın?",
+      "genres": [
+        "Aksiyon",
+        "Strateji",
+        "Nişancı",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-09",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 1494420
+      },
+      "package": {
+        "url": null,
+        "size": 68105,
+        "sha256": "d3a7d116d15a7f820f7a6d771e1ea94331223788e4b97ca4561cc9930786203c",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/silica-v1.0/silica-1.0.mfp",
+          "size": 68137,
+          "sha256": "428d37a73407b6a6062cb1efbcdc785c0968854710a1681ca388511eaa040f82"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "zed-zone",
       "gameName": "ZED ZONE",
