@@ -1,12 +1,13 @@
 {
-  "version": "1.0.20",
+  "version": "1.0.21",
   "notes": [
-    "Launcher yama arayüzünde iyileştirmeler yapıldı",
-    "Bazı yamalar (Once Human gibi) küçük bir Bug güncellemesi sonrası bile bozuluyordu, oyunların yeni haline oto adapte olan bir yetenek eklendi (Beta)"
+    "Nexus mod kurma özelliği eklendi, nexus kişisel api key varsa uygulamaya ekle istediğiniz mod kurun.",
+    "Yama arayüzü iyileştirildi",
+    "İstek sayfasında kart sistemine geçildi"
   ],
-  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.20.exe",
-  "sha256": "94679bb20c5bf5fe7abb02db69e8ac96f4a7b72112230d67cfd946a37d33604b",
-  "size": 83026695,
+  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.21.exe",
+  "sha256": "9f155c2a30280f9430c7835bdfa99e22092dc0cd6c15891425bb4ca88e2bdc85",
+  "size": 83702439,
   "mandatory": true,
-  "publishedAt": "2026-11-02"
+  "publishedAt": "2026-11-10"
 }
