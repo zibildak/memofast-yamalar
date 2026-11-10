@@ -1,6 +1,50 @@
 {
-  "catalogVersion": 192,
+  "catalogVersion": 193,
   "patches": [
+    {
+      "id": "bloodstrike",
+      "gameName": "BLOODSTRIKE",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "BLOODSTRIKE Türkçe yama eklendi ayarlardan TÜRKÇE SEÇEREK OYNAYABİLİRSİNİZ",
+      "about": "Arkadaşlarınızı toplayın ve sanki yarın yokmuşçasına aksiyon dolu Battle Royale, Squad Fight veya Hot Zone'a dalın! Blood Strike, her biri drone'ları, kalkan duvarlarını ve aradaki her şeyi konuşlandırmanıza olanak tanıyan benzersiz aktif ve pasif yeteneğe sahip çok çeşitli oynanabilir Striker'lar sunar.",
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "Strateji",
+        "Hayatta kalma",
+        "Nişancı",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-10",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3199170
+      },
+      "package": {
+        "url": null,
+        "size": 3849997,
+        "sha256": "bf63455dfe09273b7355441ce5e0660b904b5c5e6005caf648d12749b8f1e51e",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/bloodstrike-v1.0/bloodstrike-1.0.mfp",
+          "size": 3850077,
+          "sha256": "4e82f6eaea15951f94e50e1e13ff4e3396642ab935fd48f5dd024b36c13d6ef6"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "escape-academy-2-back-2-school",
       "gameName": "Escape Academy 2 Back 2 School",
