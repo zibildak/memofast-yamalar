@@ -1,6 +1,49 @@
 {
-  "catalogVersion": 194,
+  "catalogVersion": 195,
   "patches": [
+    {
+      "id": "dreadmoor",
+      "gameName": "DREADMOOR",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "DREADMOOR Türkçe yama eklendi %100 çevrilerek kontrol edildi keyifli oyunlar dilerim.",
+      "about": "DREADMOOR, geçmişteki bir felaketin ardından sular altında kalıp çürüyen bir dünyada geçen, birinci şahıs bakış açısına sahip karanlık bir balıkçılık macerasıdır. Bulanık sularda balık tut, tekneni geliştir, hayatta kalma ekipmanları üret ve su altında ve karada pusuda bekleyen canavarlarla savaş.",
+      "genres": [
+        "Macera",
+        "RPG",
+        "Korku",
+        "Simülasyon",
+        "Hikâye odaklı"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-10",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3629430
+      },
+      "package": {
+        "url": null,
+        "size": 2459865,
+        "sha256": "658240e539c228e16b36946ae287fcdc144a1cf7aeeab2f4093d8b1f7d1efebe",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/dreadmoor-v1.0/dreadmoor-1.0.mfp",
+          "size": 2459929,
+          "sha256": "5827e4adbe5d960f7c897aa4f324f4936ea24b301a6089d11f052ddc2ed5ec6c"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "worst-class-ever",
       "gameName": "Worst Class Ever",
