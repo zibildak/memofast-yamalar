@@ -1,6 +1,49 @@
 {
-  "catalogVersion": 195,
+  "catalogVersion": 196,
   "patches": [
+    {
+      "id": "empyrion-galactic-survival",
+      "gameName": "Empyrion - Galactic Survival",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Gerçek bir uzay sanal alanı hayatta kalma macerasında inşa et ve keşfet. Empyrion'un gizemlerini keşfetmek için galaktik yolculuğunuzda güçlü ana gemiler, genişleyen gezegen yerleşimleri ve geniş uzay istasyonları inşa edin!",
+      "genres": [
+        "Simülasyon",
+        "Hayatta kalma",
+        "Açık dünya",
+        "İnşa etme",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-10",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 383120
+      },
+      "package": {
+        "url": null,
+        "size": 277262286,
+        "sha256": "4f219e00c798b183682d1e1ae0ae8fa577e01a6f386330b8ac760ca7f9e9057f",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/empyrion-galactic-survival-v1.0/empyrion-galactic-survival-1.0.mfp",
+          "size": 277266542,
+          "sha256": "0eca25bc36fbecb06c8664b712b489891a16972d8da61f28fba6d1029da0ae15"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "dreadmoor",
       "gameName": "DREADMOOR",
