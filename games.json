@@ -1,6 +1,47 @@
 {
-  "catalogVersion": 193,
+  "catalogVersion": 194,
   "patches": [
+    {
+      "id": "worst-class-ever",
+      "gameName": "Worst Class Ever",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Worst Class Ever %100 çevrildi, oyun çince açılırsa ayarlardan ingilizceyi seçin",
+      "about": "1 Öğretmen vs 7 Öğrenci. Saklamak. Şaka. Hayatta kalmak. 8 oyuncuya kadar asimetrik parti kaosu! Haylaz öğrenciler düzinelerce NPC sınıf arkadaşının arasına karışarak gizlice atıştırma yapıyor, mesaj atıyor ve sorun çıkarıyor; öğretmen ise bu suçlu özentileri tespit etmeli ve sınıfın düzenini tam olarak yeniden sağlamalıdır.",
+      "genres": [
+        "Aksiyon",
+        "Simülasyon",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-10",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 5175310
+      },
+      "package": {
+        "url": null,
+        "size": 1429681,
+        "sha256": "7305e81f2549e710911eeab37dcb444f4cf23a4d1f48fc2ca789902039d19bda",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/worst-class-ever-v1.0/worst-class-ever-1.0.mfp",
+          "size": 1429729,
+          "sha256": "d061cd037890b584b64850ea0089ffb3a97de8fc17a7f1eba5d9e7ca6b866d26"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "bloodstrike",
       "gameName": "BLOODSTRIKE",
