@@ -1,6 +1,48 @@
 {
-  "catalogVersion": 200,
+  "catalogVersion": 201,
   "patches": [
+    {
+      "id": "gas-n-cars",
+      "gameName": "Gas N Cars",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-11-14T19:13:20.8064385Z",
+      "freeKey": "85lyjTF8t8ylJloU+SPJWLuVza2h1GlQ1l4kAf+s5xA=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Gas N Cars Türkçe yama sizlerle",
+      "about": "Kaotik bir benzin istasyonu sanal alanını çalıştırın: arabalara yakıt doldurun, araçları temizleyin ve onarın, çılgın aletler satın alın, aranan sürücüleri yakalayın, incelemeler kazanın, yükseltmelerin kilidini açın, skor tablosunda tırmanın veya her durağı tam bir kargaşaya dönüştürün.",
+      "genres": [
+        "Simülasyon",
+        "İnşa etme"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-11",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4908110
+      },
+      "package": {
+        "url": null,
+        "size": 56289930,
+        "sha256": "b1b02794a16ee04904e417a12583cdac63a5984d5b6d1204437989a73b6e3858",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/gas-n-cars-v1.0/gas-n-cars-1.0.mfp",
+          "size": 56290810,
+          "sha256": "c511e20baad44794c44405cf415866fcafecc64014157ef6cb8a3459b0665f26"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "takeover-2",
       "gameName": "Takeover 2",
