@@ -1,13 +1,12 @@
 {
-  "version": "1.0.21",
+  "version": "1.0.22",
   "notes": [
-    "Nexus mod kurma özelliği eklendi, nexus kişisel api key varsa uygulamaya ekle istediğiniz mod kurun.",
-    "Yama arayüzü iyileştirildi",
-    "İstek sayfasında kart sistemine geçildi"
+    "Mod kurmada yaşanan sorunlar düzeltildi lakin farklı bilgisayarda denenmedi lütfen geridönüş yapınız",
+    "mobil yamalar için ayrı bir bölüm açıldı mobil yamalar da eklenecek"
   ],
-  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.21.exe",
-  "sha256": "9f155c2a30280f9430c7835bdfa99e22092dc0cd6c15891425bb4ca88e2bdc85",
-  "size": 83702439,
+  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.22.exe",
+  "sha256": "4b66f68922032eead47e0ffbe0f7d15173a1021bbc907c627c7710a25edd2ed7",
+  "size": 83706413,
   "mandatory": true,
-  "publishedAt": "2026-11-10"
+  "publishedAt": "2026-11-11"
 }
