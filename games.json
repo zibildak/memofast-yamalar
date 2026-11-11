@@ -1,6 +1,45 @@
 {
-  "catalogVersion": 202,
+  "catalogVersion": 203,
   "patches": [
+    {
+      "id": "main-sequence",
+      "gameName": "Main Sequence",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Main Sequence, uzay gemileri tasarladığınız, uzay istasyonları inşa ettiğiniz ve her şeyi otomatikleştirdiğiniz birinci şahıs bir uzay simülasyonu fabrika inşa etme oyunudur. Tek bir gemiyle başlayın ve galakside izinizi bırakarak yıldızlararası bir sanayi imparatorluğuna dönüşmek için büyüyün.",
+      "genres": [
+        "Simülasyon",
+        "Hayatta kalma",
+        "Açık dünya",
+        "İnşa etme",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-12",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2487190
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "hope-in-the-city",
       "gameName": "Hope in the City",
