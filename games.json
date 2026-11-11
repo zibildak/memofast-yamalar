@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 199,
+  "catalogVersion": 200,
   "patches": [
     {
       "id": "takeover-2",
@@ -3738,7 +3738,7 @@
       "id": "once-human",
       "gameName": "Once Human",
       "title": "Türkçe Yama",
-      "version": "1.10",
+      "version": "1.11",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -3755,7 +3755,7 @@
         "Çok oyunculu"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-11-05",
+      "updatedAt": "2026-11-11",
       "comingSoon": false,
       "changelog": [],
       "info": {
@@ -3769,12 +3769,12 @@
       },
       "package": {
         "url": null,
-        "size": 11223076,
-        "sha256": "02d4bf3066df22c84110e594f010be21855ad1f096af10f124a6c0d5d85ea033",
+        "size": 11315300,
+        "sha256": "d48e34b677ad50c184791cc4556f6eb3cd8c1135e958000986f1828c4e2d0ffc",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-v1.10/once-human-1.10.mfp",
-          "size": 11223268,
-          "sha256": "2a88c5cf9d3fda8cc3cccb014ec809adb9e586913d3ebed7e10f9a102c4e1b7d"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/once-human-v1.11/once-human-1.11.mfp",
+          "size": 11315492,
+          "sha256": "f208e000a86dcf9467f1cb4caa8321b8b11e4e0c11f7602d2e6dfed053660c81"
         }
       },
       "installer": null,
