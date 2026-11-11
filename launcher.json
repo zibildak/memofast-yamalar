@@ -1,12 +1,11 @@
 {
-  "version": "1.0.22",
+  "version": "1.0.23",
   "notes": [
-    "Mod kurmada yaşanan sorunlar düzeltildi lakin farklı bilgisayarda denenmedi lütfen geridönüş yapınız",
-    "mobil yamalar için ayrı bir bölüm açıldı mobil yamalar da eklenecek"
+    "once human gibi oyunlarda yama bozulmasını önlemek için iyileştirme yapıldı"
   ],
-  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.22.exe",
-  "sha256": "4b66f68922032eead47e0ffbe0f7d15173a1021bbc907c627c7710a25edd2ed7",
-  "size": 83706413,
+  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.23.exe",
+  "sha256": "6abe6d11957453947fe40f0edf95d2db9cf95cfca52de1ec925f010564e0e106",
+  "size": 83704589,
   "mandatory": true,
   "publishedAt": "2026-11-11"
 }
