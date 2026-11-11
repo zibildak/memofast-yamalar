@@ -1,6 +1,52 @@
 {
-  "catalogVersion": 198,
+  "catalogVersion": 199,
   "patches": [
+    {
+      "id": "takeover-2",
+      "gameName": "Takeover 2",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Takeover 2 Türkçe %100 çeviri sizlerle keyifli oyunlar dilerim",
+      "about": "Tek başına ya da bu hızlı tempolu, yüksek etkili atari salonunda bir partnerle sokaklara çıkın ve onları dövün. Devralma, rafine oyun mekaniği, yükseltilmiş görseller ve nabız atan yeni bir film müziği ile geri dönüyor.",
+      "genres": [
+        "Aksiyon",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-11",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Oyun dosyasına işlenir",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4423270
+      },
+      "package": {
+        "url": null,
+        "size": 114954390,
+        "sha256": "589f777d547ffcc0a2c7862c26ea1e2dbcb028f78e1f685d9477846c34637a99",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/takeover-2-v1.0/takeover-2-1.0.mfp",
+          "size": 114956166,
+          "sha256": "630100ce09f29e34ad89e31313b8ea8897051460c167525558b290bc3995c5fa"
+        }
+      },
+      "installer": {
+        "script": "kur.ps1",
+        "installArgs": "-Mode kur -Oyun \"{oyun}\"",
+        "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
+        "env": {},
+        "watchFiles": []
+      },
+      "mobile": null
+    },
     {
       "id": "call-of-duty",
       "gameName": "Call of Duty®",
