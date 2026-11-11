@@ -1,6 +1,48 @@
 {
-  "catalogVersion": 196,
+  "catalogVersion": 197,
   "patches": [
+    {
+      "id": "call-of-duty",
+      "gameName": "Call of Duty®",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Call of Duty® yaması %100 çevrildi yama hikaye modunda çalışır. Online mod da çalışmaz",
+      "about": "Call of Duty® Merkezi; Modern Warfare® 4, Black Ops 7 ve Call of Duty®: Warzone™ oyunlarını desteklemektedir.",
+      "genres": [
+        "Aksiyon",
+        "Nişancı",
+        "Hikâye odaklı",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-11",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 1938090
+      },
+      "package": {
+        "url": null,
+        "size": 4659664,
+        "sha256": "9d4b95104282da56042e80cff38e52f417f0ef63f025017e93c37e49396ddbcf",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/call-of-duty-v1.0/call-of-duty-1.0.mfp",
+          "size": 4659760,
+          "sha256": "1b276a84a7270ad56d4e17e3528560fcb5ed72e83fc48f78da3c2ee7071600cb"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "empyrion-galactic-survival",
       "gameName": "Empyrion - Galactic Survival",
