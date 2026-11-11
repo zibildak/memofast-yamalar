@@ -1,6 +1,46 @@
 {
-  "catalogVersion": 201,
+  "catalogVersion": 202,
   "patches": [
+    {
+      "id": "hope-in-the-city",
+      "gameName": "Hope in the City",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "17 yaşındaki Hope Song, ulusal sınavların en büyük endişesi olduğunu düşünüyordu... ta ki eve, yağmalanmış bir daireye ve iki kayıp ebeveyne gelene kadar. Bir sanatçının gözünden araştırın, eskizleri kanıtlara dönüştürün ve ailesinin gizeminin her yanıtla daha da tuhaflaşıp karanlıklaşmasını izleyin.",
+      "genres": [
+        "Bulmaca",
+        "Hikâye odaklı"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-12",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3610790
+      },
+      "package": {
+        "url": null,
+        "size": 114718688,
+        "sha256": "4088219ca73afbb37156cf2c37ba1b8179d6b8aed8ce4b3dc77b1befd4bebfc9",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/hope-in-the-city-v1.0/hope-in-the-city-1.0.mfp",
+          "size": 114720464,
+          "sha256": "699253acc0d1d5df66415f888067cd5dd654994b70e71348347a51a265978d95"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "gas-n-cars",
       "gameName": "Gas N Cars",
