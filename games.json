@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 205,
+  "catalogVersion": 206,
   "patches": [
     {
       "id": "elven-huntress-sunveil",
@@ -47,11 +47,11 @@
       "gameName": "Main Sequence",
       "title": "Türkçe Yama",
       "version": "1.0",
-      "tier": "free",
+      "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
-      "description": "",
+      "description": "Main Sequence %100 Türkçe yama eklendi. Keyifli oyunlar",
       "about": "Main Sequence, uzay gemileri tasarladığınız, uzay istasyonları inşa ettiğiniz ve her şeyi otomatikleştirdiğiniz birinci şahıs bir uzay simülasyonu fabrika inşa etme oyunudur. Tek bir gemiyle başlayın ve galakside izinizi bırakarak yıldızlararası bir sanayi imparatorluğuna dönüşmek için büyüyün.",
       "genres": [
         "Simülasyon",
@@ -61,8 +61,8 @@
         "Çok oyunculu"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-11-12",
-      "comingSoon": true,
+      "updatedAt": "2026-11-13",
+      "comingSoon": false,
       "changelog": [],
       "info": {
         "Kurulum": "Dosya ekleme / değiştirme",
@@ -74,9 +74,13 @@
       },
       "package": {
         "url": null,
-        "size": 0,
-        "sha256": "",
-        "sealed": null
+        "size": 644218,
+        "sha256": "cd4398e5f6b110048d72cba81eac0a95afa099a0d5d44266da4640cecc69344e",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/main-sequence-v1.0/main-sequence-1.0.mfp",
+          "size": 644250,
+          "sha256": "66b11c7aaf99af21e178627f3a1a313d9b67493a8d8782b780751ffd94f39319"
+        }
       },
       "installer": null,
       "mobile": null
