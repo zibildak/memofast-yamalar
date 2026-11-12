@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 206,
+  "catalogVersion": 207,
   "patches": [
     {
       "id": "elven-huntress-sunveil",
@@ -4005,13 +4005,13 @@
       "id": "wuthering-waves",
       "gameName": "Wuthering Waves",
       "title": "Türkçe Yama",
-      "version": "1.5",
+      "version": "1.6",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
       "description": "Wuthering Waves Yeni gelen güncelleme sonrası tüm satırlar çevrilerek yama son güncel hale getirildi",
-      "about": "",
+      "about": "Uğultulu Dalgalar, yüksek derecede özgürlüğe sahip, hikaye açısından zengin bir açık dünya aksiyon RPG'sidir. Kayıp anılarınızı geri kazanma ve dünyayı değiştirme yolculuğuna çıkan, canlı bir Resonators kadrosuyla birlikte Rover olarak uykunuzdan uyanıyorsunuz.",
       "genres": [
         "Aksiyon",
         "Macera",
@@ -4022,8 +4022,8 @@
         "Anime",
         "Çok oyunculu"
       ],
-      "warning": "",
-      "updatedAt": "2026-10-12",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-13",
       "comingSoon": false,
       "changelog": [
         {
@@ -4052,12 +4052,12 @@
       },
       "package": {
         "url": null,
-        "size": 14426654,
-        "sha256": "4c6e52c667226a92c97de07dff2a7b1866730770c9966f533bda6cbb5c9b0f31",
+        "size": 15230253,
+        "sha256": "408c4e9e3b152b12fa4220b79399d4e790e37e0ed4a649d9459f0727178cbf4e",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/wuthering-waves-v1.5/wuthering-waves-1.5.mfp",
-          "size": 14426894,
-          "sha256": "8dc66ba16d006e418f21320c5dbb9534a0dba81d0fdb8b65ffa526cc0b371bb9"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/wuthering-waves-v1.6/wuthering-waves-1.6.mfp",
+          "size": 15230509,
+          "sha256": "e433a6ff8a18b8b231f0a1e3c07ff7e27bbebb308678caa4d44f986e75572810"
         }
       },
       "installer": null,
