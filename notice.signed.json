@@ -1,4 +1,4 @@
 {
-  "data": "{\r\n  \"id\": \"20261111184410\",\r\n  \"title\": \"AION 2 GÜNCELLEMESİ\",\r\n  \"text\": \"Aion 2 güncelleme aldı güncelleme sonrası tüm dosya koruma aes keyleri değişmiş yani eski yama hata veriyor yeni key çıkarmak için uğraşıyorum bulur bulmaz yamayı güncelleyeceğim\",\r\n  \"created\": \"2026-11-11T18:44:10.6272594Z\",\r\n  \"expires\": \"2026-11-14T18:44:10.6272594Z\",\r\n  \"isActive\": true\r\n}",
-  "sig": "63zTVUX7s5WlEBQiTRE4brHDf8aoa58dxJJHfA198soCO2DuZZR2plvBAM2KS/q6ynDA+ld3WWBnDVtK7MdBGA=="
+  "data": "{\r\n  \"id\": \"20261112200711\",\r\n  \"title\": \"AION 2 DUYURU\",\r\n  \"text\": \"AION 2 İÇİN YAMA GÜNCELLENDİ OYUNA GİRİNCE FRANSIZCAYI SEÇMENİZ GEREKİYOR\",\r\n  \"created\": \"2026-11-12T20:07:11.258212Z\",\r\n  \"expires\": \"2026-11-15T20:07:11.258212Z\",\r\n  \"isActive\": true\r\n}",
+  "sig": "1gVcxRLRfNNkNe/qt/P0B6BjKhiXXFaP3DgtCxI7My5oVzVXTPtnXaL77N+MfKN2Y1GYQXHRV28EJrjffWONgA=="
 }
