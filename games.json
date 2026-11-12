@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 207,
+  "catalogVersion": 208,
   "patches": [
     {
       "id": "elven-huntress-sunveil",
@@ -4067,7 +4067,7 @@
       "id": "aniimo",
       "gameName": "Aniimo",
       "title": "Türkçe Yama",
-      "version": "1.8",
+      "version": "1.9",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -4082,7 +4082,7 @@
         "Çok oyunculu"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-10-31",
+      "updatedAt": "2026-11-13",
       "comingSoon": false,
       "changelog": [
         {
@@ -4104,12 +4104,12 @@
       },
       "package": {
         "url": null,
-        "size": 3768431,
-        "sha256": "ecade6b2d72940135c74e67cf8e13d27a8c109f7d532d96ccd8756d3ca9b08de",
+        "size": 3830143,
+        "sha256": "c93cd270d975e4a22e0f506d247c849dcc15a0c90cc828e1fe73a388b36c057c",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-v1.8/aniimo-1.8.mfp",
-          "size": 3768511,
-          "sha256": "221b04fc2ec9a6ee86d48ce4f57e0b269dc6d2bde73d2645efaef50d4e35c12d"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-v1.9/aniimo-1.9.mfp",
+          "size": 3830223,
+          "sha256": "ac7f3ff080fb19efffe630ce1f1c33223e2631c2a351fb84492efe2ea23b585b"
         }
       },
       "installer": {
