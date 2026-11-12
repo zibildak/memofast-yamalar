@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 208,
+  "catalogVersion": 209,
   "patches": [
     {
       "id": "elven-huntress-sunveil",
@@ -4067,7 +4067,7 @@
       "id": "aniimo",
       "gameName": "Aniimo",
       "title": "Türkçe Yama",
-      "version": "1.9",
+      "version": "1.10",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -4104,12 +4104,12 @@
       },
       "package": {
         "url": null,
-        "size": 3830143,
-        "sha256": "c93cd270d975e4a22e0f506d247c849dcc15a0c90cc828e1fe73a388b36c057c",
+        "size": 3828153,
+        "sha256": "f6da097e0b91ed1ba623d78d0c7f8162c378b6544967cce8229b93d0e8ec5b2a",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-v1.9/aniimo-1.9.mfp",
-          "size": 3830223,
-          "sha256": "ac7f3ff080fb19efffe630ce1f1c33223e2631c2a351fb84492efe2ea23b585b"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-v1.10/aniimo-1.10.mfp",
+          "size": 3828233,
+          "sha256": "5331b0751701df3c47c2eed86d97787a3dd3a996bdd16b0049e205c6050b715d"
         }
       },
       "installer": {
