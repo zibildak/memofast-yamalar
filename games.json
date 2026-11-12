@@ -1,6 +1,47 @@
 {
-  "catalogVersion": 203,
+  "catalogVersion": 204,
   "patches": [
+    {
+      "id": "elven-huntress-sunveil",
+      "gameName": "Elven Huntress Sunveil",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Büyülü portallar aracılığıyla fantastik dünyaları keşfeden bir elf avcısını konu alan atmosferik bir aksiyon RPG'si. Savaşın, nadir ekipmanları toplayın ve karakterinizi geliştirin.",
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "RPG"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-12",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4725170
+      },
+      "package": {
+        "url": null,
+        "size": 215938966,
+        "sha256": "c211abc7869e21274bf565770a1c06d6288adfc45e31e532997e40994219182e",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/elven-huntress-sunveil-v1.0/elven-huntress-sunveil-1.0.mfp",
+          "size": 215942278,
+          "sha256": "5380b42fe34d525d009612aa6fc7e755e9745d046a8a40fc8a380105ae1c5ccc"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "main-sequence",
       "gameName": "Main Sequence",
