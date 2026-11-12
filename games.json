@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 204,
+  "catalogVersion": 205,
   "patches": [
     {
       "id": "elven-huntress-sunveil",
@@ -3754,12 +3754,12 @@
       "id": "aion-2",
       "gameName": "Aion 2",
       "title": "Türkçe Yama",
-      "version": "1.11",
+      "version": "1.12",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
-      "description": "Yama içinde türkçe karakter sorunları font bazında incelendi ve düzeltildi lütfen inceleyip geridönüş yapınız",
+      "description": "YAMAYI KURDUKTAN SONRA FRANSIZCAYI SEÇMENİZ GEREKİYOR",
       "about": "AION 2, gökyüzünün savaş alanı olduğu bir dünyada inşa edilen tek MMORPG'dir. Grubunuzu seçin, Deva olarak yükselin ve orijinalinden 36 kat daha büyük bir dünyada bir grup savaşına katılın. Yalnızca PC, Unreal Engine 5'te.",
       "genres": [
         "Aksiyon",
@@ -3769,9 +3769,17 @@
         "Çok oyunculu"
       ],
       "warning": "Yamayı yapma süreci oyunda doğru yapılmışmı tüm süreci lütfen Discort sohbet veya Youtube videosu altına belirtin çalıştı veya şu hatayı aldım diye.",
-      "updatedAt": "2026-11-05",
+      "updatedAt": "2026-11-12",
       "comingSoon": false,
-      "changelog": [],
+      "changelog": [
+        {
+          "version": "1.12",
+          "date": "2026-11-12",
+          "notes": [
+            "YAMAYI KURDUKTAN SONRA FRANSIZCA SEÇİLMELİ"
+          ]
+        }
+      ],
       "info": {
         "Kurulum": "Dosya ekleme / değiştirme",
         "Çeviren": "MemoFast ekibi",
@@ -3783,12 +3791,12 @@
       },
       "package": {
         "url": null,
-        "size": 72858475,
-        "sha256": "49cd196d38c4855161858d8d1c68ad5ce079930f3ff7c3dcc51a3ea4155d7ef9",
+        "size": 4534408,
+        "sha256": "f0ef3b0ab3811188104a04958434a430936b7b2ff6c0d95c97768b67c5ca0005",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aion-2-v1.11/aion-2-1.11.mfp",
-          "size": 72859611,
-          "sha256": "0b3a402e36921ff9e50e94731067fe6f645ccea68bc59d584b3e0ac873bbd265"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aion-2-v1.12/aion-2-1.12.mfp",
+          "size": 4534504,
+          "sha256": "bf178eea5b14fe3a61db5d4eece8f053db2b68e17290fdfd5893ceb64e952414"
         }
       },
       "installer": null,
