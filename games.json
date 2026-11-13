@@ -1,6 +1,47 @@
 {
-  "catalogVersion": 214,
+  "catalogVersion": 215,
   "patches": [
+    {
+      "id": "ecc-redline",
+      "gameName": "ECC: REDLINE",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "ECC: REDLINE, NetEase Games'in kendi geliştirdiği yepyeni bir ekstrem spor taktik nişancı oyunudur. Daha hızlı, daha akıcı ve daha bağışlayıcıdır: Her hareket seçimi ve her atış gidişatı değiştirebilir.",
+      "genres": [
+        "Aksiyon",
+        "RPG",
+        "Strateji",
+        "Nişancı",
+        "Yarış",
+        "Spor",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-14",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 5268340
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "the-hidden-ones",
       "gameName": "The Hidden Ones",
