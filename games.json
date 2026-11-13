@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 210,
+  "catalogVersion": 211,
   "patches": [
     {
       "id": "scarecrow-90s-crime-story",
@@ -642,8 +642,8 @@
       "id": "rob-run",
       "gameName": "ROB RUN",
       "title": "Türkçe Yama",
-      "version": "1.0",
-      "tier": "free",
+      "version": "1.1",
+      "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -658,11 +658,11 @@
         "Çok oyunculu"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-11-08",
+      "updatedAt": "2026-11-13",
       "comingSoon": false,
       "changelog": [],
       "info": {
-        "Kurulum": "Dosya ekleme / değiştirme",
+        "Kurulum": "Oyun dosyasına işlenir",
         "Çeviren": "MemoFast ekibi"
       },
       "detect": {
@@ -670,12 +670,22 @@
         "steamAppId": 4262460
       },
       "package": {
-        "url": "https://github.com/zibildak/memofast-yamalar/releases/download/rob-run-v1.0/rob-run-1.0.zip",
-        "size": 9536422,
-        "sha256": "d6b52cac20359c7f4e54acd0a865a483e506b5d2802b8ad20f8866eabb6b28da",
-        "sealed": null
+        "url": null,
+        "size": 9538237,
+        "sha256": "3403389d66e816e2f77372cba131fb82f93c53e92ddaa927a1538a04468776f5",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/rob-run-v1.1/rob-run-1.1.mfp",
+          "size": 9538413,
+          "sha256": "0ebfb999f94d9fb439d29526e9957034b5c77dd6ed97bf6f49e32cfdabe19f16"
+        }
       },
-      "installer": null,
+      "installer": {
+        "script": "kur.ps1",
+        "installArgs": "-Mode kur -Oyun \"{oyun}\"",
+        "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
+        "env": {},
+        "watchFiles": []
+      },
       "mobile": null
     },
     {
