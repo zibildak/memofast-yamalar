@@ -1,6 +1,46 @@
 {
-  "catalogVersion": 209,
+  "catalogVersion": 210,
   "patches": [
+    {
+      "id": "scarecrow-90s-crime-story",
+      "gameName": "Scarecrow 90s Crime Story",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Scarecrow: 90s Crime Story, hikâye odaklı macerayı acımasız top-down aksiyonla birleştiriyor. Gündüz sıradan bir şehir sakini, gece ise kiralık bir katilsin. Geçmişin seni yakalamadan önce gömdüğün sırları ortaya çıkar.",
+      "genres": [
+        "Aksiyon",
+        "Hikâye odaklı"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-13",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2280360
+      },
+      "package": {
+        "url": null,
+        "size": 55455821,
+        "sha256": "394d2646753b3f1c4e6802f17386559b3cf2abf7760e1f58d8e7ebbef21f35c0",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/scarecrow-90s-crime-story-v1.0/scarecrow-90s-crime-story-1.0.mfp",
+          "size": 55456685,
+          "sha256": "49afb573e08f4701cba8939329fbef326cb6bead4ee2447a763d41d8a2f67e6c"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "elven-huntress-sunveil",
       "gameName": "Elven Huntress Sunveil",
