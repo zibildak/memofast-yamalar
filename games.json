@@ -1,6 +1,53 @@
 {
-  "catalogVersion": 212,
+  "catalogVersion": 213,
   "patches": [
+    {
+      "id": "brick-buddies",
+      "gameName": "Brick Buddies",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Bir blok al, küçük bir dünya kur. Bu sıcacık blok birleştirme oyununda kılavuzu takip et, çıkartmaları yapıştır ve yeni modeller biriktir. Tek başına keyfine bak ya da arkadaşlarınla birlikte koleksiyonunu büyüt.",
+      "genres": [
+        "İnşa etme",
+        "Hikâye odaklı",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-13",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Oyun dosyasına işlenir",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4901540
+      },
+      "package": {
+        "url": null,
+        "size": 611376,
+        "sha256": "e7426076e45211d07c8ae9d7f603093b323e2bd6b08bde5b9adbadb1144005c6",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/brick-buddies-v1.0/brick-buddies-1.0.mfp",
+          "size": 611408,
+          "sha256": "03643fffa8b9daf880b45269d9e4db08314b3975e525500ec65b95fdca4bd7c0"
+        }
+      },
+      "installer": {
+        "script": "kur.ps1",
+        "installArgs": "-Mode kur -Oyun \"{oyun}\"",
+        "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
+        "env": {},
+        "watchFiles": []
+      },
+      "mobile": null
+    },
     {
       "id": "scarecrow-90s-crime-story",
       "gameName": "Scarecrow 90s Crime Story",
