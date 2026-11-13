@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 211,
+  "catalogVersion": 212,
   "patches": [
     {
       "id": "scarecrow-90s-crime-story",
@@ -299,7 +299,7 @@
       "id": "empyrion-galactic-survival",
       "gameName": "Empyrion - Galactic Survival",
       "title": "Türkçe Yama",
-      "version": "1.0",
+      "version": "1.1",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -314,7 +314,7 @@
         "Çok oyunculu"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-11-10",
+      "updatedAt": "2026-11-13",
       "comingSoon": false,
       "changelog": [],
       "info": {
@@ -327,12 +327,12 @@
       },
       "package": {
         "url": null,
-        "size": 277262286,
-        "sha256": "4f219e00c798b183682d1e1ae0ae8fa577e01a6f386330b8ac760ca7f9e9057f",
+        "size": 280585003,
+        "sha256": "3cba64f8f174445251a1787bfaa2e2a525e3fa04b6a88b2f651eecd3642f9578",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/empyrion-galactic-survival-v1.0/empyrion-galactic-survival-1.0.mfp",
-          "size": 277266542,
-          "sha256": "0eca25bc36fbecb06c8664b712b489891a16972d8da61f28fba6d1029da0ae15"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/empyrion-galactic-survival-v1.1/empyrion-galactic-survival-1.1.mfp",
+          "size": 280589307,
+          "sha256": "c7382c07de7f73a85c4fefc95dd77b9bc44adfb482da3eceaf766c35778d7a10"
         }
       },
       "installer": null,
