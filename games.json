@@ -1,6 +1,48 @@
 {
-  "catalogVersion": 215,
+  "catalogVersion": 216,
   "patches": [
+    {
+      "id": "flotsam",
+      "gameName": "Flotsam",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Rengarenk bir yüzen şehir kurma oyununda yelken aç, kaynak topla ve hayatta kalanları kurtar. Drifter ekibini sonsuz çöp okyanusunda yönet ve ıslanmış harabeleri, paslı fabrikaları ve eski dünyanın hikayelerini keşfet.",
+      "genres": [
+        "Simülasyon",
+        "Hayatta kalma",
+        "Açık dünya",
+        "İnşa etme"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-14",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 821250
+      },
+      "package": {
+        "url": null,
+        "size": 55946323,
+        "sha256": "d734907776e69829a16be64e60b8a069c87257ecc0afe9509e45439cd42dd27e",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/flotsam-v1.0/flotsam-1.0.mfp",
+          "size": 55947203,
+          "sha256": "4d03b6631de44adc285d2c8658bbdc4f61ef7b643a94006bb5a28d2c393fe8bb"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "ecc-redline",
       "gameName": "ECC: REDLINE",
