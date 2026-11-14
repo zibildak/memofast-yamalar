@@ -1,6 +1,48 @@
 {
-  "catalogVersion": 216,
+  "catalogVersion": 217,
   "patches": [
+    {
+      "id": "the-maker-way",
+      "gameName": "The Maker Way",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Gezgin, drone ve robot gibi yaratıcı makineler yap. Fizik tabanlı açık dünyada bu makineleri kullanarak kaynak topla, yeni makine parçaları keşfet, enerji kaynakları bul, üsler inşa et ve düşman gruplarla savaş.",
+      "genres": [
+        "Simülasyon",
+        "Açık dünya",
+        "İnşa etme",
+        "Yarış"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-15",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 1532270
+      },
+      "package": {
+        "url": null,
+        "size": 58734,
+        "sha256": "802ad8c37d4575d02f5d13cdcf9621996ba1f069f4c933c32280c172f03def3a",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/the-maker-way-v1.0/the-maker-way-1.0.mfp",
+          "size": 58766,
+          "sha256": "e8de8a2f87d52f22204eb1c98e32e304950e2d75fa91f09a45fb1ea8f65bb960"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "flotsam",
       "gameName": "Flotsam",
@@ -340,8 +382,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-11-14T19:13:20.8064385Z",
-      "freeKey": "85lyjTF8t8ylJloU+SPJWLuVza2h1GlQ1l4kAf+s5xA=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
