@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 217,
+  "catalogVersion": 218,
   "patches": [
     {
       "id": "the-maker-way",
@@ -340,7 +340,7 @@
       "id": "hope-in-the-city",
       "gameName": "Hope in the City",
       "title": "Türkçe Yama",
-      "version": "1.0",
+      "version": "1.1",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -352,7 +352,7 @@
         "Hikâye odaklı"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-15",
       "comingSoon": false,
       "changelog": [],
       "info": {
@@ -365,12 +365,12 @@
       },
       "package": {
         "url": null,
-        "size": 114718688,
-        "sha256": "4088219ca73afbb37156cf2c37ba1b8179d6b8aed8ce4b3dc77b1befd4bebfc9",
+        "size": 114919056,
+        "sha256": "83030a92a130876cab4868bc329b8ed02a7c8a191aad2e5142c5d77ad5cec14c",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/hope-in-the-city-v1.0/hope-in-the-city-1.0.mfp",
-          "size": 114720464,
-          "sha256": "699253acc0d1d5df66415f888067cd5dd654994b70e71348347a51a265978d95"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/hope-in-the-city-v1.1/hope-in-the-city-1.1.mfp",
+          "size": 114920832,
+          "sha256": "4623d025777f1a006dfc29b1b1ddcebccd17f5ca9b7f6119608c08148a6e0ec2"
         }
       },
       "installer": null,
