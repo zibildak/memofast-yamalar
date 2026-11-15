@@ -1,6 +1,44 @@
 {
-  "catalogVersion": 221,
+  "catalogVersion": 222,
   "patches": [
+    {
+      "id": "motocross-the-game",
+      "gameName": "Motocross The Game",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Sürücüler için sürücüler tarafından oluşturulmuş hiper gerçekçi bir motokros simülatörü. Bisikleti ve sürücüyü iki ayrı fizik organı olarak kontrol edin, eşleştirme veya özel lobiler aracılığıyla çevrimiçi olarak yarışın ve canlı küresel zamanlı saldırı skor tablolarında zamanı kovalayın. Asistler, yeni gelenlerin kendi hızlarında öğrenmelerine olanak tanır.",
+      "genres": [
+        "Simülasyon",
+        "Yarış",
+        "Spor",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-16",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3188660
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "ski-e-o-ski-resort-tycoon",
       "gameName": "Ski-E-O! Ski Resort Tycoon",
