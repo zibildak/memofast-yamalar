@@ -1,6 +1,42 @@
 {
-  "catalogVersion": 222,
+  "catalogVersion": 223,
   "patches": [
+    {
+      "id": "milki-delivery",
+      "gameName": "Milki Delivery",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Evcil ineğin Milki ile küçük bir teslimat macerasında teslim ettiğin her bir şişeyle birlikte topluluğu yeniden inşa et. Kaynakları topla ve ahırını geliştir; sonra toprak yollarda, esintili çayırlarda ve deniz kenarındaki rıhtımlarda bisiklet sürerek taze sütü huzurlu kırsala götür.",
+      "genres": [
+        "Macera",
+        "Simülasyon"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-16",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4259360
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "motocross-the-game",
       "gameName": "Motocross The Game",
