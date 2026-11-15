@@ -1,6 +1,49 @@
 {
-  "catalogVersion": 218,
+  "catalogVersion": 219,
   "patches": [
+    {
+      "id": "trollheim-gnomes",
+      "gameName": "TROLLHEIM GNOMES",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Iskandinav folkloründen esinlenen ve hayatta kalma üretim odaklı bu eşli PvE macerasında bir cüce olarak kadim, canlı bir ormanı keşfet. Malzeme topla, üret ve ailen için ağaçların tepesine ev yap; hem dost hem düşman olabilecek Väsen denen varlıklarla tanış. Tek başına veya en fazla 8 kişiyle oyna.",
+      "genres": [
+        "Macera",
+        "Hayatta kalma",
+        "Açık dünya",
+        "İnşa etme",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-15",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4139890
+      },
+      "package": {
+        "url": null,
+        "size": 286349,
+        "sha256": "952457792fa8ed94a6e5ecc2f9fe63455d574f4c42b12245a5b74525659f035f",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/trollheim-gnomes-v1.0/trollheim-gnomes-1.0.mfp",
+          "size": 286381,
+          "sha256": "d2a8e8ab57597771555742a2e9f5ed81d036d07a42e2489e04c4b49cc92acb87"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "the-maker-way",
       "gameName": "The Maker Way",
