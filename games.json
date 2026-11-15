@@ -1,6 +1,47 @@
 {
-  "catalogVersion": 220,
+  "catalogVersion": 221,
   "patches": [
+    {
+      "id": "ski-e-o-ski-resort-tycoon",
+      "gameName": "Ski-E-O! Ski Resort Tycoon",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Siz Ski-E-O'sunuz; bu yönetim kralı oyununda hayallerinizdeki konforlu kayak merkezini inşa edin. Sürekli değişen hava koşullarına uyum sağlayın, parkurları boyayın, telesiyejler inşa edin ve binlerce kayakçıyı sıcak, tok ve mutlu tutacak pansiyonlar ve après barlar yerleştirin.",
+      "genres": [
+        "Simülasyon",
+        "Strateji",
+        "İnşa etme"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-16",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4493130
+      },
+      "package": {
+        "url": null,
+        "size": 2543270,
+        "sha256": "9dab5025b3923cf362a46e34e5f1abdb62907b939b8f07de8d3777703f8810b3",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/ski-e-o-ski-resort-tycoon-v1.0/ski-e-o-ski-resort-tycoon-1.0.mfp",
+          "size": 2543334,
+          "sha256": "42b878c0aaf9b81aab303eb823bfc99598473405efdf78e9405d713b10f14d0b"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "trafficity",
       "gameName": "Trafficity",
