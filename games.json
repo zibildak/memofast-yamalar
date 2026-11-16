@@ -1,6 +1,49 @@
 {
-  "catalogVersion": 226,
+  "catalogVersion": 227,
   "patches": [
+    {
+      "id": "dawn-of-defiance",
+      "gameName": "Dawn of Defiance",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Bu Yunan mitolojisi konulu hayatta kalma macerasında tek başınıza veya en fazla 3 arkadaşınızla birlikte bir Spartalı olun. Ölüler Diyarı'nın sınırındaki bir diyarı keşfedin, mitolojik yaratıklarla savaşın, kaynak toplayın, güçlü teçhizatlar üretin ve görkemli saraylar inşa edin. Antik tapınaklara baskın yapın, Olimposluların ikonik silahlarını ele geçirin ve tanrılara meydan okuyun.",
+      "genres": [
+        "Macera",
+        "Hayatta kalma",
+        "Açık dünya",
+        "İnşa etme",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-16",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2059530
+      },
+      "package": {
+        "url": null,
+        "size": 919926,
+        "sha256": "b14d87706b287f6c85f49115e62ae16e99cf89841830aea446d7604f1c4e90bc",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/dawn-of-defiance-v1.0/dawn-of-defiance-1.0.mfp",
+          "size": 919958,
+          "sha256": "64794f2f086453e62c416d6194c3e40c20a8f3711ad3653020cdb8dd4abfdddc"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "tarae-the-unbound",
       "gameName": "TARAE: The Unbound",
