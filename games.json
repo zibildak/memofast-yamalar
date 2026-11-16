@@ -1,6 +1,49 @@
 {
-  "catalogVersion": 223,
+  "catalogVersion": 224,
   "patches": [
+    {
+      "id": "aviassembly",
+      "gameName": "Aviassembly",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Kendi uçağınızı yapın ve uçurun! Para kazanmak, uçağınızı yükseltmek ve açık dünyada yeni yerler keşfetmek için görevleri tamamlayın.",
+      "genres": [
+        "Macera",
+        "Simülasyon",
+        "Strateji",
+        "Açık dünya",
+        "İnşa etme"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-16",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2660460
+      },
+      "package": {
+        "url": null,
+        "size": 39543,
+        "sha256": "8bff1c34479869a9fd7ebd99d1d7a7a53211953a1935b87d7b02cbd1b9a6767e",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aviassembly-v1.0/aviassembly-1.0.mfp",
+          "size": 39575,
+          "sha256": "20c28bcdb314cd2d39fe5527ed9374704b74fe037205c859e6396e6dd1af8e1d"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "milki-delivery",
       "gameName": "Milki Delivery",
