@@ -1,6 +1,49 @@
 {
-  "catalogVersion": 224,
+  "catalogVersion": 225,
   "patches": [
+    {
+      "id": "ordinary-oddness",
+      "gameName": "Ordinary Oddness",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Ordinary Oddness, Hiçbir Şey Kalmaz, Oddinary Açık Dünya RPG'sidir. Albinox Kıyametinden beri insanlar ve Mythoidler, bulutlardan oluşan bir denizin üzerinde asılı duran, aynı sokakları ve aynı günlük kuralları paylaşan Elysian Skies'ta yan yana yaşıyorlar.",
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "RPG",
+        "Korku",
+        "Simülasyon",
+        "Açık dünya",
+        "İnşa etme",
+        "Hikâye odaklı",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-16",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3988530
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "aviassembly",
       "gameName": "Aviassembly",
