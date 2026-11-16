@@ -1,6 +1,44 @@
 {
-  "catalogVersion": 225,
+  "catalogVersion": 226,
   "patches": [
+    {
+      "id": "tarae-the-unbound",
+      "gameName": "TARAE: The Unbound",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "TARAE: The Unbound, Doğu'nun karanlık fantastik dünyasında geçen bir aksiyon RPG'sidir. Altı Diyar'ın parçalanmış sınırlarında doğmuş bir ada olan Taegwido'yu keşfedin ve altı eşsiz sınıfın farklı dövüş tarzlarında ve yapılarında ustalaşın.",
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "RPG",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-16",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4604540
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "ordinary-oddness",
       "gameName": "Ordinary Oddness",
