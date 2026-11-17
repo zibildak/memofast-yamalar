@@ -1,6 +1,45 @@
 {
-  "catalogVersion": 229,
+  "catalogVersion": 230,
   "patches": [
+    {
+      "id": "final-fantasy-xiv-evercold",
+      "gameName": "FINAL FANTASY XIV: Evercold",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Warrior of Light: Parçalanmış göklerde tek başına gezme.",
+      "genres": [
+        "Macera",
+        "RPG",
+        "Açık dünya",
+        "Hikâye odaklı",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-18",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4634220
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "dust-origins",
       "gameName": "DUST: Origins",
