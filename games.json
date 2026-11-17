@@ -1,6 +1,44 @@
 {
-  "catalogVersion": 231,
+  "catalogVersion": 232,
   "patches": [
+    {
+      "id": "prism-2033",
+      "gameName": "Prism 2033",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Prism 2033, Unreal Engine 5 ile oluşturulmuş yeni nesil Fütüristik Paralel Evren MMORPG'sidir. Paralel dünyalar arasında seyahat edin, yeni zorluklarla mücadele edin ve Parallverse'in geleceğini şekillendirin.",
+      "genres": [
+        "RPG",
+        "Açık dünya",
+        "Nişancı",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-18",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4139200
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "embers-of-the-uncrowned",
       "gameName": "Embers of the Uncrowned",
