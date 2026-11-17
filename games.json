@@ -1,6 +1,43 @@
 {
-  "catalogVersion": 230,
+  "catalogVersion": 231,
   "patches": [
+    {
+      "id": "embers-of-the-uncrowned",
+      "gameName": "Embers of the Uncrowned",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Embers of the Uncrown, hızlı tempolu, tatmin edici izometrik görüş savaşının acımasız, kanlı görsellerle buluştuğu karanlık bir fantastik MMORPG'dir. Elf istilacılarının ellerinde insan kanına bulanmış destansı bir hikayede, evin son umut közünü yeniden alevlendirmek için bir yolculuğa çıkın.",
+      "genres": [
+        "Aksiyon",
+        "RPG",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-18",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3767660
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "final-fantasy-xiv-evercold",
       "gameName": "FINAL FANTASY XIV: Evercold",
