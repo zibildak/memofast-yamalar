@@ -1,6 +1,44 @@
 {
-  "catalogVersion": 228,
+  "catalogVersion": 229,
   "patches": [
+    {
+      "id": "dust-origins",
+      "gameName": "DUST: Origins",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "DUST: Origins, Darksiders'ın yaratıcıları tarafından hayal edilen, mahkum bir yörünge hapishane platformunda geçen izometrik bir korku nişancı oyunudur. Dondurucu hapishaneden aniden kurtulduğunuzda, istasyon kendini parçalamadan önce bir katilin vahşi suçlular ve korkunç canavarlardan oluşan dizisinden kaçmak için savaşıyorsunuz.",
+      "genres": [
+        "Aksiyon",
+        "Korku",
+        "Nişancı",
+        "Hikâye odaklı"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-18",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3804800
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "sol-one",
       "gameName": "Sol One",
