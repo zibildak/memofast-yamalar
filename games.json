@@ -1,6 +1,56 @@
 {
-  "catalogVersion": 227,
+  "catalogVersion": 228,
   "patches": [
+    {
+      "id": "sol-one",
+      "gameName": "Sol One",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Mars'ta tek başınıza mahsur kaldığınız, ayakları yere basan bir açık dünya hayatta kalma zanaat oyunu. Kızıl gezegeni keşfedin, kaynakları çıkarın, basınçlı bir üs inşa edin, oksijeni, gücü ve yiyeceği yönetin ve eve dönmenin tek yolu olan roketi inşa edin.",
+      "genres": [
+        "Macera",
+        "Simülasyon",
+        "Hayatta kalma",
+        "İnşa etme"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-17",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Oyun dosyasına işlenir",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [
+          "Sol One.exe"
+        ],
+        "steamAppId": 4528040
+      },
+      "package": {
+        "url": null,
+        "size": 1800039,
+        "sha256": "7711340cde89f57e55553167ae704ec63db16f4a30f45436efb93c06fdfb073f",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/sol-one-v1.0/sol-one-1.0.mfp",
+          "size": 1800087,
+          "sha256": "68843521288fd7f8836c5dd212d79317560c2f26cf4bf10f511a9f39f47689db"
+        }
+      },
+      "installer": {
+        "script": "kur.ps1",
+        "installArgs": "-Mode kur -Oyun \"{oyun}\"",
+        "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
+        "env": {},
+        "watchFiles": []
+      },
+      "mobile": null
+    },
     {
       "id": "dawn-of-defiance",
       "gameName": "Dawn of Defiance",
