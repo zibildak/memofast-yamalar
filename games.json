@@ -1,6 +1,50 @@
 {
-  "catalogVersion": 233,
+  "catalogVersion": 234,
   "patches": [
+    {
+      "id": "ranger-s-path-national-park-simulator",
+      "gameName": "Ranger’s Path National Park Simulator",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Ranger's Path: National Park Simulator ile koruculuk kariyerine başla. Patikaların bakımını yap, ziyaretçilere yardım et, yabani hayatı takip et, yaralı veya bir yere sıkışmış hayvanları kurtar ve envaiçeşit türle dolu çeşitli biyomları keşfet.",
+      "genres": [
+        "Macera",
+        "Simülasyon",
+        "Açık dünya",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-19",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [
+          "Bear.exe"
+        ],
+        "steamAppId": 2502780
+      },
+      "package": {
+        "url": null,
+        "size": 3990610,
+        "sha256": "19b48ac0e11a46d8d5c30a972155fbb5e370dd9e675cb0cd350d4d4366a81be6",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/ranger-s-path-national-park-simulator-v1.0/ranger-s-path-national-park-simulator-1.0.mfp",
+          "size": 3990690,
+          "sha256": "9f80851c61d7b61c20b356bcee8376626414d3b5551dfde33d5e072a7458568f"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "prism-2033",
       "gameName": "Prism 2033",
