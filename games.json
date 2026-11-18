@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 234,
+  "catalogVersion": 235,
   "patches": [
     {
       "id": "ranger-s-path-national-park-simulator",
@@ -39,7 +39,7 @@
         "sealed": {
           "url": "https://github.com/zibildak/memofast-yamalar/releases/download/ranger-s-path-national-park-simulator-v1.0/ranger-s-path-national-park-simulator-1.0.mfp",
           "size": 3990690,
-          "sha256": "9f80851c61d7b61c20b356bcee8376626414d3b5551dfde33d5e072a7458568f"
+          "sha256": "3f982ef55740e86d8d1d64fdb5d7779058c6444e791a767f7ab94f4b00a138c7"
         }
       },
       "installer": null,
