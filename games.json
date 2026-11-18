@@ -1,11 +1,11 @@
 {
-  "catalogVersion": 235,
+  "catalogVersion": 236,
   "patches": [
     {
       "id": "ranger-s-path-national-park-simulator",
       "gameName": "Ranger’s Path National Park Simulator",
       "title": "Türkçe Yama",
-      "version": "1.0",
+      "version": "1.1",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -37,9 +37,9 @@
         "size": 3990610,
         "sha256": "19b48ac0e11a46d8d5c30a972155fbb5e370dd9e675cb0cd350d4d4366a81be6",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/ranger-s-path-national-park-simulator-v1.0/ranger-s-path-national-park-simulator-1.0.mfp",
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/ranger-s-path-national-park-simulator-v1.1/ranger-s-path-national-park-simulator-1.1.mfp",
           "size": 3990690,
-          "sha256": "3f982ef55740e86d8d1d64fdb5d7779058c6444e791a767f7ab94f4b00a138c7"
+          "sha256": "aebcb4552908280d3c8ce6766f4e52d799036a797fe65e4609de4a89ae4ee724"
         }
       },
       "installer": null,
