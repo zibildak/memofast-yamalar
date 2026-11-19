@@ -1,6 +1,51 @@
 {
-  "catalogVersion": 236,
+  "catalogVersion": 237,
   "patches": [
+    {
+      "id": "gang-beasts",
+      "gameName": "Gang Beasts",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-11-22T13:49:55.0839704Z",
+      "freeKey": "9HEQ6+z2lpnpfsZWztKatMItJPUo59+5QaO6cIM5Yb4=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Gang Beasts, Beef City'nin acımasız sokaklarında geçen, somurtkan jelatinimsi karakterler, acımasız şakacı dövüş sahneleri ve absürd tehlikeli ortamlar içeren aptalca çok oyunculu bir parti oyunudur.",
+      "genres": [
+        "Aksiyon",
+        "Dövüş",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-19",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [
+          "Gang Beasts.exe"
+        ],
+        "steamAppId": 285900
+      },
+      "package": {
+        "url": null,
+        "size": 439678,
+        "sha256": "305a11d3b23fa7a0604769500cbd6c91beb2f65188fe0a68bf84c6a82594af81",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/gang-beasts-v1.0/gang-beasts-1.0.mfp",
+          "size": 439710,
+          "sha256": "3438b6055f9b4e3b1ee1e8eea0a5019a071a1509c6e583eff18769a999d6957c"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "ranger-s-path-national-park-simulator",
       "gameName": "Ranger’s Path National Park Simulator",
