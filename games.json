@@ -1,6 +1,44 @@
 {
-  "catalogVersion": 237,
+  "catalogVersion": 238,
   "patches": [
+    {
+      "id": "dirt-town",
+      "gameName": "Dirt Town",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Toprağı iterek, ağaçları keserek, kayaları hareket ettirerek, çakıl taşıyarak yollar oluşturmak için inanılmaz fizik kullanın. Kaynaklar için bir çukur kazın, arazi motosikleti için bir yarış pisti inşa edin! Ödeme alın ve daha fazla makine satın alın. Dört oyuncuya kadar çok oyunculu",
+      "genres": [
+        "Simülasyon",
+        "İnşa etme",
+        "Yarış",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-19",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 5275590
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "gang-beasts",
       "gameName": "Gang Beasts",
