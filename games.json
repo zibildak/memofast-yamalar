@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 240,
+  "catalogVersion": 241,
   "patches": [
     {
       "id": "toto-s-journey",
@@ -4750,13 +4750,13 @@
       "id": "aion-2",
       "gameName": "Aion 2",
       "title": "Türkçe Yama",
-      "version": "1.13",
+      "version": "1.14",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
-      "description": "YAMAYI KURDUKTAN SONRA İNGİLİZCE SEÇMENİZ GEREKİYOR",
-      "about": "AION 2, gökyüzünün savaş alanı olduğu bir dünyada inşa edilen tek MMORPG'dir. Grubunuzu seçin, Deva olarak yükselin ve orijinalinden 36 kat daha büyük bir dünyada bir grup savaşına katılın. Yalnızca PC, Unreal Engine 5'te.",
+      "description": "YAMAYI KURDUKTAN SONRA İNGİLİZCE SEÇMENİZ GEREKİYOR,",
+      "about": "YAMAYI KURDUKTAN SONRA İNGİLİZCE SEÇMENİZ GEREKİYOR, OYUN GİRİŞ SAYFASI İNG OLSADA İÇERİK TÜRKÇE. AION 2, gökyüzünün savaş alanı olduğu bir dünyada inşa edilen tek MMORPG'dir. Grubunuzu seçin, Deva olarak yükselin ve orijinalinden 36 kat daha büyük bir dünyada bir grup savaşına katılın. Yalnızca PC, Unreal Engine 5'te.",
       "genres": [
         "Aksiyon",
         "Macera",
@@ -4792,9 +4792,9 @@
         "size": 8194442,
         "sha256": "63e69f01baebeb752e080e4638dbb88d1fb0b6f382a745fe380a611b100a47e0",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aion-2-v1.13/aion-2-1.13.mfp",
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aion-2-v1.14/aion-2-1.14.mfp",
           "size": 8194586,
-          "sha256": "2af020a455010b8855adb1deaff90471db39ed9dd4a48c364106b83d91ded3e9"
+          "sha256": "b0e72f0b17b4d8bd2c0da8b753b2abb99353e61f35801809fb5338fcdf4e33c3"
         }
       },
       "installer": null,
