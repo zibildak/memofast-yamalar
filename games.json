@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 239,
+  "catalogVersion": 240,
   "patches": [
     {
       "id": "toto-s-journey",
@@ -4750,12 +4750,12 @@
       "id": "aion-2",
       "gameName": "Aion 2",
       "title": "Türkçe Yama",
-      "version": "1.12",
+      "version": "1.13",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
-      "description": "YAMAYI KURDUKTAN SONRA FRANSIZCAYI SEÇMENİZ GEREKİYOR",
+      "description": "YAMAYI KURDUKTAN SONRA İNGİLİZCE SEÇMENİZ GEREKİYOR",
       "about": "AION 2, gökyüzünün savaş alanı olduğu bir dünyada inşa edilen tek MMORPG'dir. Grubunuzu seçin, Deva olarak yükselin ve orijinalinden 36 kat daha büyük bir dünyada bir grup savaşına katılın. Yalnızca PC, Unreal Engine 5'te.",
       "genres": [
         "Aksiyon",
@@ -4765,7 +4765,7 @@
         "Çok oyunculu"
       ],
       "warning": "Yamayı yapma süreci oyunda doğru yapılmışmı tüm süreci lütfen Discort sohbet veya Youtube videosu altına belirtin çalıştı veya şu hatayı aldım diye.",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-19",
       "comingSoon": false,
       "changelog": [
         {
@@ -4782,17 +4782,19 @@
         "Kapsam": "Türkçe karakter sorunu"
       },
       "detect": {
-        "mustExist": [],
+        "mustExist": [
+          "AION2.exe"
+        ],
         "steamAppId": 3393110
       },
       "package": {
         "url": null,
-        "size": 4534408,
-        "sha256": "f0ef3b0ab3811188104a04958434a430936b7b2ff6c0d95c97768b67c5ca0005",
+        "size": 8194442,
+        "sha256": "63e69f01baebeb752e080e4638dbb88d1fb0b6f382a745fe380a611b100a47e0",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aion-2-v1.12/aion-2-1.12.mfp",
-          "size": 4534504,
-          "sha256": "bf178eea5b14fe3a61db5d4eece8f053db2b68e17290fdfd5893ceb64e952414"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aion-2-v1.13/aion-2-1.13.mfp",
+          "size": 8194586,
+          "sha256": "2af020a455010b8855adb1deaff90471db39ed9dd4a48c364106b83d91ded3e9"
         }
       },
       "installer": null,
