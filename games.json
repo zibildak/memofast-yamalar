@@ -1,6 +1,49 @@
 {
-  "catalogVersion": 238,
+  "catalogVersion": 239,
   "patches": [
+    {
+      "id": "toto-s-journey",
+      "gameName": "Toto's Journey",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-11-22T14:26:06.5863257Z",
+      "freeKey": "gHPaO5dqIBgBw9d+ZkzIPY0zyHhHhdY+577BBPD0tjQ=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Toto’s Journey, Oz Büyücüsü’nün dünyasından ilham alan sıcak bir maceradır. Köpek Toto olarak oynayın, büyülü diyarın muhteşem sakinleriyle tanışın, bulmacaları çözün ve bu dünyanın sırlarını açığa çıkarmak için Hurricane’i takip edin.",
+      "genres": [
+        "Macera",
+        "Bulmaca",
+        "Hikâye odaklı"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-19",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3724300
+      },
+      "package": {
+        "url": null,
+        "size": 528221,
+        "sha256": "7f1f30a01bdd960f0d0d8f05389bccfabdee5d8484d38910c1d70f053d1024c0",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/toto-s-journey-v1.0/toto-s-journey-1.0.mfp",
+          "size": 528253,
+          "sha256": "ac13c8b4203fb13a9bbafe983dfa277d6bbed3b246a078a8b98acd674bea580f"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "dirt-town",
       "gameName": "Dirt Town",
