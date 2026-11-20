@@ -1,6 +1,50 @@
 {
-  "catalogVersion": 243,
+  "catalogVersion": 244,
   "patches": [
+    {
+      "id": "beast-of-reincarnation",
+      "gameName": "Beast of Reincarnation",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Game Freak'in yepyeni oyunu: Beast of Reincarnation, gerçek zamanlı ve sıra tabanlı dövüşlerin birleşiminden oluşan bir aksiyon RPG'sidir. Beast of Reincarnation'ın güzel ama sert dünyasında yenilikçi \"tek kişilik, tek köpekli aksiyon RPG'sini\" deneyimleyin. Emma ve Koo'nun yolculuğunun sonunda neler bekliyor?",
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "RPG",
+        "Açık dünya",
+        "Hikâye odaklı",
+        "Souls-like"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-20",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2001760
+      },
+      "package": {
+        "url": null,
+        "size": 12111883,
+        "sha256": "8ba9ecf39a8745216bd87b23ed5d140a82fe3e69a92a223ba93e6b7617246e62",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/beast-of-reincarnation-v1.0/beast-of-reincarnation-1.0.mfp",
+          "size": 12112091,
+          "sha256": "864273eb5e10e641cc2135fa63f01ed223a864303a5e8729b785a1a38b86badc"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "soulframe-dublaj",
       "gameName": "Soulframe",
