@@ -1,6 +1,47 @@
 {
-  "catalogVersion": 244,
+  "catalogVersion": 245,
   "patches": [
+    {
+      "id": "zero-parades-director-s-cut",
+      "gameName": "ZERO PARADES Director's Cut",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Disco Elysium'un yaratıcılarından ZERO PARADES geliyor - beğeni toplayan casusluk RPG'si, şimdi YÖNETMENİN KESİMİ ile genişletildi. Sen son bir çaresiz görevde zeki ama eziyet çeken bir opera oyuncususun. Kendinizi dünya sahnesinde kanıtlayın ya da her şeyi yeniden havaya uçurun.",
+      "genres": [
+        "RPG",
+        "Açık dünya",
+        "Hikâye odaklı"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-20",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2863680
+      },
+      "package": {
+        "url": null,
+        "size": 69854849,
+        "sha256": "72f6f0c5c9780f9ea63df28699be26f85c73784983b3ca3d0415dcb739881bee",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/zero-parades-director-s-cut-v1.0/zero-parades-director-s-cut-1.0.mfp",
+          "size": 69855937,
+          "sha256": "dab101751aee002b8051cea0485e28161401fb9b384f8b7d461e21b74eda7fd7"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "beast-of-reincarnation",
       "gameName": "Beast of Reincarnation",
