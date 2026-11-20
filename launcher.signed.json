@@ -1,4 +1,4 @@
 {
-  "data": "{\r\n  \"version\": \"1.0.23\",\r\n  \"notes\": [\r\n    \"once human gibi oyunlarda yama bozulmasını önlemek için iyileştirme yapıldı\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.23.exe\",\r\n  \"sha256\": \"6abe6d11957453947fe40f0edf95d2db9cf95cfca52de1ec925f010564e0e106\",\r\n  \"size\": 83704589,\r\n  \"mandatory\": true,\r\n  \"publishedAt\": \"2026-11-11\"\r\n}",
-  "sig": "p+UbPeJxbvlgvnufQoXmN0ulNgx+bKrUPcHIr3i+v9G0kHByiTZzVzTR3wS7mm+hTn6w7TijB9sXK/LlC8ar1Q=="
+  "data": "{\r\n  \"version\": \"1.0.24\",\r\n  \"notes\": [\r\n    \"Dublaj yeteneğieklendi, destekleyen oyunlarda türkçe dublaj oynanır\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.24.exe\",\r\n  \"sha256\": \"83f95e7182629bdf3743ccf85c527a51f50de6fab56b56c85c7a22ffe04db3d6\",\r\n  \"size\": 83884972,\r\n  \"mandatory\": true,\r\n  \"publishedAt\": \"2026-11-20\"\r\n}",
+  "sig": "1vvKMYQPEA2GfsvcINhZv5R7djuKe8YU4Yc+8L5EgJQhH4h9zgASkaOJyRj3HixoI1er8Fsn3b5Ml1LVqv+X0Q=="
 }
