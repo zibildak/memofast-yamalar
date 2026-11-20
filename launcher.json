@@ -1,11 +1,11 @@
 {
-  "version": "1.0.23",
+  "version": "1.0.24",
   "notes": [
-    "once human gibi oyunlarda yama bozulmasını önlemek için iyileştirme yapıldı"
+    "Dublaj yeteneğieklendi, destekleyen oyunlarda türkçe dublaj oynanır"
   ],
-  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.23.exe",
-  "sha256": "6abe6d11957453947fe40f0edf95d2db9cf95cfca52de1ec925f010564e0e106",
-  "size": 83704589,
+  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.24.exe",
+  "sha256": "83f95e7182629bdf3743ccf85c527a51f50de6fab56b56c85c7a22ffe04db3d6",
+  "size": 83884972,
   "mandatory": true,
-  "publishedAt": "2026-11-11"
+  "publishedAt": "2026-11-20"
 }
