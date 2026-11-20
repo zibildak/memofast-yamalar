@@ -1,6 +1,55 @@
 {
-  "catalogVersion": 245,
+  "catalogVersion": 246,
   "patches": [
+    {
+      "id": "just-volleyball",
+      "gameName": "just volleyball",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-11-23T20:09:19.2139037Z",
+      "freeKey": "RmfxboiW+xUOZPKmYCysfMNs5s66NHMvz8Pg77RjKrI=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Just Volleyball, benzersiz ancak sezgisel kontrollere ve derin oyuncu ifadesine sahip çevrimiçi ve çevrimdışı bir voleybol oyunudur. 1v1'ler ve 2v2'lerden tam takım tabanlı 6v6 maçlara kadar her alanda başkalarıyla mücadele edin. oynamanın doğru bir yolu yok, bu sadece voleybol!",
+      "genres": [
+        "Aksiyon",
+        "Spor",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-20",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Oyun dosyasına işlenir",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 5037200
+      },
+      "package": {
+        "url": null,
+        "size": 3535827,
+        "sha256": "b35c20485d05ed2166151103aee2addc9bf526068596152d8885ae6cc02ae8d8",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/just-volleyball-v1.0/just-volleyball-1.0.mfp",
+          "size": 3535907,
+          "sha256": "2be6ddffe3295751c0321924a18658ded8ce8f55727b4b89209b7cbb0d708f54"
+        }
+      },
+      "installer": {
+        "script": "kur.ps1",
+        "installArgs": "-Mode kur -Oyun \"{oyun}\"",
+        "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
+        "env": {},
+        "watchFiles": []
+      },
+      "mobile": null
+    },
     {
       "id": "zero-parades-director-s-cut",
       "gameName": "ZERO PARADES Director's Cut",
