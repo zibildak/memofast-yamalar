@@ -1,14 +1,14 @@
 {
-  "catalogVersion": 242,
+  "catalogVersion": 243,
   "patches": [
     {
       "id": "soulframe-dublaj",
       "gameName": "Soulframe",
       "title": "Türkçe Dublaj",
-      "version": "1.0",
+      "version": "1.1",
       "tier": "pro",
       "freeUntil": "2026-11-23T14:22:06.8870992Z",
-      "freeKey": "hMvpL+V4YdXYxCcn91bepX6FQsUWalfT4KlcJd4nB/Q=",
+      "freeKey": "DKVlkmhkkLZg4/m1rsxv77BWCGbbB444GpHyyggCEyg=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -32,16 +32,19 @@
       },
       "detect": {
         "mustExist": [],
-        "steamAppId": 4095380
+        "steamAppId": 4095380,
+        "paths": [
+          "%LOCALAPPDATA%\\Soulframe\\Downloaded\\Public"
+        ]
       },
       "package": {
         "url": null,
         "size": 87428033,
         "sha256": "0c4fa1db313b3cb9a6d94a8538dc5b3ec0b69ec3fd29327b2699e376c34f6612",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/soulframe-dublaj-v1.0/soulframe-dublaj-1.0.mfp",
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/soulframe-dublaj-v1.1/soulframe-dublaj-1.1.mfp",
           "size": 87429393,
-          "sha256": "227c1e52bee3a4bdc6c0eb4460d1be823465f6eae9e4cd57c70d015b04816b21"
+          "sha256": "3f5ce27742c918add17bd2a663daaf3d5c3d682ceea0c3c81e68622a6e185a99"
         }
       },
       "installer": {
