@@ -1,6 +1,50 @@
 {
-  "catalogVersion": 246,
+  "catalogVersion": 247,
   "patches": [
+    {
+      "id": "westlanders",
+      "gameName": "Westlanders",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Vahşi Batı açık dünyasında tek başına ya da arkadaşlarınla hayatta kal. At arabanla seyahat et, yerleşimler kur, düşmanları püskürt ve vahşi topraklarda güçlü bir ekonomi ağı kur. Westlands'te kendi mirasını yarat.",
+      "genres": [
+        "Macera",
+        "RPG",
+        "Simülasyon",
+        "Hayatta kalma",
+        "İnşa etme",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-21",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3886530
+      },
+      "package": {
+        "url": null,
+        "size": 56788903,
+        "sha256": "de8d17f5dcd346973fb41205054c8193d902f1b06eee3c86e79f1ad550357ef4",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/westlanders-v1.0/westlanders-1.0.mfp",
+          "size": 56789799,
+          "sha256": "379e141498714c9c8415cb8dc1c486043cfcdd32523a6f05ad69f6104b8dec9b"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "just-volleyball",
       "gameName": "just volleyball",
