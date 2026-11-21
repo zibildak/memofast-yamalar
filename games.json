@@ -1,6 +1,52 @@
 {
-  "catalogVersion": 247,
+  "catalogVersion": 248,
   "patches": [
+    {
+      "id": "melvor-idle-2-a-runescape-adventure",
+      "gameName": "Melvor Idle 2 A RuneScape Adventure",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Melvor Idle 2 ile yepyeni bir RuneScape boşta macerasına atılın. Zen benzeri ilerlemenin tadını çıkarırken ikonik RuneScape Becerilerinde ustalaşın, güçlü Savaş zorluklarıyla yüzleşin veya Görevler aracılığıyla dünya tarihini ortaya çıkarın.",
+      "genres": [
+        "Macera",
+        "RPG"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-21",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Oyun dosyasına işlenir",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3218350
+      },
+      "package": {
+        "url": null,
+        "size": 1642001,
+        "sha256": "5e240f1623a6abc8d898806f8ed92892358d7a19a5810178b1ef3bb0f37eef62",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/melvor-idle-2-a-runescape-adventure-v1.0/melvor-idle-2-a-runescape-adventure-1.0.mfp",
+          "size": 1642049,
+          "sha256": "af2c9911da171f2ed8203ac5b936cda273569a17ff3f3bddcdf3751c8b99937e"
+        }
+      },
+      "installer": {
+        "script": "kur.ps1",
+        "installArgs": "-Mode kur -Oyun \"{oyun}\"",
+        "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
+        "env": {},
+        "watchFiles": []
+      },
+      "mobile": null
+    },
     {
       "id": "westlanders",
       "gameName": "Westlanders",
