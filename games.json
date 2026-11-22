@@ -1,6 +1,50 @@
 {
-  "catalogVersion": 250,
+  "catalogVersion": 251,
   "patches": [
+    {
+      "id": "no-visitors-allowed",
+      "gameName": "No Visitors Allowed",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "freeUntil": "2026-11-25T16:00:21.9460292Z",
+      "freeKey": "ZpeJpwhleY2Q1d8GRI+oTdwJJxSPssOzpgwoqDSqV8I=",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "The Exit 8’den ilham alan minimalist bir psikolojik korku oyunu. Oyuncular, anomalileri tespit ederek döngü halinde tekrar eden, post-Sovyet döneminden kalma terk edilmiş bir hastane koridorundan kaçmak zorundadır.",
+      "genres": [
+        "Macera",
+        "Korku",
+        "Simülasyon",
+        "Bulmaca"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-22",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4811080
+      },
+      "package": {
+        "url": null,
+        "size": 6409,
+        "sha256": "a26924ba9b86f3f12dd619a90434d71d0b0b2789f87cbc88540ebc385f536ae4",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/no-visitors-allowed-v1.0/no-visitors-allowed-1.0.mfp",
+          "size": 6441,
+          "sha256": "79a6d0ae2bd858da29cf515f5cc5103c405d0c08fbdd110730b6985cc7830f93"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "grand-theft-auto-v-enhanced",
       "gameName": "Grand Theft Auto V Enhanced",
