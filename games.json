@@ -1,6 +1,58 @@
 {
-  "catalogVersion": 249,
+  "catalogVersion": 250,
   "patches": [
+    {
+      "id": "grand-theft-auto-v-enhanced",
+      "gameName": "Grand Theft Auto V Enhanced",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Rockstar Launcher'da Ayarlar → Grand Theft Auto V Enhanced → \"BattlEye'ı etkinleştir\" seçeneğini kapat sonra yamayı kur",
+      "about": "Gişe rekorları kıran eğlence oyunları Grand Theft Auto V ve Grand Theft Auto Online'ı deneyimleyin; şimdi çarpıcı görseller, daha hızlı yükleme, 3D ses ve daha fazlasının yanı sıra GTA Online oyuncularına özel içerikle yeni nesil için yükseltildi.",
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "Simülasyon",
+        "Açık dünya",
+        "İnşa etme",
+        "Nişancı",
+        "Yarış",
+        "Çok oyunculu"
+      ],
+      "warning": "Rockstar Launcher'da Ayarlar → Grand Theft Auto V Enhanced → \"BattlEye'ı etkinleştir\" seçeneğini kapat sonra yamayı kur",
+      "updatedAt": "2026-11-22",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Oyun dosyasına işlenir",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3240220
+      },
+      "package": {
+        "url": null,
+        "size": 38502979,
+        "sha256": "b51b07f311fe82c1b98419124aa03df6b28b6f708f2c6e635fd93ab81c534347",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/grand-theft-auto-v-enhanced-v1.0/grand-theft-auto-v-enhanced-1.0.mfp",
+          "size": 38503587,
+          "sha256": "ef733a37e11518c11bfa4b7ac354a9c62de56e79f37c1d6ae56d6c1c4e8af7a5"
+        }
+      },
+      "installer": {
+        "script": "kur.ps1",
+        "installArgs": "-Mode kur -Oyun \"{oyun}\"",
+        "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
+        "env": {},
+        "watchFiles": []
+      },
+      "mobile": null
+    },
     {
       "id": "melvor-idle-2-a-runescape-adventure",
       "gameName": "Melvor Idle 2 A RuneScape Adventure",
