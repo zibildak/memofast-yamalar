@@ -1,4 +1,4 @@
 {
-  "data": "{\r\n  \"version\": \"1.0.24\",\r\n  \"notes\": [\r\n    \"Dublaj yeteneğieklendi, destekleyen oyunlarda türkçe dublaj oynanır\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.24.exe\",\r\n  \"sha256\": \"83f95e7182629bdf3743ccf85c527a51f50de6fab56b56c85c7a22ffe04db3d6\",\r\n  \"size\": 83884972,\r\n  \"mandatory\": true,\r\n  \"publishedAt\": \"2026-11-20\"\r\n}",
-  "sig": "1vvKMYQPEA2GfsvcINhZv5R7djuKe8YU4Yc+8L5EgJQhH4h9zgASkaOJyRj3HixoI1er8Fsn3b5Ml1LVqv+X0Q=="
+  "data": "{\r\n  \"version\": \"1.0.25\",\r\n  \"notes\": [\r\n    \"Memofast filtre özelliği geldi istediğ*iniz oyunu istediğiniz filtre ile oynayın\",\r\n    \"Oynadığınız oyuna güncelleme geldi ise Memofast sizi uyarır\"\r\n  ],\r\n  \"url\": \"https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.25.exe\",\r\n  \"sha256\": \"11f43696fd83760b2869f0c2f7a471e33c6db378ae14c402e5a2e44ca52ac544\",\r\n  \"size\": 83915568,\r\n  \"mandatory\": true,\r\n  \"publishedAt\": \"2026-11-22\"\r\n}",
+  "sig": "iKfgqUJUfbOT0cGwZ+DzsbY92geQjJabvMWUzpeubx3xyeXrE59A5EYVjjKxh9dKQ+HHoR32MgxZHkLplGNosg=="
 }
