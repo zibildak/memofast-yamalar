@@ -1,11 +1,12 @@
 {
-  "version": "1.0.24",
+  "version": "1.0.25",
   "notes": [
-    "Dublaj yeteneğieklendi, destekleyen oyunlarda türkçe dublaj oynanır"
+    "Memofast filtre özelliği geldi istediğ*iniz oyunu istediğiniz filtre ile oynayın",
+    "Oynadığınız oyuna güncelleme geldi ise Memofast sizi uyarır"
   ],
-  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.24.exe",
-  "sha256": "83f95e7182629bdf3743ccf85c527a51f50de6fab56b56c85c7a22ffe04db3d6",
-  "size": 83884972,
+  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.25.exe",
+  "sha256": "11f43696fd83760b2869f0c2f7a471e33c6db378ae14c402e5a2e44ca52ac544",
+  "size": 83915568,
   "mandatory": true,
-  "publishedAt": "2026-11-20"
+  "publishedAt": "2026-11-22"
 }
