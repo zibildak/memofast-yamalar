@@ -1,6 +1,47 @@
 {
-  "catalogVersion": 251,
+  "catalogVersion": 252,
   "patches": [
+    {
+      "id": "stupid-never-dies",
+      "gameName": "Stupid Never Dies",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Bu yüksek tempolu aksiyon RYO’da zayıf zombi Davy’yi saçma güçlü yap! Düşmanlarını ye, güçlerini çal ve donmuş Julia’yı kurtar.",
+      "genres": [
+        "Macera",
+        "RPG",
+        "Hikâye odaklı"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-22",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3486530
+      },
+      "package": {
+        "url": null,
+        "size": 1775968,
+        "sha256": "c30c3ddb152a5d067288a9f1684dee71475aa166f6a4fcbd9d16b6827b3df772",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/stupid-never-dies-v1.0/stupid-never-dies-1.0.mfp",
+          "size": 1776016,
+          "sha256": "4e6a2bf86db777ba29f52dbe9d1820bc7996987d9c0d5881059ad50baa941719"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "no-visitors-allowed",
       "gameName": "No Visitors Allowed",
