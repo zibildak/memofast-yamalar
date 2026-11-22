@@ -1,12 +1,11 @@
 {
-  "version": "1.0.25",
+  "version": "1.0.26",
   "notes": [
-    "Memofast filtre özelliği geldi istediğ*iniz oyunu istediğiniz filtre ile oynayın",
-    "Oynadığınız oyuna güncelleme geldi ise Memofast sizi uyarır"
+    "Küçük düzeltmeler"
   ],
-  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.25.exe",
-  "sha256": "11f43696fd83760b2869f0c2f7a471e33c6db378ae14c402e5a2e44ca52ac544",
-  "size": 83915568,
+  "url": "https://github.com/zibildak/memofast-yamalar/releases/download/launcher/MemoFast-1.0.26.exe",
+  "sha256": "24573739f58978b64a89b4f6eb1d9f825c3c62080297594dfebe1be287809751",
+  "size": 83915573,
   "mandatory": true,
   "publishedAt": "2026-11-22"
 }
