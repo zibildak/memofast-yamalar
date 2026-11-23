@@ -750,6 +750,33 @@ def sitemap(site: Site, patches: list[Patch]) -> str:
     return f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{body}</urlset>\n'
 
 
+# ---------------------------------------------------------------- yönlendirme
+
+NEW_SITE = "https://memofast.net/"
+
+
+def redirect_page(site: Site, path: str, title: str) -> str:
+    """Site memofast.net'e taşındı: eski sayfa, yeni sitedeki karşılığına anında yönlenir."""
+    target = NEW_SITE + path
+    return f"""<!doctype html>
+<html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{e(title)}</title>
+<link rel="canonical" href="{e(target)}">
+<meta http-equiv="refresh" content="0; url={e(target)}">
+<script>location.replace({json.dumps(target)} + location.search + location.hash)</script>
+</head><body><p>MemoFast taşındı: <a href="{e(target)}">{e(target)}</a></p></body></html>
+"""
+
+
+def redirect_404(site: Site) -> str:
+    return f"""<!doctype html>
+<html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MemoFast taşındı</title><meta name="robots" content="noindex">
+<script>location.replace({json.dumps(NEW_SITE)} + (location.pathname.startsWith({json.dumps(site.base)}) ? location.pathname.slice({len(site.base)}) : "") + location.search + location.hash)</script>
+</head><body><p>MemoFast taşındı: <a href="{NEW_SITE}">memofast.net</a></p></body></html>
+"""
+
+
 # ---------------------------------------------------------------- ana
 
 def main() -> None:
@@ -785,12 +812,12 @@ def main() -> None:
         dest.parent.mkdir(parents=True, exist_ok=True)
         dest.write_text(text, encoding="utf-8")
 
-    write("index.html", build_home(site, patches))
-    write("oyun-turkce-yapma/index.html", build_guide(site, patches))
-    write("gizlilik/index.html", build_privacy(site))
+    write("index.html", redirect_page(site, "", "MemoFast Türkçe Yamalar"))
+    write("oyun-turkce-yapma/index.html", redirect_page(site, "oyun-turkce-yapma/", "Oyun nasıl Türkçe yapılır? | MemoFast"))
+    write("gizlilik/index.html", redirect_page(site, "gizlilik/", "Gizlilik | MemoFast"))
     for p in patches:
-        write(f"yama/{p.id}/index.html", build_patch(site, p, patches))
-    write("404.html", build_404(site))
+        write(f"yama/{p.id}/index.html", redirect_page(site, f"yama/{p.id}/", f"{p.name} Türkçe Yama | MemoFast"))
+    write("404.html", redirect_404(site))
     write("sitemap.xml", sitemap(site, patches))
     write("robots.txt", f"User-agent: *\nAllow: /\nSitemap: {site.abs('sitemap.xml')}\n")
     write(".nojekyll", "")
