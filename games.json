@@ -1,6 +1,46 @@
 {
-  "catalogVersion": 252,
+  "catalogVersion": 253,
   "patches": [
+    {
+      "id": "star-wars-zero-company",
+      "gameName": "STAR WARS Zero Company™",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Klon Savaşları’nın alaca karanlığında geçen tek oyunculu sıra tabanlı taktik oyunu STAR WARS Zero Company™’deki cesur ve özgün hikayede elit bir mangayı yönetin.",
+      "genres": [
+        "RPG",
+        "Strateji"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-24",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2075800
+      },
+      "package": {
+        "url": null,
+        "size": 3371436,
+        "sha256": "e1713a20bd5330e77caf1ff5269823bec4b8aaede4b4a62045f9d69eb1235ba5",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/star-wars-zero-company-v1.0/star-wars-zero-company-1.0.mfp",
+          "size": 3371516,
+          "sha256": "fe1b64d693dbfa5d56f91a798ca29f690c53c25bcf37c21d7ef0d2ca80f45165"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "stupid-never-dies",
       "gameName": "Stupid Never Dies",
@@ -234,8 +274,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-11-23T20:09:19.2139037Z",
-      "freeKey": "RmfxboiW+xUOZPKmYCysfMNs5s66NHMvz8Pg77RjKrI=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -368,8 +406,6 @@
       "title": "Türkçe Dublaj",
       "version": "1.1",
       "tier": "pro",
-      "freeUntil": "2026-11-23T14:22:06.8870992Z",
-      "freeKey": "DKVlkmhkkLZg4/m1rsxv77BWCGbbB444GpHyyggCEyg=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
