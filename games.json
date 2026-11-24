@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 253,
+  "catalogVersion": 254,
   "patches": [
     {
       "id": "star-wars-zero-company",
@@ -5302,7 +5302,7 @@
       "id": "throne-and-liberty",
       "gameName": "Throne and Liberty",
       "title": "Türkçe Yama",
-      "version": "1.0",
+      "version": "1.1",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -5316,8 +5316,8 @@
         "Açık dünya",
         "Çok oyunculu"
       ],
-      "warning": "",
-      "updatedAt": "2026-09-28",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-25",
       "comingSoon": false,
       "changelog": [
         {
@@ -5338,12 +5338,12 @@
       },
       "package": {
         "url": null,
-        "size": 28247184,
-        "sha256": "b910e1c06406aae2e3e546e8e9191ba76951610b9bb99813b126b4093428e7ac",
+        "size": 5869598,
+        "sha256": "61cf654020ae8a7ccd6de4bcbaa5e06c4e6149b9abed2cb96d1f15f453fa34b2",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/throne-and-liberty-v1.0/throne-and-liberty-1.0.mfp",
-          "size": 28247632,
-          "sha256": "7d316c04b1430ccbbb91d227f208fae0ca3195e0ab5c8104ad5d3b32de46e19e"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/throne-and-liberty-v1.1/throne-and-liberty-1.1.mfp",
+          "size": 5869710,
+          "sha256": "01efef7704441c65e73431980311a288ecbe9e88d0101b3b42e97e5da4f9b5f0"
         }
       },
       "installer": null,
