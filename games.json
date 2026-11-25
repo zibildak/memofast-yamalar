@@ -1,6 +1,50 @@
 {
-  "catalogVersion": 254,
+  "catalogVersion": 255,
   "patches": [
+    {
+      "id": "red-dead-redemption-2",
+      "gameName": "Red Dead Redemption 2",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Red Dead Redemption 2 tamamı Claude opus ile çevrildi yazım hataları düzeltildi keyifli oyunlar",
+      "about": "Arthur Morgan ve Van der Linde çetesi kaçıyor. Federal ajanlar ve ödül avcılarının amansız takibi altında çete üyeleri hayatta kalabilmek için soyguna, yağmaya ve dövüşmeye devam ederek çetin toprakları geçmek zorunda.",
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "Açık dünya",
+        "Nişancı",
+        "Hikâye odaklı",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-25",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 1174180
+      },
+      "package": {
+        "url": null,
+        "size": 13050137,
+        "sha256": "ccfe54a7bc730fac158f4c8182f41e854739d2b54f942a4f61e0c9ab2d7cae3d",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/red-dead-redemption-2-v1.0/red-dead-redemption-2-1.0.mfp",
+          "size": 13050361,
+          "sha256": "c80e9048312e581ff18d39437f98dca5f0936cdb2053938fa4ede422904dc326"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "star-wars-zero-company",
       "gameName": "STAR WARS Zero Company™",
@@ -88,8 +132,6 @@
       "title": "Türkçe Yama",
       "version": "1.0",
       "tier": "pro",
-      "freeUntil": "2026-11-25T16:00:21.9460292Z",
-      "freeKey": "ZpeJpwhleY2Q1d8GRI+oTdwJJxSPssOzpgwoqDSqV8I=",
       "cover": null,
       "hero": null,
       "color": "#26352C",
