@@ -1,6 +1,48 @@
 {
-  "catalogVersion": 255,
+  "catalogVersion": 256,
   "patches": [
+    {
+      "id": "rekindled",
+      "gameName": "Rekindled",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Rekindled, farklı özelliklere sahip bir kooperatif taverna oyunudur; stres yoktur! Kendi hızınızda yem toplayın, balık tutun, yetiştirin ve pişirin, ardından müşterilerinizi ağırlamadan önce yemeklerinizi ve tavernanızı süsleyin.",
+      "genres": [
+        "Macera",
+        "Simülasyon",
+        "İnşa etme",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-25",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 4156500
+      },
+      "package": {
+        "url": null,
+        "size": 842240,
+        "sha256": "7c13a34e46bc32e29b251f01a38409e4dbbe08c6cc70bd094bd97a709376846d",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/rekindled-v1.0/rekindled-1.0.mfp",
+          "size": 842272,
+          "sha256": "deab1482382da1a988dc44d70470f250a99e296ad823c46f9f4785baf9a733fe"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "red-dead-redemption-2",
       "gameName": "Red Dead Redemption 2",
