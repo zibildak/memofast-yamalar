@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 258,
+  "catalogVersion": 259,
   "patches": [
     {
       "id": "for-honor",
@@ -5634,7 +5634,7 @@
       "id": "aniimo",
       "gameName": "Aniimo",
       "title": "Türkçe Yama",
-      "version": "1.10",
+      "version": "1.11",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -5649,7 +5649,7 @@
         "Çok oyunculu"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-11-13",
+      "updatedAt": "2026-11-26",
       "comingSoon": false,
       "changelog": [
         {
@@ -5671,12 +5671,12 @@
       },
       "package": {
         "url": null,
-        "size": 3828153,
-        "sha256": "f6da097e0b91ed1ba623d78d0c7f8162c378b6544967cce8229b93d0e8ec5b2a",
+        "size": 3893135,
+        "sha256": "53771be505e602d17e404c2981be782bf07b2c29e6b6793f9d1a1879437bf175",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-v1.10/aniimo-1.10.mfp",
-          "size": 3828233,
-          "sha256": "5331b0751701df3c47c2eed86d97787a3dd3a996bdd16b0049e205c6050b715d"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/aniimo-v1.11/aniimo-1.11.mfp",
+          "size": 3893215,
+          "sha256": "3c7506023d9b40cf233f8817a0bd0fb28470b25e0f36df23884e77f8bbfef2a5"
         }
       },
       "installer": {
