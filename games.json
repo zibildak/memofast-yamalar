@@ -1,6 +1,48 @@
 {
-  "catalogVersion": 257,
+  "catalogVersion": 258,
   "patches": [
+    {
+      "id": "for-honor",
+      "gameName": "FOR HONOR",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "For Honor; Şövalyeler, Samuraylar, Vikingler, Wu Lin ve çok daha fazlasının bitmek bilmeyen savaşlarda çatıştığı, çığır açan takım tabanlı bir PvP yakın dövüş oyunudur. Benzersiz kahramanlar seçin ve amansız 4v4, 2v2 veya 1v1 savaşlarda ustalaşın.",
+      "genres": [
+        "Aksiyon",
+        "Strateji",
+        "Dövüş",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-26",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 304390
+      },
+      "package": {
+        "url": null,
+        "size": 40251362,
+        "sha256": "aa953493079324829caa9feaa7677f11af174cceec8f416f2d1578e2fd6eb9f0",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/for-honor-v1.0/for-honor-1.0.mfp",
+          "size": 40252002,
+          "sha256": "035fa2dd35ac0c01a65b6b16c58f26457f5d3de69a6a42cd107e44170285c662"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "rekindled",
       "gameName": "Rekindled",
