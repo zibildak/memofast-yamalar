@@ -1,6 +1,44 @@
 {
-  "catalogVersion": 263,
+  "catalogVersion": 264,
   "patches": [
+    {
+      "id": "gta-6",
+      "gameName": "GTA 6 (Grand Theft Auto VI)",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "free",
+      "cover": "patches/gta-6/cover-2b4dcefedf.jpg",
+      "hero": "patches/gta-6/hero-a31bdfacb6.jpg",
+      "color": "#3B2650",
+      "description": "GTA 6 Türkçe yama hazırlanıyor! Grand Theft Auto VI için Türkçe altyazı ve arayüz çevirisi MemoFast Launcher'da tek tıkla kurulabilecek. GTA 6 bilgisayara çıktığında Türkçe yamayı buradan indirip kurabileceksin; yakında listesine eklendi, yama yayına girdiğinde launcher sana bildirim gönderir. GTA 6 Türkçe oynamak isteyenler için takipte kal.",
+      "about": "Grand Theft Auto VI (GTA 6), Rockstar Games'in efsanevi GTA serisinin yeni oyunu. Hikâye, Vice City'nin de yer aldığı güneşli Leonida eyaletinde geçiyor ve Jason ile Lucia'nın suç dünyasındaki yolculuğunu anlatıyor. Geniş açık dünyada araç kullanabilir, soygun yapabilir, şehri ve bataklıkları keşfedebilirsin. GTA 6 şu an PS5 ve Xbox Series X|S için çıktı; PC sürümü geldiğinde Türkçe yama MemoFast Launcher'da olacak.",
+      "genres": [
+        "Aksiyon",
+        "Açık dünya",
+        "Macera",
+        "Hikâye odaklı"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-27",
+      "comingSoon": true,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": null
+      },
+      "package": {
+        "url": null,
+        "size": 0,
+        "sha256": "",
+        "sealed": null
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "convrgence",
       "gameName": "CONVRGENCE",
