@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 261,
+  "catalogVersion": 262,
   "patches": [
     {
       "id": "for-honor",
@@ -5697,7 +5697,7 @@
       "id": "where-winds-meet",
       "gameName": "Where Winds Meet",
       "title": "Türkçe Yama",
-      "version": "1.4",
+      "version": "1.5",
       "tier": "pro",
       "cover": null,
       "hero": null,
@@ -5713,7 +5713,7 @@
         "Çok oyunculu"
       ],
       "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
-      "updatedAt": "2026-10-20",
+      "updatedAt": "2026-11-27",
       "comingSoon": false,
       "changelog": [
         {
@@ -5735,12 +5735,12 @@
       },
       "package": {
         "url": null,
-        "size": 172137240,
-        "sha256": "79fb453a53183fe9d0e9c687d967f9ff271dce57ab4f993b3c38c1432a70af8b",
+        "size": 512617839,
+        "sha256": "3d3ef764bb88f0454b248e692487388b2c81aaaa9818ad82bea65375bb1cd1fc",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/where-winds-meet-v1.4/where-winds-meet-1.4.mfp",
-          "size": 172139896,
-          "sha256": "46b8bd3abce6d0d47e9c4c905cb715944347c032afab30215d117a81a9188175"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/where-winds-meet-v1.5/where-winds-meet-1.5.mfp",
+          "size": 512625679,
+          "sha256": "e8ecc94db16fca7479cd92033734beb3a7147b50696403c23c2f6d85cd1e0439"
         }
       },
       "installer": null,
