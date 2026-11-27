@@ -1,6 +1,53 @@
 {
-  "catalogVersion": 262,
+  "catalogVersion": 263,
   "patches": [
+    {
+      "id": "convrgence",
+      "gameName": "CONVRGENCE",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "CONVRGENCE, prosedürel olarak oluşturulan ve sürekli değişen Chernokamensk Anomali Bölgesi'nde geçen atmosferik bir VR kaçış nişancı oyunudur. Yağma yapın, haydutlarla savaşın ve mistik eserleri arayın; tüm bunları sadık köpek dostunuz yanınızdayken yapın. Ancak gece çökmeden önce bölgeden çıkın, yoksa karanlıkta gizlenen şeylerle yüzleşmek zorunda kalırsınız.",
+      "genres": [
+        "Korku",
+        "Hayatta kalma",
+        "Nişancı"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-27",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Oyun dosyasına işlenir",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 2609610
+      },
+      "package": {
+        "url": null,
+        "size": 22218484,
+        "sha256": "3c337b84ca376beb0673176b53d5fbaf1b0be1e99ceb21a0066bfdccbaca1a42",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/convrgence-v1.0/convrgence-1.0.mfp",
+          "size": 22218852,
+          "sha256": "73d27cd911b1f58b4a1b17e32ce66ba8ffb15849ffb459728853a80525605775"
+        }
+      },
+      "installer": {
+        "script": "kur.ps1",
+        "installArgs": "-Mode kur -Oyun \"{oyun}\"",
+        "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
+        "env": {},
+        "watchFiles": []
+      },
+      "mobile": null
+    },
     {
       "id": "for-honor",
       "gameName": "FOR HONOR",
