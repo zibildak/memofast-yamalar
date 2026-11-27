@@ -1,6 +1,45 @@
 {
-  "catalogVersion": 264,
+  "catalogVersion": 265,
   "patches": [
+    {
+      "id": "our-life-now-forever",
+      "gameName": "Our Life Now & Forever",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Bir kâğıt uçak, iki yeni komşu, dört sonbahar ve türünün tek örneği bir hayat. Çocukluktan yetişkinliğe geçişinizi anlatan, neredeyse tamamen kişiselleştirilebilir ve seçimlerle dolu bu hikâyede tamamen size özel bir deneyim yaratın.",
+      "genres": [
+        "Hikâye odaklı"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-27",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 1622130
+      },
+      "package": {
+        "url": null,
+        "size": 11193781,
+        "sha256": "56a711dbfff4b116cafdc7eff49fc440b15dbd736c75b079a389061e25fd58b5",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/our-life-now-forever-v1.0/our-life-now-forever-1.0.mfp",
+          "size": 11193973,
+          "sha256": "afa8c8a0e6ab8a7e68edfcdf8ddbf23da3251cadcf3de8f8ad3ee7171a51267e"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "gta-6",
       "gameName": "GTA 6 (Grand Theft Auto VI)",
