@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 260,
+  "catalogVersion": 261,
   "patches": [
     {
       "id": "for-honor",
@@ -529,13 +529,13 @@
     {
       "id": "soulframe-dublaj",
       "gameName": "Soulframe",
-      "title": "Türkçe Dublaj",
-      "version": "1.1",
+      "title": "Türkçe Yama",
+      "version": "1.2",
       "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
-      "description": "Soulframeyi Türkçe Dublaj oynayabilirsiniz, 6 ana karakterin 650 diyoloğu dublajlanmıştır, uygulama bir testtir lütfen fikrinizi youtube videosu altına yorum olarak yazın.",
+      "description": "Soulframeyi Türkçe Dublaj oynayabilirsiniz, npc ler de dahil tüm oyun türkçe dublaj yapılmıştır",
       "about": "Warframe'in yaratıcılarından yeni bir Fantastik Aksiyon RPG'si doğuyor. Dünyayı kasıp kavuran bir yozlaşmaya karşı mücadele ederken kılıç, yay ve büyüyle efsanenizi yaratın.",
       "genres": [
         "Aksiyon",
@@ -545,13 +545,14 @@
         "Souls-like",
         "Çok oyunculu"
       ],
-      "warning": "Dublaj oyun dosyalarını değiştirmez; launcher arka planda açık kalmalıdır. Replik tanıma gürültülü sahnelerde 1-3 sn gecikebilir.",
-      "updatedAt": "2026-11-20",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-27",
       "comingSoon": false,
       "changelog": [],
       "info": {
-        "Kurulum": "Launcher içinde (oyun dosyası değişmez)",
-        "Seslendirme": "MemoFast ekibi"
+        "Kurulum": "Oyun dosyasına işlenir",
+        "Seslendirme": "MemoFast ekibi",
+        "Çeviren": "MemoFast ekibi"
       },
       "detect": {
         "mustExist": [],
@@ -562,23 +563,22 @@
       },
       "package": {
         "url": null,
-        "size": 87428033,
-        "sha256": "0c4fa1db313b3cb9a6d94a8538dc5b3ec0b69ec3fd29327b2699e376c34f6612",
+        "size": 86806638,
+        "sha256": "4166c98c5cbdb09da24b8bdf93d83219438d19c52416ac10e4be6db3967e9e47",
         "sealed": {
-          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/soulframe-dublaj-v1.1/soulframe-dublaj-1.1.mfp",
-          "size": 87429393,
-          "sha256": "3f5ce27742c918add17bd2a663daaf3d5c3d682ceea0c3c81e68622a6e185a99"
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/soulframe-dublaj-v1.2/soulframe-dublaj-1.2.mfp",
+          "size": 86807982,
+          "sha256": "513ea69e7dbcbde629aa75e14f797b31c3cfebe10314be90892ce4d23d8dbf9d"
         }
       },
       "installer": {
         "script": "kur.ps1",
-        "installArgs": "",
-        "uninstallArgs": "",
+        "installArgs": "-Mode kur -Oyun \"{oyun}\"",
+        "uninstallArgs": "-Mode kaldir -Oyun \"{oyun}\"",
         "env": {},
         "watchFiles": []
       },
-      "mobile": null,
-      "kind": "dublaj"
+      "mobile": null
     },
     {
       "id": "toto-s-journey",
