@@ -1,6 +1,47 @@
 {
-  "catalogVersion": 266,
+  "catalogVersion": 267,
   "patches": [
+    {
+      "id": "arkheron",
+      "gameName": "Arkheron",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "",
+      "about": "Arkheron, öğelerin ustalaşılacak güçlü yetenekler kazandırdığı hızlı tempolu, takım tabanlı bir PvP oyunudur. Kule'ye tırmanırken rakip takımları beceri ve yaratıcılıkla alt etmek için bunları birleştirin. Her koşu sizi uyum sağlamaya, hayatta kalmaya ve yeni kombinasyonlarda ustalaşmaya zorluyor.",
+      "genres": [
+        "Aksiyon",
+        "RPG",
+        "Çok oyunculu"
+      ],
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
+      "updatedAt": "2026-11-28",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": 3333850
+      },
+      "package": {
+        "url": null,
+        "size": 658088,
+        "sha256": "5dbd2a4528533e6e8f70f4b4959931b36959fcc26e5e966d0d734cd8de773eac",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-yamalar/releases/download/arkheron-v1.0/arkheron-1.0.mfp",
+          "size": 658120,
+          "sha256": "cf3020183b6989385c9880aad4fc1b23edfa16f34e185add0b6dd4a309724e7c"
+        }
+      },
+      "installer": null,
+      "mobile": null
+    },
     {
       "id": "our-life-now-forever",
       "gameName": "Our Life Now & Forever",
