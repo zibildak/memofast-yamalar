@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 265,
+  "catalogVersion": 266,
   "patches": [
     {
       "id": "our-life-now-forever",
@@ -5333,7 +5333,7 @@
         "Hikâye odaklı",
         "Anime"
       ],
-      "warning": "",
+      "warning": "Bu yama orijinal oyuna sadık kalınarak hazırlandı; tüm ayrıntılar özenle ölçülüp oyuna uyumlu şekilde entegre edildi. Orijinal dosyalar yedeklenir, istediğin an tek tıkla geri alınır. Yine de her koşulda garanti verilemez; online oyunlarda hesap kısıtlaması (ban) riski olabilir.",
       "updatedAt": "2026-09-30",
       "comingSoon": false,
       "changelog": [],
